@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: beer brewing -->
-  <Brewing.label>ölbryggning</Brewing.label>
+  <Brewing.label>bryggning</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>Bygg ett bryggeri och bryggerifat för att förvandla humle till välsmakande, gott öl.</Brewing.description>
+  <Brewing.description>Ger möjlighet för dig att bygga ett bryggeri som omvandlar humle till välsmakande, gott öl.</Brewing.description>
   
   <!-- EN: carpet making -->
   <CarpetMaking.label>mattvävning</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
-  <CarpetMaking.description>Väv vackra mattor av bommul.</CarpetMaking.description>
+  <CarpetMaking.description>Gör det möjligt för kolonister att väva mattor för att öka kvaliteten på deras omgivning.</CarpetMaking.description>
   
   <!-- EN: cocoa -->
   <Cocoa.label>kakao</Cocoa.label>
@@ -17,9 +17,9 @@
   <Cocoa.description>Så kakaoträd för att skapa din egen läckra choklad. Att äta choklad tillfredställer behovet av fritid, och den är värdefull på marknaden också. </Cocoa.description>
   
   <!-- EN: complex clothing -->
-  <ComplexClothing.label>komplicerade kläder</ComplexClothing.label>
+  <ComplexClothing.label>avancerade kläder</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>Sy mer komplicerade kläder såsom byxor, överrockar och cowboyhattar.</ComplexClothing.description>
+  <ComplexClothing.description>Sy avancerade kläder såsom byxor, överrockar och cowboyhattar.</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
   <ComplexFurniture.label>komplicerade möbler</ComplexFurniture.label>
@@ -27,14 +27,14 @@
   <ComplexFurniture.description>Byggmer komplicerade möbler såsom sängar, nattuksbord, matstolar, fotöljer, byråer, verktygsskåp, biljardbord, pokerbord, ventiler sarkofager m.m.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
-  <Devilstrand.label>djävulsfiber</Devilstrand.label>
+  <Devilstrand.label>djävulshår</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>Plantera djävulsfiber, en långsmat växande svamp som ger exeptionellt tåliga och värmeresistenta växtfibrer.</Devilstrand.description>
+  <Devilstrand.description>Ger möjlighet för kolonister att plantera djävulshår, en långsmat växande svamp som ger värdefulla växtfibrer.</Devilstrand.description>
   
   <!-- EN: drug production -->
   <DrugProduction.label>drogtillverkning</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>Bygg ett läkemedelslabb för grundläggande läkemedelstillverkniing. Mer forskning krävs för att tillverka specifika läkemedel.</DrugProduction.description>
+  <DrugProduction.description>Grunden till förberedelse och syntes av droger. Tillåter att bygga ett droglabb. Fortsatt forskning behövs för att tillverka mer specifika droger.</DrugProduction.description>
   
   <!-- EN: go-juice production -->
   <GoJuiceProduction.label>gå-juice tillverkning</GoJuiceProduction.label>
@@ -54,16 +54,16 @@
   <!-- EN: passive cooler -->
   <PassiveCooler.label>passiv kylare</PassiveCooler.label>
   <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
-  <PassiveCooler.description>Gör passiva kylare för att kyla ned ytor utan användning av elekticitet.</PassiveCooler.description>
+  <PassiveCooler.description>Gör passiv kylare, ett sätt att kyla utrymmen inomhus utan att använda sig av elekticitet.</PassiveCooler.description>
   
   <!-- EN: pemmican -->
   <Pemmican.label>pemmikan</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>tilllaga pemmikan, en konserverad blandning av kött och växter som håller under lång tid. Utmärkt som färdkost.</Pemmican.description>
+  <Pemmican.description>Laga pemmikan, en bevarad blandning av kött och växter som håller sig ifrån att bli dålig länge. Utmärkt resemat.</Pemmican.description>
   
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>penoxycyline tillverkning</PenoxycylineProduction.label>
-  <!-- EN: Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
   <PenoxycylineProduction.description>Lär dig att tillverka penoxycyline, ett sjukdomsförebyggande läkemedel som förhindrar malaria .</PenoxycylineProduction.description>
   
   <!-- EN: plate armor -->
@@ -89,12 +89,12 @@
   <!-- EN: smithing -->
   <Smithing.label>smide</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
-  <Smithing.description>Bygg smedjor för att tillverka vapen såsom knivar, gladii och spikklubbor.</Smithing.description>
+  <Smithing.description>Bygg en smedja för att tillverka vapen och verktyg.</Smithing.description>
   
   <!-- EN: stonecutting -->
   <Stonecutting.label>stenhuggning</Stonecutting.label>
   <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
-  <Stonecutting.description>Hugg stenblock till mursten att använda vid konstruktion. Lägg vackra stengolv eller fula gångbanor av betong.</Stonecutting.description>
+  <Stonecutting.description>Bygg stenhuggningsbord, vilka gör det möjligt att hugga stenbitar till stenblock, som kan användas till konstruktion.</Stonecutting.description>
   
   <!-- EN: tree sowing -->
   <TreeSowing.label>trädplantering</TreeSowing.label>

@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: Ability -->
+  <Ability.label>TODO</Ability.label>
+  
   <!-- EN: Apparel -->
   <Apparel.label>Kläder</Apparel.label>
   
@@ -8,16 +11,40 @@
   <Basics.label>Grund</Basics.label>
   
   <!-- EN: Basics -->
+  <BasicsImportant.label>TODO</BasicsImportant.label>
+  
+  <!-- EN: Basics -->
   <BasicsNonPawn.label>Grund</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
   
   <!-- EN: Basics -->
   <BasicsPawn.label>Grund</BasicsPawn.label>
   
+  <!-- EN: Basics -->
+  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
+  
   <!-- EN: Building -->
   <Building.label>Byggnation</Building.label>
   
+  <!-- EN: effects -->
+  <CapacityEffects.label>TODO</CapacityEffects.label>
+  
+  <!-- EN: Drug -->
+  <Drug.label>TODO</Drug.label>
+  
+  <!-- EN: drug addiction -->
+  <DrugAddiction.label>TODO</DrugAddiction.label>
+  
   <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Offsets när utrustad</EquippedStatOffsets.label>
+  
+  <!-- EN: Implant -->
+  <Implant.label>TODO</Implant.label>
+  
+  <!-- EN: Meditation -->
+  <Meditation.label>TODO</Meditation.label>
   
   <!-- EN: Combat -->
   <PawnCombat.label>Strid</PawnCombat.label>

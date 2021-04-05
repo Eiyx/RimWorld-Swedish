@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: AI persona core -->
+  <!-- EN: persona core -->
   <AIPersonaCore.label>AI-personkärna</AIPersonaCore.label>
-  <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent AI persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
+  <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
   <AIPersonaCore.description>En hyperavancerad datorkärna som innehåller en övermänsklig artificiell intelligens. I dess isolerade tillstånd är kärnan inaktiv. Installerad i en ordentlig stödstruktur däremot, kan den bli ett sinne med skrämmande kraft.</AIPersonaCore.description>
   
   <!-- EN: elephant tusk -->
@@ -22,11 +22,9 @@
   <!-- EN: Use healer mech serum -->
   <MechSerumHealer.comps.CompUsable.useLabel>Använd helande mekanitserum</MechSerumHealer.comps.CompUsable.useLabel>
   
-  <!-- EN: neurotrainer mech serum -->
+  <!-- UNUSED -->
   <MechSerumNeurotrainer.label>mekanitserum för neuroträning</MechSerumNeurotrainer.label>
-  <!-- EN: A one-use super-dose of mechanites tuned to train a specific skill. The dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <MechSerumNeurotrainer.description>En engångsdos av jättekarraktär bestående av mekaniter inställda på att träna upp en specifik färdighet. dosen administreras genom ögonhålan. När de släppts ut och når hjärnan är mekaniterna snabba på att förbättra personens färdighet inom ett visst område och förvandlar sig själva till neuroner i den mån det behövs.</MechSerumNeurotrainer.description>
-  <!-- EN: Use neurotrainer mech serum to learn {0} -->
   <MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>Använd mekanitserum för inlärning av {0}</MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>
   
   <!-- EN: resurrector mech serum -->

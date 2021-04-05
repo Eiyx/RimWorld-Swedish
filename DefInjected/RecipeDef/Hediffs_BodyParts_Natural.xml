@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install heart -->
+  <InstallNaturalHeart.label>transplantera hjärta</InstallNaturalHeart.label>
+  <!-- EN: Install a biological heart. -->
+  <InstallNaturalHeart.description>Transplantera ett biologiskt hjärta.</InstallNaturalHeart.description>
+  <!-- EN: Installing heart. -->
+  <InstallNaturalHeart.jobString>Transplanterar hjärta.</InstallNaturalHeart.jobString>
+  
+  <!-- EN: install kidney -->
+  <InstallNaturalKidney.label>transplantera njure</InstallNaturalKidney.label>
+  <!-- EN: Install a biological kidney. -->
+  <InstallNaturalKidney.description>Transplantera en biologisk njure.</InstallNaturalKidney.description>
+  <!-- EN: Installing kidney. -->
+  <InstallNaturalKidney.jobString>Transplanterar njure.</InstallNaturalKidney.jobString>
+  
+  <!-- EN: install liver -->
+  <InstallNaturalLiver.label>transplantera lever</InstallNaturalLiver.label>
+  <!-- EN: Install a biological liver. -->
+  <InstallNaturalLiver.description>Transplantera en biologisk lever.</InstallNaturalLiver.description>
+  <!-- EN: Installing liver. -->
+  <InstallNaturalLiver.jobString>Transplanterar lever.</InstallNaturalLiver.jobString>
+  
+  <!-- EN: install lung -->
+  <InstallNaturalLung.label>transplantera lunga</InstallNaturalLung.label>
+  <!-- EN: Install a lung. -->
+  <InstallNaturalLung.description>Transplantera en biologisk lunga.</InstallNaturalLung.description>
+  <!-- EN: Installing lung. -->
+  <InstallNaturalLung.jobString>Transplanterar lunga.</InstallNaturalLung.jobString>
+  
+</LanguageData>

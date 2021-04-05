@@ -3,7 +3,7 @@
   
   <!-- EN: beauty -->
   <Beauty.label>skönhet</Beauty.label>
-  <!-- EN: How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
+  <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
   <Beauty.description>Hur angenämnt ett föremål är att titta på. Vackra föremål tillfredställer karaktärers behov av skönhet.</Beauty.description>
   
   <!-- EN: cleanliness -->
@@ -13,12 +13,12 @@
   
   <!-- EN: comfort -->
   <Comfort.label>komfort</Comfort.label>
-  <!-- EN: How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort. -->
+  <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
   <Comfort.description>Hur bekvämt ett föremål är att sitta eller ligga på. Att använda konfortabla föremål tillfredställer karaktärers behov av komfort.</Comfort.description>
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>försämringsgrad</DeteriorationRate.label>
-  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
   <DeteriorationRate.description>I vilken hastighet detta föremål försämras om det lämnas utomhus i genomsnittsvärde per dag. Försämringsgraden påverkas även av andra saker såsom väder, tak, giftigt nedfall eller om det lämnas i grunt vatten.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / dag</DeteriorationRate.formatString>
@@ -32,13 +32,17 @@
   <FoodPoisonChanceFixedHuman.label>chans för matförgiftning</FoodPoisonChanceFixedHuman.label>
   <!-- EN: The chance this food will cause food poisoning. -->
   <FoodPoisonChanceFixedHuman.description>Chansen att denna mat orsakar matförgiftning.</FoodPoisonChanceFixedHuman.description>
+  <!-- EN: food poison chance (food stat) -->
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
   <MarketValue.label>marknadsvärde</MarketValue.label>
-  <!-- EN: The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
   <MarketValue.description>Marknadsvärdet för ett föremål. Det faktiska försäljingspriset kommer justeras i relation till skicklighet i förhandling, relationsstatus och andra kontextuella faktorer.</MarketValue.description>
-  <!-- EN: ${0} -->
   <MarketValue.formatString>{0} kr</MarketValue.formatString>
+  
+  <!-- EN: market value ignoring hitpoints -->
+  <MarketValueIgnoreHp.label>TODO</MarketValueIgnoreHp.label>
   
   <!-- EN: mass -->
   <Mass.label>vikt</Mass.label>
@@ -49,13 +53,18 @@
   
   <!-- EN: max hit points -->
   <MaxHitPoints.label>max träffpoäng</MaxHitPoints.label>
-  <!-- EN: The maximum hit points of an object. This represents how much damage it can take before being destroyed. -->
+  <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
   <MaxHitPoints.description>Det maximala antalet träffpoäng ett föremål har. Detta representerar hur mycket skada det kan ta innan det förstörs.</MaxHitPoints.description>
   
   <!-- EN: nutrition -->
   <Nutrition.label>näring</Nutrition.label>
   <!-- EN: How nutritious this food is. -->
   <Nutrition.description>Hur näringsrik denna mat är.</Nutrition.description>
+  
+  <!-- EN: honor value -->
+  <RoyalFavorValue.label>TODO</RoyalFavorValue.label>
+  <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
+  <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
   <SellPriceFactor.label>försäljningsprismultiplikator</SellPriceFactor.label>
@@ -64,8 +73,10 @@
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyTurret.label>träffsäkerhet</ShootingAccuracyTurret.label>
-  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyTurret.description>Chansen att inte missa i distans per ruta. Chansen att träffa påverkas även av många andra faktorer. En förklaring av träffchans för varje skott kan ses genom att markera en skytt och hålla muspekaren över målet.</ShootingAccuracyTurret.description>
+  <!-- EN: shooting accuracy (turrets) -->
+  <ShootingAccuracyTurret.labelForFullStatList>TODO</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
   <WorkToMake.label>arbetsinsats</WorkToMake.label>

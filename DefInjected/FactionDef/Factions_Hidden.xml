@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: ancients -->
+  <!-- EN: neutral ancients -->
   <Ancients.label>Uråldriga</Ancients.label>
   <Ancients.description>Människor från en uråldrig civilisation.</Ancients.description>
   <!-- EN: Ancients -->
@@ -11,7 +11,7 @@
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>uråldriga</Ancients.pawnsPlural>
   
-  <!-- EN: ancients -->
+  <!-- EN: hostile ancients -->
   <AncientsHostile.label>uråldriga</AncientsHostile.label>
   <AncientsHostile.description>Människor från en uråldrig civilisation.</AncientsHostile.description>
   <!-- EN: Ancients -->
@@ -24,7 +24,7 @@
   <!-- EN: insects -->
   <Insect.label>Insekter</Insect.label>
   <Insect.description>Valigtvis agressiva och påträngande insekter.</Insect.description>
-  <!-- EN: insects -->
+  <!-- EN: Sorne Geneline -->
   <Insect.fixedName>Insekter</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>Insekt</Insect.pawnSingular>
@@ -34,7 +34,6 @@
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>Mekanoidisk svärm</Mechanoid.label>
   <Mechanoid.description>En svärm av uråldriga, sjävreproducerande robotar.</Mechanoid.description>
-  <!-- EN: a mechanoid hive -->
   <Mechanoid.fixedName>En svärm mekanoider</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>mekanoid</Mechanoid.pawnSingular>

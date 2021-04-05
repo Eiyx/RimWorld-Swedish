@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: administer healer mech serum -->
-  <AdministerMechSerumHealer.label>administrera läkande mekanitserum</AdministerMechSerumHealer.label>
-  <!-- EN: Administer a healer mech serum. -->
-  <AdministerMechSerumHealer.description>Administrera ett läkande mekanitserum.</AdministerMechSerumHealer.description>
-  <!-- EN: Administering healer mech serum. -->
-  <AdministerMechSerumHealer.jobString>Administrerar läkande mekanitserum.</AdministerMechSerumHealer.jobString>
-  
   <!-- EN: anesthetize -->
   <Anesthetize.label>söva</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
@@ -21,15 +14,6 @@
   <Euthanize.description>Avlivar en varelse genom ett snitt.</Euthanize.description>
   <!-- EN: Euthanizing by cutting. -->
   <Euthanize.jobString>Avlivar genom ett snitt.</Euthanize.jobString>
-  
-  <!-- EN: excise carcinoma -->
-  <ExciseCarcinoma.label>avlägsna karcinom</ExciseCarcinoma.label>
-  <!-- EN: Excise a carcinoma. -->
-  <ExciseCarcinoma.description>avlägsnar ett karcinom.</ExciseCarcinoma.description>
-  <!-- EN: Excising carcinoma. -->
-  <ExciseCarcinoma.jobString>avlägsnar karcinom.</ExciseCarcinoma.jobString>
-  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} har lyckats avlägsna {1}s karcinom.</ExciseCarcinoma.successfullyRemovedHediffMessage>
   
   <!-- EN: remove part -->
   <RemoveBodyPart.label>avlägsna del</RemoveBodyPart.label>

@@ -37,36 +37,6 @@
     <li>desc_pawn->looking [AdjectiveAny]</li>
     <li>desc_pawn->covered in [Gore]</li>
   -->
-  <TalelessImages.rulePack.rulesStrings>
-    <li>image->en [outlander] omgiven av [outlander]</li>
-    <li>image->en [outlander] spelar [game] med [quantity_adjphrase] [outlander]</li>
-    <li>image->en [outlander] [subject_desc] som håller ett [weapon]</li>
-    <li>image->en ensam [outlander]</li>
-    <li>image->en [adjective] [outlander] bär på en [apparel]</li>
-    <li>image->en [outlander] ätandes [vegetable]</li>
-    <li>image->[quantity_adjphrase] [outlander] och [outlander] ätandes [vegetable] tillsammas</li>
-    <li>image->en tom [apparel] [subject_desc]</li>
-    <li>image->en [adjective] [terrainfeature]</li>
-    <li>image->[animal] som spelar [game]</li>
-    <li>image->en [animal] som bär [apparel] [subject_desc]</li>
-    <li>image->en [terrainfeature]</li>
-    <li>image->en abstrakt avbildning av [concept]</li>
-    <li>image->en [community]</li>
-    <li>image->ett [weapon]</li>
-    <li>image->[quantity_adjphrase] [weapon]</li>
-    <li>image->[quantity_adjphrase] [vegetable]</li>
-    <li>image->en mindre kändis [personname] [subject_desc]</li>
-    <li>image->en [animal] bärandes [apparel] av en [outlander]</li>
-    <li>subject_desc->flyger genom luften</li>
-    <li>subject_desc->upphängd i luften</li>
-    <li>subject_desc->står på marken</li>
-    <li>subject_desc->rör sig till vänster</li>
-    <li>subject_desc->rör sig till höger</li>
-    <li>subject_desc->sitter på ett bord</li>
-    <li>subject_desc->sedd genom ett forstoringsglas</li>
-    <li>subject_desc->återgiven i en silhuett</li>
-    <li>subject_desc->ridande på en [animal] bärandes [apparel]</li>
-    <li>subject_desc->tittar [adjective]</li>
-  </TalelessImages.rulePack.rulesStrings>
+  <TalelessImages.rulePack.rulesStrings>TODO</TalelessImages.rulePack.rulesStrings>
   
 </LanguageData>

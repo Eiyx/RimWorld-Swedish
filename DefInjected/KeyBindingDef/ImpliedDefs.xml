@@ -10,7 +10,7 @@
   <!-- EN: Toggle tilldela tab -->
   <MainTab_Assign.label>Skifta tilldelningsaflik</MainTab_Assign.label>
   
-  <!-- EN: Toggle fraktioner tab -->
+  <!-- UNUSED -->
   <MainTab_Factions.label>Skifta fraktionsflik</MainTab_Factions.label>
   
   <!-- EN: Toggle historia tab -->

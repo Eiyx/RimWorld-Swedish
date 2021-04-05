@@ -32,7 +32,7 @@
   <AbandonAllTip>Överge (allt)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Övergivna föremål går aldrig att få tillbaka.</AbandonItemTipExtraText>
-  <!-- EN: {0} will most likely die. -->
+  <!-- EN: {1_labelShort} will most likely die. -->
   <BanishTipWillDie>{0} kommer sannolikt att dö.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
@@ -46,7 +46,7 @@
   <OpenSpecificTabButtonTip>Klicka för att öppna en flik med mer information.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
   <CaravanPrisoners>Fångar</CaravanPrisoners>
-  <!-- EN: Inventory -->
+  <!-- EN: Equippable items -->
   <CaravanWeaponsAndApparel>Packning</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
   <NoneCapable>Ingen är kapabel</NoneCapable>

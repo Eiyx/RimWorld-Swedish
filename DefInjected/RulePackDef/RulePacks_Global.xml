@@ -50,9 +50,7 @@
     <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
     <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
   -->
-  <GlobalUtility.rulePack.rulesStrings>
-    <li>TODO</li>
-  </GlobalUtility.rulePack.rulesStrings>
+  <GlobalUtility.rulePack.rulesStrings>TODO</GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>

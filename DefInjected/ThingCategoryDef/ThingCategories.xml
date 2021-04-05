@@ -7,17 +7,44 @@
   <!-- EN: apparel -->
   <Apparel.label>kläder</Apparel.label>
   
+  <!-- EN: armor -->
+  <ApparelArmor.label>TODO</ApparelArmor.label>
+  
+  <!-- EN: noble apparel -->
+  <ApparelNoble.label>TODO</ApparelNoble.label>
+  
+  <!-- EN: utility -->
+  <ApparelUtility.label>TODO</ApparelUtility.label>
+  
+  <!-- EN: headgear -->
+  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  
   <!-- EN: artifacts -->
   <Artifacts.label>artefakter</Artifacts.label>
   
   <!-- EN: body parts -->
   <BodyParts.label>kroppsdelar</BodyParts.label>
   
-  <!-- EN: artificial -->
+  <!-- EN: archotech -->
+  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  
+  <!-- UNUSED -->
   <BodyPartsArtificial.label>konstgjorda</BodyPartsArtificial.label>
+  
+  <!-- EN: bionic -->
+  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>naturliga</BodyPartsNatural.label>
+  
+  <!-- EN: prosthetic -->
+  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  
+  <!-- EN: simple parts -->
+  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  
+  <!-- EN: ultratech -->
+  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
   <Buildings.label>byggnader</Buildings.label>
@@ -91,6 +118,9 @@
   <!-- EN: headgear -->
   <Headgear.label>huvudbonader</Headgear.label>
   
+  <!-- EN: headgear -->
+  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  
   <!-- EN: items -->
   <Items.label>föremål</Items.label>
   
@@ -108,6 +138,15 @@
   
   <!-- EN: mortar shells -->
   <MortarShells.label>pansarskott</MortarShells.label>
+  
+  <!-- EN: neurotrainers -->
+  <Neurotrainers.label>TODO</Neurotrainers.label>
+  
+  <!-- EN: psytrainers -->
+  <NeurotrainersPsycast.label>TODO</NeurotrainersPsycast.label>
+  
+  <!-- EN: skilltrainers -->
+  <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>vegetarisk</PlantFoodRaw.label>
@@ -127,6 +166,9 @@
   <!-- EN: stone chunks -->
   <StoneChunks.label>stenbitar</StoneChunks.label>
   
+  <!-- EN: techprints -->
+  <Techprints.label>TODO</Techprints.label>
+  
   <!-- EN: textiles -->
   <Textiles.label>textiler</Textiles.label>
   
@@ -138,6 +180,9 @@
   
   <!-- EN: melee weapons -->
   <WeaponsMelee.label>närstridsvapen</WeaponsMelee.label>
+  
+  <!-- EN: persona weapons -->
+  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>avståndsvapen</WeaponsRanged.label>

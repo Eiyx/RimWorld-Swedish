@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: applying TargetB. -->
+  <ApplyTechprint.reportString>TODO</ApplyTechprint.reportString>
+  
   <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>anfaller TargetA i närstrid.</AttackMelee.reportString>
   
@@ -9,6 +12,21 @@
   
   <!-- EN: beating fire out. -->
   <BeatFire.reportString>släcker eldsvåda.</BeatFire.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThing.reportString>TODO</CastAbilityOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>TODO</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>skottar snö.</ClearSnow.reportString>
@@ -51,6 +69,9 @@
   
   <!-- EN: moving. -->
   <Goto.reportString>går.</Goto.reportString>
+  
+  <!-- EN: moving. -->
+  <GotoMindControlled.reportString>TODO</GotoMindControlled.reportString>
   
   <!-- EN: seeking safe temperature. -->
   <GotoSafeTemperature.reportString>uppsöker säker temperatur.</GotoSafeTemperature.reportString>
@@ -103,6 +124,9 @@
   <!-- EN: refueling TargetA. -->
   <RefuelAtomic.reportString>fyller på TargetA.</RefuelAtomic.reportString>
   
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>TODO</Reload.reportString>
+  
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>tar av sig TargetA.</RemoveApparel.reportString>
   
@@ -118,7 +142,7 @@
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>tar en öl från TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
-  <!-- EN: taking TargetA. -->
+  <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>tar TargetA.</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
@@ -144,6 +168,9 @@
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>gör någonting.</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>kräks.</Vomit.reportString>

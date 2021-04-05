@@ -13,7 +13,7 @@
   
   <!-- EN: vanometric power cell -->
   <VanometricPowerCell.label>ometrisk energicell</VanometricPowerCell.label>
-  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotech AIs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
   <VanometricPowerCell.description>Genererar energi för evigt utan att använda bränsle. Denna teknologi är utvecklad av akrotek AIs och är främmande även för de flesta glittervärldarnas samhällen. Ingen vet exakt hur den fungerar men vissa vetenskapsmän tror att den på något sätt extraherar energi direkt från rörelser i kvantumskummet.</VanometricPowerCell.description>
   
 </LanguageData>

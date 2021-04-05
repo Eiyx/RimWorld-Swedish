@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>cochleaimplantat</CochlearImplant.label>
+  <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>Ett implantat som ersätter normal hörsel. En extern mikrofon överför en ljudsignal till elektroderna som lindas runt det inre örats hörselnerv. Elektroderna stimulerar nerverna och skapar därmed en känsla av att höra. Det är inte lika bra som ett naturligt öra, men det är mycket bättre än att vara döv.</CochlearImplant.description>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>glädjetråd</Joywire.label>
+  <!-- EN: A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
+  <Joywire.description>Ett hjärnimplantat som stimulerar hjärnans glädjecentrum. Även om det på ett dramatiskt sätt förbättrar en persons humör kommer den filt av glädje som skapas göra det svårt att koncentrera sig på verkligheten. Glädjetrådar är illegala i många världar och är kända för att förstöra hela kulturer.</Joywire.description>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>smärtstillare</Painstopper.label>
+  <!-- EN: A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
+  <Painstopper.description>Ett hjärnimplantat som hämmar smärtreceptorer eller upplevelse av smärta. Även om det tillåter användaren att prestera mer så visar det sig att smärta har ett syfte. När du inte känner den kan du skada dig riktigt illa väldigt lätt.</Painstopper.description>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>Kraftklo</PowerClaw.label>
+  <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainlyness slows down movement slightly. -->
+  <PowerClaw.description>En handprotes gjort för strid. Består av en mekanisk hand med en ond klo på varje finger. Den är elak i strid, och dess kraftfulla miniservos kan krossa en skalle som en naturlig hand krossar ett ägg. Bladen kan dras tillbaka vilket gör den lika användbar som en biologisk hand utanför strid.</PowerClaw.description>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>enkel armprotes</SimpleProstheticArm.label>
+  <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>En armprotes som saknar neural koppling, men dess komplexta arrangemang av inre leder kan skapa en rörelse som ser relativt naturlig ut. Sämre än en riktig arm.</SimpleProstheticArm.description>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>hjärtprotes</SimpleProstheticHeart.label>
+  <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>En hjärtprotes. Innehåller en elmotor som smidigt pumpar blod runt kroppen. Användare rapporterar ofta att de känner sig trötta, men det är bättre än alternativet.</SimpleProstheticHeart.description>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>enkel benprotes</SimpleProstheticLeg.label>
+  <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description> En benprotes som saknar neural koppling, men dess komplexta arrangemang av inre leder kan skapa en rörelse som ser relativt naturlig ut. Inte lika bra som ett riktigt ben.</SimpleProstheticLeg.description>
+  
+</LanguageData>

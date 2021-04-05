@@ -8,4 +8,7 @@
   <SpaceRefugee.label>rymdflykting</SpaceRefugee.label>
   <SpaceRefugee.labelPlural>rymdflyktingar</SpaceRefugee.labelPlural>
   
+  <!-- EN: space refugee -->
+  <SpaceRefugee_Clothed.label>TODO</SpaceRefugee_Clothed.label>
+  
 </LanguageData>

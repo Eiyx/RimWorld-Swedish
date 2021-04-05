@@ -48,276 +48,322 @@
   
   <!-- EN: Tillverka advancerad hjälm -->
   <Make_Apparel_AdvancedHelmet.label>Tillverka advancerad hjälm</Make_Apparel_AdvancedHelmet.label>
+  <!-- EN: Make en advancerad hjälm. -->
   <Make_Apparel_AdvancedHelmet.description>Tillverka advancerad hjälm.</Make_Apparel_AdvancedHelmet.description>
   <!-- EN: Tillverkar advancerad hjälm. -->
   <Make_Apparel_AdvancedHelmet.jobString>Tillverkar advancerad hjälm.</Make_Apparel_AdvancedHelmet.jobString>
   
   <!-- EN: Tillverka T-shirt -->
   <Make_Apparel_BasicShirt.label>sy en t-tröja</Make_Apparel_BasicShirt.label>
+  <!-- EN: Make en T-shirt. -->
   <Make_Apparel_BasicShirt.description>Sy en t-tröja</Make_Apparel_BasicShirt.description>
   <!-- EN: Tillverkar T-shirt. -->
   <Make_Apparel_BasicShirt.jobString>Syr en t-tröja.</Make_Apparel_BasicShirt.jobString>
   
   <!-- EN: Tillverka plommonstop -->
   <Make_Apparel_BowlerHat.label>Tillverka plommonstop</Make_Apparel_BowlerHat.label>
+  <!-- EN: Make en plommonstop. -->
   <Make_Apparel_BowlerHat.description>Tillverka plommonstop.</Make_Apparel_BowlerHat.description>
   <!-- EN: Tillverkar plommonstop. -->
   <Make_Apparel_BowlerHat.jobString>Tillverkar plommonstop.</Make_Apparel_BowlerHat.jobString>
   
   <!-- EN: Tillverka skjorta -->
   <Make_Apparel_CollarShirt.label>Sy skjorta</Make_Apparel_CollarShirt.label>
+  <!-- EN: Make en skjorta. -->
   <Make_Apparel_CollarShirt.description>Sy skjorta</Make_Apparel_CollarShirt.description>
   <!-- EN: Tillverkar skjorta. -->
   <Make_Apparel_CollarShirt.jobString>Syr en skjorta.</Make_Apparel_CollarShirt.jobString>
   
   <!-- EN: Tillverka cowboyhatt -->
   <Make_Apparel_CowboyHat.label>Sy cowboyhatt</Make_Apparel_CowboyHat.label>
+  <!-- EN: Make en cowboyhatt. -->
   <Make_Apparel_CowboyHat.description>Sy cowboyhatt</Make_Apparel_CowboyHat.description>
   <!-- EN: Tillverkar cowboyhatt. -->
   <Make_Apparel_CowboyHat.jobString>Syr cowboyhatt.</Make_Apparel_CowboyHat.jobString>
   
   <!-- EN: Tillverka jacka -->
   <Make_Apparel_Jacket.label>Sy en jacka</Make_Apparel_Jacket.label>
+  <!-- EN: Make en jacka. -->
   <Make_Apparel_Jacket.description>Sy en jacka</Make_Apparel_Jacket.description>
   <!-- EN: Tillverkar jacka. -->
   <Make_Apparel_Jacket.jobString>Syr en jacka.</Make_Apparel_Jacket.jobString>
   
   <!-- EN: Tillverka byxor -->
   <Make_Apparel_Pants.label>Sy byxor</Make_Apparel_Pants.label>
+  <!-- EN: Make en byxor. -->
   <Make_Apparel_Pants.description>Sy ett par byxor</Make_Apparel_Pants.description>
   <!-- EN: Tillverkar byxor. -->
   <Make_Apparel_Pants.jobString>Syr ett par byxor.</Make_Apparel_Pants.jobString>
   
   <!-- EN: Tillverka parka -->
   <Make_Apparel_Parka.label>sy parka</Make_Apparel_Parka.label>
+  <!-- EN: Make en parka. -->
   <Make_Apparel_Parka.description>Sy parka</Make_Apparel_Parka.description>
   <!-- EN: Tillverkar parka. -->
   <Make_Apparel_Parka.jobString>Syr en parka</Make_Apparel_Parka.jobString>
   
   <!-- EN: Tillverka marinsoldatsrustning -->
   <Make_Apparel_PowerArmor.label>Tillverka marinsoldatsrustning</Make_Apparel_PowerArmor.label>
+  <!-- EN: Make en marinsoldatsrustning. -->
   <Make_Apparel_PowerArmor.description>Tillverka marinsoldatsrustning</Make_Apparel_PowerArmor.description>
   <!-- EN: Tillverkar marinsoldatsrustning. -->
   <Make_Apparel_PowerArmor.jobString>Tillverkar marinsoldatsrustning.</Make_Apparel_PowerArmor.jobString>
   
   <!-- EN: Tillverka marinsoldatshjälm -->
   <Make_Apparel_PowerArmorHelmet.label>tillverka marinsoldathjälm</Make_Apparel_PowerArmorHelmet.label>
+  <!-- EN: Make en marinsoldatshjälm. -->
   <Make_Apparel_PowerArmorHelmet.description>Tillverka marinsoldathjälm</Make_Apparel_PowerArmorHelmet.description>
   <!-- EN: Tillverkar marinsoldatshjälm. -->
   <Make_Apparel_PowerArmorHelmet.jobString>Tillverkar en marinsoldathjälm.</Make_Apparel_PowerArmorHelmet.jobString>
   
   <!-- EN: Tillverka sköldbälte -->
   <Make_Apparel_ShieldBelt.label>Tillverka sköldbälte</Make_Apparel_ShieldBelt.label>
+  <!-- EN: Make en sköldbälte. -->
   <Make_Apparel_ShieldBelt.description>Tillverka sköldbälte.</Make_Apparel_ShieldBelt.description>
   <!-- EN: Tillverkar sköldbälte. -->
   <Make_Apparel_ShieldBelt.jobString>Tillverkar sköldbälte.</Make_Apparel_ShieldBelt.jobString>
   
   <!-- EN: Tillverka enkel hjälm -->
   <Make_Apparel_SimpleHelmet.label>Tillverka hjälm</Make_Apparel_SimpleHelmet.label>
+  <!-- EN: Make en enkel hjälm. -->
   <Make_Apparel_SimpleHelmet.description>Tillverka en hjälm.</Make_Apparel_SimpleHelmet.description>
   <!-- EN: Tillverkar enkel hjälm. -->
   <Make_Apparel_SimpleHelmet.jobString>Tillverkar en hjälm.</Make_Apparel_SimpleHelmet.jobString>
   
   <!-- EN: Tillverka rökskyddsbälte -->
   <Make_Apparel_SmokepopBelt.label>Tillverka ett rökskyddsbälte</Make_Apparel_SmokepopBelt.label>
+  <!-- EN: Make en rökskyddsbälte. -->
   <Make_Apparel_SmokepopBelt.description>Tillverka ett rökskyddsbälte.</Make_Apparel_SmokepopBelt.description>
   <!-- EN: Tillverkar rökskyddsbälte. -->
   <Make_Apparel_SmokepopBelt.jobString>Tillverkar ett rökskyddsbälte.</Make_Apparel_SmokepopBelt.jobString>
   
   <!-- EN: Tillverka kroppsskynke -->
   <Make_Apparel_TribalA.label>Sy ett kroppsskynke</Make_Apparel_TribalA.label>
+  <!-- EN: Make en kroppsskynke. -->
   <Make_Apparel_TribalA.description>Sy ett kroppsskynke</Make_Apparel_TribalA.description>
   <!-- EN: Tillverkar kroppsskynke. -->
   <Make_Apparel_TribalA.jobString>Syr ett kroppsskynke.</Make_Apparel_TribalA.jobString>
   
   <!-- EN: Tillverka mössa -->
   <Make_Apparel_Tuque.label>Tillverka en mössa</Make_Apparel_Tuque.label>
+  <!-- EN: Make en mössa. -->
   <Make_Apparel_Tuque.description>Tillverka en mössa</Make_Apparel_Tuque.description>
   <!-- EN: Tillverkar mössa. -->
   <Make_Apparel_Tuque.jobString>Tillverkar en mössa.</Make_Apparel_Tuque.jobString>
   
   <!-- EN: Tillverka långbåge -->
   <Make_Bow_Great.label>Tillverka en långbåge</Make_Bow_Great.label>
+  <!-- EN: Make en långbåge. -->
   <Make_Bow_Great.description>Tillverka en långbåge</Make_Bow_Great.description>
   <!-- EN: Tillverkar långbåge. -->
   <Make_Bow_Great.jobString>Tillverkar en långbåge.</Make_Bow_Great.jobString>
   
   <!-- EN: Tillverka kortbåge -->
   <Make_Bow_Short.label>Tillverka en kortbåge</Make_Bow_Short.label>
+  <!-- EN: Make en kortbåge. -->
   <Make_Bow_Short.description>Tillverka en kortbåge</Make_Bow_Short.description>
   <!-- EN: Tillverkar kortbåge. -->
   <Make_Bow_Short.jobString>Tillverkaren kortbåge.</Make_Bow_Short.jobString>
   
   <!-- EN: Tillverka flingor -->
   <Make_Flake.label>Tillverka flingor</Make_Flake.label>
+  <!-- EN: Make en flingor. -->
   <Make_Flake.description>Tillverka flingor</Make_Flake.description>
   <!-- EN: Tillverkar flingor. -->
   <Make_Flake.jobString>Tillverkar flingor.</Make_Flake.jobString>
   
   <!-- EN: Tillverka gå-juice -->
   <Make_GoJuice.label>Tillverka gå-juice</Make_GoJuice.label>
+  <!-- EN: Make en gå-juice. -->
   <Make_GoJuice.description>Tillverka gå-juice</Make_GoJuice.description>
   <!-- EN: Tillverkar gå-juice. -->
   <Make_GoJuice.jobString>Tillverkar gå-juice.</Make_GoJuice.jobString>
   
   <!-- EN: Tillverka automatkarbin -->
   <Make_Gun_AssaultRifle.label>Tillverka en automatkarbin</Make_Gun_AssaultRifle.label>
+  <!-- EN: Make en automatkarbin. -->
   <Make_Gun_AssaultRifle.description>Tillverka en automatkarbin</Make_Gun_AssaultRifle.description>
   <!-- EN: Tillverkar automatkarbin. -->
   <Make_Gun_AssaultRifle.jobString>Tillverkar en automatkarbin.</Make_Gun_AssaultRifle.jobString>
   
-  <!-- EN: Tillverka repetergevär -->
+  <!-- EN: Tillverka jaktgevär -->
   <Make_Gun_BoltActionRifle.label>Tillverka ett jaktgevär</Make_Gun_BoltActionRifle.label>
+  <!-- EN: Make en jaktgevär. -->
   <Make_Gun_BoltActionRifle.description>Tillverka ett jaktgevär.</Make_Gun_BoltActionRifle.description>
-  <!-- EN: Tillverkar repetergevär. -->
+  <!-- EN: Tillverkar jaktgevär. -->
   <Make_Gun_BoltActionRifle.jobString>Tillverkar ett jaktgevär.</Make_Gun_BoltActionRifle.jobString>
   
   <!-- EN: Tillverka autohagelgevär -->
   <Make_Gun_ChainShotgun.label>tillverka autohagelgevär</Make_Gun_ChainShotgun.label>
+  <!-- EN: Make en autohagelgevär. -->
   <Make_Gun_ChainShotgun.description>Tillverka autohagelgevär.</Make_Gun_ChainShotgun.description>
   <!-- EN: Tillverkar autohagelgevär. -->
   <Make_Gun_ChainShotgun.jobString>Tillverkar autohagelgevär.</Make_Gun_ChainShotgun.jobString>
   
-  <!-- EN: Tillverka Energigevär -->
+  <!-- EN: Tillverka energigevär -->
   <Make_Gun_ChargeRifle.label>tillverka energigevär</Make_Gun_ChargeRifle.label>
+  <!-- EN: Make en energigevär. -->
   <Make_Gun_ChargeRifle.description>Tillverka energigevär</Make_Gun_ChargeRifle.description>
-  <!-- EN: Tillverkar Energigevär. -->
+  <!-- EN: Tillverkar energigevär. -->
   <Make_Gun_ChargeRifle.jobString>Tillverkar energigevär.</Make_Gun_ChargeRifle.jobString>
   
   <!-- EN: Tillverka tung k-pist -->
   <Make_Gun_HeavySMG.label>tillverka tung kulsprutepistol</Make_Gun_HeavySMG.label>
+  <!-- EN: Make en tung k-pist. -->
   <Make_Gun_HeavySMG.description>Tillverka tung kulsprutepistol</Make_Gun_HeavySMG.description>
   <!-- EN: Tillverkar tung k-pist. -->
   <Make_Gun_HeavySMG.jobString>Tillverkar en tung kulsprutepistol.</Make_Gun_HeavySMG.jobString>
   
   <!-- EN: Tillverka eldkastare -->
   <Make_Gun_IncendiaryLauncher.label>tillverka eldkastare</Make_Gun_IncendiaryLauncher.label>
+  <!-- EN: Make en eldkastare. -->
   <Make_Gun_IncendiaryLauncher.description>Tillverka eldkastare</Make_Gun_IncendiaryLauncher.description>
   <!-- EN: Tillverkar eldkastare. -->
   <Make_Gun_IncendiaryLauncher.jobString>Tillverkar eldkastare.</Make_Gun_IncendiaryLauncher.jobString>
   
   <!-- EN: Tillverka LMG -->
   <Make_Gun_LMG.label>tillverka maskingevär</Make_Gun_LMG.label>
+  <!-- EN: Make en LMG. -->
   <Make_Gun_LMG.description>Tillverka maskingevär</Make_Gun_LMG.description>
   <!-- EN: Tillverkar LMG. -->
   <Make_Gun_LMG.jobString>Tillverkar maskingevär.</Make_Gun_LMG.jobString>
   
   <!-- EN: Tillverka maskinpistol -->
   <Make_Gun_MachinePistol.label>tillverka maskinpistol</Make_Gun_MachinePistol.label>
+  <!-- EN: Make en maskinpistol. -->
   <Make_Gun_MachinePistol.description>Tillverka maskinpistol</Make_Gun_MachinePistol.description>
   <!-- EN: Tillverkar maskinpistol. -->
   <Make_Gun_MachinePistol.jobString>Tillverkar en maskinpistol.</Make_Gun_MachinePistol.jobString>
   
   <!-- EN: Tillverka minigun -->
   <Make_Gun_Minigun.label>tillverka minigun</Make_Gun_Minigun.label>
+  <!-- EN: Make en minigun. -->
   <Make_Gun_Minigun.description>Tillverka minigun</Make_Gun_Minigun.description>
   <!-- EN: Tillverkar minigun. -->
   <Make_Gun_Minigun.jobString>Tillverkar minigun.</Make_Gun_Minigun.jobString>
   
   <!-- EN: Tillverka pumphagelgevär -->
   <Make_Gun_PumpShotgun.label>tillverka pumphagelgevär</Make_Gun_PumpShotgun.label>
+  <!-- EN: Make en pumphagelgevär. -->
   <Make_Gun_PumpShotgun.description>Tillverka pumphagelgevär</Make_Gun_PumpShotgun.description>
   <!-- EN: Tillverkar pumphagelgevär. -->
   <Make_Gun_PumpShotgun.jobString>Tillverkar ett pumphagelgevär.</Make_Gun_PumpShotgun.jobString>
   
-  <!-- EN: Tillverka pistol -->
+  <!-- EN: Tillverka revolver -->
   <Make_Gun_Revolver.label>tillverka pistol</Make_Gun_Revolver.label>
+  <!-- EN: Make en revolver. -->
   <Make_Gun_Revolver.description>Tillverka pistol</Make_Gun_Revolver.description>
-  <!-- EN: Tillverkar pistol. -->
+  <!-- EN: Tillverkar revolver. -->
   <Make_Gun_Revolver.jobString>Tillverkar en pistol.</Make_Gun_Revolver.jobString>
   
   <!-- EN: Tillverka prickskyttegevär -->
   <Make_Gun_SniperRifle.label>tillverka prickskyttegevär</Make_Gun_SniperRifle.label>
+  <!-- EN: Make en prickskyttegevär. -->
   <Make_Gun_SniperRifle.description>Tillverka prickskyttegevär</Make_Gun_SniperRifle.description>
   <!-- EN: Tillverkar prickskyttegevär. -->
   <Make_Gun_SniperRifle.jobString>Tillverkar en prickskyttegevär.</Make_Gun_SniperRifle.jobString>
   
   <!-- EN: Tillverka klubba -->
   <Make_MeleeWeapon_Club.label>tillverka klubba</Make_MeleeWeapon_Club.label>
+  <!-- EN: Make en klubba. -->
   <Make_MeleeWeapon_Club.description>Tillverka klubba</Make_MeleeWeapon_Club.description>
   <!-- EN: Tillverkar klubba. -->
   <Make_MeleeWeapon_Club.jobString>Tillverkar klubba.</Make_MeleeWeapon_Club.jobString>
   
   <!-- EN: Tillverka gladius -->
   <Make_MeleeWeapon_Gladius.label>smid en gladius</Make_MeleeWeapon_Gladius.label>
+  <!-- EN: Make en gladius. -->
   <Make_MeleeWeapon_Gladius.description>Smid en gladius</Make_MeleeWeapon_Gladius.description>
   <!-- EN: Tillverkar gladius. -->
   <Make_MeleeWeapon_Gladius.jobString>Smider en gladius.</Make_MeleeWeapon_Gladius.jobString>
   
   <!-- EN: Tillverka kniv -->
   <Make_MeleeWeapon_Knife.label>smid en kniv</Make_MeleeWeapon_Knife.label>
+  <!-- EN: Make en kniv. -->
   <Make_MeleeWeapon_Knife.description>Smid en kniv</Make_MeleeWeapon_Knife.description>
   <!-- EN: Tillverkar kniv. -->
   <Make_MeleeWeapon_Knife.jobString>Smider en kniv.</Make_MeleeWeapon_Knife.jobString>
   
   <!-- EN: Tillverka långsvärd -->
   <Make_MeleeWeapon_LongSword.label>smid ett långsvärd</Make_MeleeWeapon_LongSword.label>
+  <!-- EN: Make en långsvärd. -->
   <Make_MeleeWeapon_LongSword.description>Smid ett långsvärd</Make_MeleeWeapon_LongSword.description>
   <!-- EN: Tillverkar långsvärd. -->
   <Make_MeleeWeapon_LongSword.jobString>Smider ett långsvärd.</Make_MeleeWeapon_LongSword.jobString>
   
   <!-- EN: Tillverka spikklubba -->
   <Make_MeleeWeapon_Mace.label>Tillverka en spikklubba</Make_MeleeWeapon_Mace.label>
+  <!-- EN: Make en spikklubba. -->
   <Make_MeleeWeapon_Mace.description>Tillverka en spikklubba</Make_MeleeWeapon_Mace.description>
   <!-- EN: Tillverkar spikklubba. -->
   <Make_MeleeWeapon_Mace.jobString>Tillverkar en spikklubba.</Make_MeleeWeapon_Mace.jobString>
   
   <!-- EN: Tillverka spjut -->
   <Make_MeleeWeapon_Spear.label>Tillverka ett spjut</Make_MeleeWeapon_Spear.label>
+  <!-- EN: Make en spjut. -->
   <Make_MeleeWeapon_Spear.description>Tillverka ett spjut</Make_MeleeWeapon_Spear.description>
   <!-- EN: Tillverkar spjut. -->
   <Make_MeleeWeapon_Spear.jobString>Tillverkar ett spjut.</Make_MeleeWeapon_Spear.jobString>
   
   <!-- EN: Tillverka penoxycyline -->
   <Make_Penoxycyline.label>Tillverka penoxycyline</Make_Penoxycyline.label>
+  <!-- EN: Make en penoxycyline. -->
   <Make_Penoxycyline.description>Tillverka penoxycyline</Make_Penoxycyline.description>
   <!-- EN: Tillverkar penoxycyline. -->
   <Make_Penoxycyline.jobString>Tillverkar penoxycyline.</Make_Penoxycyline.jobString>
   
-  <!-- EN: Tillverka pilum -->
+  <!-- EN: Tillverka pila -->
   <Make_Pila.label>Tillverka pilum</Make_Pila.label>
+  <!-- EN: Make en pila. -->
   <Make_Pila.description>Tillverka pilum</Make_Pila.description>
-  <!-- EN: Tillverkar pilum. -->
+  <!-- EN: Tillverkar pila. -->
   <Make_Pila.jobString>Tillverkar pilum.</Make_Pila.jobString>
   
   <!-- EN: Tillverka enorm skulptur -->
   <Make_SculptureGrand.label>Tillverkaen pompös skulptur</Make_SculptureGrand.label>
+  <!-- EN: Make en enorm skulptur. -->
   <Make_SculptureGrand.description>Tillverka en pompös skulptur</Make_SculptureGrand.description>
   <!-- EN: Tillverkar enorm skulptur. -->
   <Make_SculptureGrand.jobString>Tillverkar en pompös skulptur.</Make_SculptureGrand.jobString>
   
   <!-- EN: Tillverka stor skulptur -->
   <Make_SculptureLarge.label>Tillverka en stor skulptur</Make_SculptureLarge.label>
+  <!-- EN: Make en stor skulptur. -->
   <Make_SculptureLarge.description>Tillverka en stor skulptur</Make_SculptureLarge.description>
   <!-- EN: Tillverkar stor skulptur. -->
   <Make_SculptureLarge.jobString>Tillverkar en stor skulptur.</Make_SculptureLarge.jobString>
   
   <!-- EN: Tillverka liten skulptur -->
   <Make_SculptureSmall.label>Tillverka en liten skulptur</Make_SculptureSmall.label>
+  <!-- EN: Make en liten skulptur. -->
   <Make_SculptureSmall.description>Tillverka en liten skulptur</Make_SculptureSmall.description>
   <!-- EN: Tillverkar liten skulptur. -->
   <Make_SculptureSmall.jobString>Tillverkar en liten skulptur.</Make_SculptureSmall.jobString>
   
   <!-- EN: Tillverka högexplosiv patron -->
   <Make_Shell_HighExplosive.label>Tillverka en patron</Make_Shell_HighExplosive.label>
+  <!-- EN: Make en högexplosiv patron. -->
   <Make_Shell_HighExplosive.description>Tillverka en patron.</Make_Shell_HighExplosive.description>
   <!-- EN: Tillverkar högexplosiv patron. -->
   <Make_Shell_HighExplosive.jobString>Tillverkar en patron.</Make_Shell_HighExplosive.jobString>
   
   <!-- EN: Tillverka rökbladscigarr -->
   <Make_SmokeleafJoint.label>Gör rökbladsjoint</Make_SmokeleafJoint.label>
+  <!-- EN: Make en rökbladscigarr. -->
   <Make_SmokeleafJoint.description>Gör rökbladsjoint</Make_SmokeleafJoint.description>
   <!-- EN: Tillverkar rökbladscigarr. -->
   <Make_SmokeleafJoint.jobString>Tillverkar rökbladsjoint.</Make_SmokeleafJoint.jobString>
   
   <!-- EN: Tillverka va-kna -->
   <Make_WakeUp.label>Tillverka va-kna</Make_WakeUp.label>
+  <!-- EN: Make en va-kna. -->
   <Make_WakeUp.description>Tillverka va-kna</Make_WakeUp.description>
   <!-- EN: Tillverkar va-kna. -->
   <Make_WakeUp.jobString>Tillverkar va-kna.</Make_WakeUp.jobString>
   
   <!-- EN: Tillverka yayo -->
   <Make_Yayo.label>Tillverka yayo</Make_Yayo.label>
+  <!-- EN: Make en yayo. -->
   <Make_Yayo.description>Tillverka yayo</Make_Yayo.description>
   <!-- EN: Tillverkar yayo. -->
   <Make_Yayo.jobString>Tillverkar yayo.</Make_Yayo.jobString>

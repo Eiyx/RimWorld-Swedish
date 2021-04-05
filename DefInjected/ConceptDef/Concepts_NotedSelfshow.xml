@@ -53,16 +53,8 @@
   
   <!-- EN: Fire preparation -->
   <FirePreparation.label>Brandförebyggande åtgärder</FirePreparation.label>
-  <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.
-\n\nThese design elements can help reduce the damage from fires:
-\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.
-\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.
-\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
-  <FirePreparation.helpText>Eldsvådor kan lätt bränna ned en hel koloni. För att bekämpa dessa behöver du förbereda dig innan det händer.\
-  n\nDessa typer av konstruktioner kan hjälpa för att miska skador från eldsvådor:
-  \n\n1. Istället för att göra en enda stor superbyggnad, bygg separata byggnader med ytrymme emellan.
-  \n\n2. Använd dig av material som är brandtåligt. Trä är billigt och snabbt - men brinner väldigt fort.
-  \n\n3. Bygg brandgator för att förhindra löpeldar att närma sig din bas. En remsa av betonggolv 3 eller 4 celler breda stannar oftast upp eldens framfart.</FirePreparation.helpText>
+  <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
+  <FirePreparation.helpText>Eldsvådor kan lätt bränna ned en hel koloni. För att bekämpa dessa behöver du förbereda dig innan det händer.\\n  n\nDessa typer av konstruktioner kan hjälpa för att miska skador från eldsvådor:\n  \n\n1. Istället för att göra en enda stor superbyggnad, bygg separata byggnader med ytrymme emellan.\n  \n\n2. Använd dig av material som är brandtåligt. Trä är billigt och snabbt - men brinner väldigt fort.\n  \n\n3. Bygg brandgator för att förhindra löpeldar att närma sig din bas. En remsa av betonggolv 3 eller 4 celler breda stannar oftast upp eldens framfart.</FirePreparation.helpText>
   
   <!-- EN: Forbid and allow -->
   <Forbidding.label>Förbjud och tillåt</Forbidding.label>

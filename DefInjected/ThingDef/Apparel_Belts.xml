@@ -6,9 +6,4 @@
   <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
   <Apparel_ShieldBelt.description>En projektilskyddsanordning. Det kommer att försöka stoppa inkommande projektiler och splitter men det  skyddar inget mot närstridsattacker eller värme. Det förhindrar både inkommande och utgående skott. Och stänger av sig självt om det träffas av EMP.</Apparel_ShieldBelt.description>
   
-  <!-- EN: smokepop belt -->
-  <Apparel_SmokepopBelt.label>rökskyddsbälte</Apparel_SmokepopBelt.label>
-  <!-- EN: An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Apparel_SmokepopBelt.description>Ett engångsföremål som automatiskt utsöndrar en defensiv rökridå. Om användaren träffas av ett skott kommer det släppa ut  ett rökmåln, vilket avsevärt försvårar inkommande skott och kanontorn att sikta.</Apparel_SmokepopBelt.description>
-  
 </LanguageData>

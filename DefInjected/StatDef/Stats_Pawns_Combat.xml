@@ -6,29 +6,41 @@
   <!-- EN: How long it takes to shoot after choosing a target. -->
   <AimingDelayFactor.description>Hur lång tid det tar att skjuta efter att ha valt ut ett mål.</AimingDelayFactor.description>
   
+  <!-- EN: incoming damage multiplier -->
+  <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
+  <!-- EN: A multiplier on all incoming damage. -->
+  <IncomingDamageFactor.description>TODO</IncomingDamageFactor.description>
+  
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>Penetration av skydd i närstrid</MeleeArmorPenetration.label>
-  <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
+  <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
   <MeleeArmorPenetration.description>Genomsnittlig penetration av stridsskydd av alla attacker i närstrid. Detta värde inkluderar nuvarande draget vapen.</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>chans att ducka i närstrid</MeleeDodgeChance.label>
-  <!-- EN: Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
   <MeleeDodgeChance.description>Chans att undvika en närstrids attack som annars skulle ha träffat. Karaktärerna kan inte ducka när de siktar eller skjuter med ett avståndsvapen.</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
   <MeleeDPS.label>Närstrids DPS</MeleeDPS.label>
-  <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
+  <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
   <MeleeDPS.description>Standardskada per sekund (eng. Damage Per Second) i närstrid. Detta värde ignorerar målets försvar exempelvis skydd och förmåga att undvika slag.</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
   <MeleeHitChance.label>träffchans i närstrid</MeleeHitChance.label>
-  <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
+  <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
   <MeleeHitChance.description>Chansen att träffa ett mål i närstrid. Målet kan fortfarande undvika trots att själva slaget skulle lyckats. </MeleeHitChance.description>
+  
+  <!-- EN: trap spring chance -->
+  <PawnTrapSpringChance.label>TODO</PawnTrapSpringChance.label>
+  <!-- EN: Chance to spring a trap the character is unaware of. -->
+  <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyPawn.label>träffsäkerhet</ShootingAccuracyPawn.label>
-  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyPawn.description>Chansen att inte missa i distans per ruta. Chansen att träffa påverkas även av många andra faktorer. En förklaring av träffchans för varje skott kan ses genom att markera en skytt och hålla muspekaren över målet. </ShootingAccuracyPawn.description>
+  <!-- EN: shooting accuracy (people) -->
+  <ShootingAccuracyPawn.labelForFullStatList>TODO</ShootingAccuracyPawn.labelForFullStatList>
   
 </LanguageData>

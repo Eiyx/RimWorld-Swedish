@@ -16,7 +16,7 @@
   <Fox_Fennec.label>fennec</Fox_Fennec.label>
   <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
   <Fox_Fennec.description> En liten räv med ursprung från den norra delen av jordens afrikanska kontinent. Den jagar små varelser och har mycket stora öron för att kyla ned sig i värmen</Fox_Fennec.description>
-  <!-- EN: foxmeat -->
+  <!-- EN: fox meat -->
   <Fox_Fennec.race.meatLabel>rävkött</Fox_Fennec.race.meatLabel>
   <!-- EN: left claw -->
   <Fox_Fennec.tools.left_claw.label>vänster klo</Fox_Fennec.tools.left_claw.label>
@@ -64,7 +64,7 @@
   <Wolf_Timber.label>varg</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
   <Wolf_Timber.description>Ett rovdjur som länge fruktats av många forntida jordkulturer. Som flockjägare har vargar ett komplex socialr liv och är otroligt intelligenta.</Wolf_Timber.description>
-  <!-- EN: wolfmeat -->
+  <!-- EN: wolf meat -->
   <Wolf_Timber.race.meatLabel>vargkött</Wolf_Timber.race.meatLabel>
   <!-- EN: left claw -->
   <Wolf_Timber.tools.left_claw.label>vänster klo</Wolf_Timber.tools.left_claw.label>

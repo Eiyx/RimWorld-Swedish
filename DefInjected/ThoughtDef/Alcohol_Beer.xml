@@ -18,7 +18,8 @@
   <Hungover.stages.pounding_hangover.label>Bakfull (bultande)</Hungover.stages.pounding_hangover.label>
   <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->
   <Hungover.stages.pounding_hangover.description>Det känns som en skock gäss pickar på skallen.</Hungover.stages.pounding_hangover.description>
-  <!-- EN: hung over (hidden) -->
+  
+  <!-- UNUSED -->
   <Hungover.stages.hung_over_hidden.label>Bakfull (dold)</Hungover.stages.hung_over_hidden.label>
   
   <!-- EN: alcohol warmth -->
@@ -37,6 +38,5 @@
   <Inebriated.stages.hammered.label>Berusad (full)</Inebriated.stages.hammered.label>
   <!-- EN: Wooo! What's going on? -->
   <Inebriated.stages.hammered.description>Jag känner mig totalt ohämmat och orädd! Dethär är ju helt lysande!</Inebriated.stages.hammered.description>
-  
   
 </LanguageData>

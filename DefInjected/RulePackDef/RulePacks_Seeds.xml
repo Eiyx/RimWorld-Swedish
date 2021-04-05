@@ -19,8 +19,6 @@
     <li>r_seed->[businesstype]</li>
     <li>r_seed->[Community]</li>
   -->
-  <SeedGenerator.rulePack.rulesStrings>
-    <li>TODO</li>
-  </SeedGenerator.rulePack.rulesStrings>
+  <SeedGenerator.rulePack.rulesStrings>TODO</SeedGenerator.rulePack.rulesStrings>
   
 </LanguageData>

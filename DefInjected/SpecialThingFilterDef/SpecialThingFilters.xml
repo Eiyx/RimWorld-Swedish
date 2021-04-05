@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: allow biocoded apparel -->
+  <AllowBiocodedApparel.label>TODO</AllowBiocodedApparel.label>
+  
+  <!-- EN: allow biocoded weapons -->
+  <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableApparel.label>TODO</AllowBurnableApparel.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
+  
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>tillåt kolonisters kroppar</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
@@ -21,10 +33,25 @@
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>Tillåt organiska saker som inte börjat ruttna än.</AllowFresh.description>
   
+  <!-- EN: allow non-biocoded apparel -->
+  <AllowNonBiocodedApparel.label>TODO</AllowNonBiocodedApparel.label>
+  
+  <!-- EN: allow non-biocoded weapons -->
+  <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
+  
   <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>tillåt rena kläder</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowNonDeadmansApparel.description>Tillåt kläder som aldrig varit använnt av ett lik.  De flesta människor tycker att likfläckade kläder är besvärande coh handlare kommer inte acceptera befläckade kläder. </AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableWeapons.label>tillåt ej smältbara</AllowNonSmeltableWeapons.label>
@@ -41,5 +68,8 @@
   
   <!-- EN: allow smeltable -->
   <AllowSmeltable.label>tillåt smältbara</AllowSmeltable.label>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
   
 </LanguageData>
