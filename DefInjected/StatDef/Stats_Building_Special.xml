@@ -9,7 +9,7 @@
   <!-- EN: door opening speed -->
   <DoorOpenSpeed.label>dörröppnings-hastighet</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>Den hastighet med vilken dörren öppnas</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>Den hastighet med vilken dörren öppnas utan el-försörjning.\n\nLångsamma dörrar saktar ned alla som använder dem.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>hastighetsfaktor för att uppnå immunitet</ImmunityGainSpeedFactor.label>
@@ -36,14 +36,14 @@
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>faktor för lyckad operation</SurgerySuccessChanceFactor.label>
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
-  <SurgerySuccessChanceFactor.description>Multiplikator för chansen att en operation lyckas här. Det finns flera faktorer som spelar in för att en operation ska lyckas, bland annat kirurgens färdighet och vilken medicin som används.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.description>Multiplikator för chansen att en operation lyckas här.\n\nDet finns flera faktorer som spelar in för att en operation ska lyckas, bland annat kirurgens färdighet och vilken medicin som används.</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Rummets renlighetsgrad</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
   <TrapMeleeDamage.label>fällans skada</TrapMeleeDamage.label>
   <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>Hur mycket skada denna fälla gör ungefär på ett. Den faktiska skadan kan variera något.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>Hur mycket skada denna fälla gör ungefär på ett.\n\nDen faktiska skadan kan variera något.</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
   <TrapSpringChance.label>fällans aktiveringschans</TrapSpringChance.label>

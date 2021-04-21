@@ -88,7 +88,7 @@
   <!-- EN: Mental state: Jailbreaker -->
   <Jailbreaker.baseInspectLine>Mentalt tillstånd: Utbrytare</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
-  <Jailbreaker.beginLetter>{0} har ett psykbryt och kommer få fångar att rymma. </Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetter>{0} har fått psykbryt och kommer uppmana fångar att rymma. </Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
   <Jailbreaker.beginLetterLabel>utbrytare</Jailbreaker.beginLetterLabel>
   <!-- EN: {0} is no longer inducing prisoners to escape. -->
@@ -119,7 +119,7 @@
   <!-- EN: Mental state: Slaughterer -->
   <Slaughterer.baseInspectLine>Mentalt tillstånd: Slaktare</Slaughterer.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
-  <Slaughterer.beginLetter>{0} har ett psykbryt och kommer ventilera all sin ilska på dina djur.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetter>{0} har fått psykbryt och kommer ventilera all sin ilska på dina djur.</Slaughterer.beginLetter>
   <Slaughterer.beginLetterLabel>slaktare</Slaughterer.beginLetterLabel>
   <!-- EN: {0} is no longer slaughtering random animals. -->
   <Slaughterer.recoveryMessage>{0} går inte längre runt och slaktar slumpvis utvalda djur.</Slaughterer.recoveryMessage>
@@ -175,20 +175,20 @@
   <Wander_Psychotic.recoveryMessage>{0} strövar inte längre runt i ett psykotiskt tillstånd.</Wander_Psychotic.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic_Short.label>TODO</Wander_Psychotic_Short.label>
+  <Wander_Psychotic_Short.label>vandrar runt i psykos</Wander_Psychotic_Short.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic_Short.baseInspectLine>TODO</Wander_Psychotic_Short.baseInspectLine>
+  <Wander_Psychotic_Short.baseInspectLine>Mentalt tillstånd: Psykostiskt strövande</Wander_Psychotic_Short.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic_Short.beginLetter>TODO</Wander_Psychotic_Short.beginLetter>
+  <Wander_Psychotic_Short.beginLetter>{0} vandrar runt i ett psykotiskt tillstånd.</Wander_Psychotic_Short.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic_Short.beginLetterLabel>TODO</Wander_Psychotic_Short.beginLetterLabel>
+  <Wander_Psychotic_Short.beginLetterLabel>förvirring</Wander_Psychotic_Short.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic_Short.recoveryMessage>TODO</Wander_Psychotic_Short.recoveryMessage>
+  <Wander_Psychotic_Short.recoveryMessage>{0} vandrar inte längre runt i psykos.</Wander_Psychotic_Short.recoveryMessage>
   
   <!-- EN: sad wandering -->
-  <Wander_Sad.label>vemodigt strövande</Wander_Sad.label>
+  <Wander_Sad.label>vemodigt lunkande</Wander_Sad.label>
   <!-- EN: Mental state: Sad wandering -->
-  <Wander_Sad.baseInspectLine>Mentalt tillstånd: Vemodigt strövande</Wander_Sad.baseInspectLine>
+  <Wander_Sad.baseInspectLine>Mentalt tillstånd: Vemodigt lunkande</Wander_Sad.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around in sadness. -->
   <Wander_Sad.beginLetter>{0} har haft ett sammanbrott och strövar omkring i vemod.</Wander_Sad.beginLetter>
   <!-- EN: sad wander -->

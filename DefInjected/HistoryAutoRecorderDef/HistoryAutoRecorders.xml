@@ -5,7 +5,7 @@
   <Adaptation.label>återhämtning</Adaptation.label>
   <Adaptation.graphLabelY>Dagar</Adaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <Adaptation.valueFormat>TODO</Adaptation.valueFormat>
+  <Adaptation.valueFormat>{0} dagar</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>humör</ColonistMood.label>
@@ -19,13 +19,13 @@
   <PopAdaptation.label>pop återhämtning</PopAdaptation.label>
   <PopAdaptation.graphLabelY>Dagar</PopAdaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <PopAdaptation.valueFormat>TODO</PopAdaptation.valueFormat>
+  <PopAdaptation.valueFormat>{0} dagar</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
   <PopIntent.label>pop koncentration x10</PopIntent.label>
   <PopIntent.graphLabelY>Dagar</PopIntent.graphLabelY>
   <!-- EN: {0} days -->
-  <PopIntent.valueFormat>TODO</PopIntent.valueFormat>
+  <PopIntent.valueFormat>{0} dagar</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>fångar</Prisoners.label>
@@ -35,7 +35,7 @@
   <ThreatPoints.label>glädjepoäng /10</ThreatPoints.label>
   <ThreatPoints.graphLabelY>Poäng</ThreatPoints.graphLabelY>
   <!-- EN: {0} points -->
-  <ThreatPoints.valueFormat>TODO</ThreatPoints.valueFormat>
+  <ThreatPoints.valueFormat>{0} poäng</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
   <Wealth_Buildings.label>förmögenhet (byggnader)</Wealth_Buildings.label>

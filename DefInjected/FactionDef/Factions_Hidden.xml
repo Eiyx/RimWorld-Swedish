@@ -2,37 +2,37 @@
 <LanguageData>
   
   <!-- EN: neutral ancients -->
-  <Ancients.label>Uråldriga</Ancients.label>
+  <Ancients.label>neutrala anfäder</Ancients.label>
   <Ancients.description>Människor från en uråldrig civilisation.</Ancients.description>
   <!-- EN: Ancients -->
-  <Ancients.fixedName>Uråldriga</Ancients.fixedName>
+  <Ancients.fixedName>Anfäder</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>uråldrig</Ancients.pawnSingular>
+  <Ancients.pawnSingular>anfader</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>uråldriga</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>anfäder</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>uråldriga</AncientsHostile.label>
+  <AncientsHostile.label>fientliga anfäder</AncientsHostile.label>
   <AncientsHostile.description>Människor från en uråldrig civilisation.</AncientsHostile.description>
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>Uråldriga</AncientsHostile.fixedName>
+  <AncientsHostile.fixedName>Anfäder</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>uråldrig</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>anfader</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>uråldriga</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>anfäder</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
   <Insect.label>Insekter</Insect.label>
   <Insect.description>Valigtvis agressiva och påträngande insekter.</Insect.description>
   <!-- EN: Sorne Geneline -->
-  <Insect.fixedName>Insekter</Insect.fixedName>
+  <Insect.fixedName>En genstam</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>Insekt</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>Insekter</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>Mekanoidisk svärm</Mechanoid.label>
+  <Mechanoid.label>Mekanoidsvärm</Mechanoid.label>
   <Mechanoid.description>En svärm av uråldriga, sjävreproducerande robotar.</Mechanoid.description>
   <Mechanoid.fixedName>En svärm mekanoider</Mechanoid.fixedName>
   <!-- EN: mechanoid -->

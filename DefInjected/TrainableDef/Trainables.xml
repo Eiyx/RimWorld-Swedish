@@ -7,14 +7,14 @@
   <Haul.description>Djuret kommer slumpmässigt frakta föremål då och då (även om det inte kan riktas att frakta specifika objekt.</Haul.description>
   
   <!-- EN: guard -->
-  <Obedience.label>lydnad</Obedience.label>
+  <Obedience.label>vakta</Obedience.label>
   <!-- EN: The animal can be assigned a master whom it will follow and defend. -->
   <Obedience.description>Djuret kan tilldelas en husbonde som det kommer att följa och försvara.</Obedience.description>
   
   <!-- EN: attack -->
-  <Release.label>släpp loss</Release.label>
+  <Release.label>attakera</Release.label>
   <!-- EN: The animal can be released to attack distant targets instead of just guarding its master. -->
-  <Release.description>Djuret kan släppas loss för att attackera avlägsna mål i stället för att bara försvara husbonden.</Release.description>
+  <Release.description>Djuret kan släppas löst för att attackera avlägsna mål i stället för att bara vakta husbonden.</Release.description>
   
   <!-- EN: rescue -->
   <Rescue.label>rädda</Rescue.label>

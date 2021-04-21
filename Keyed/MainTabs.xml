@@ -321,10 +321,5 @@
   <!-- EN: Creates need -->
   <CreatesNeed>TODO</CreatesNeed>
 
-  <!-- UNUSED -->
-  <ThisMapColonyWealthTameAnimals>Kolonins rikedom (djur) (denna karta)</ThisMapColonyWealthTameAnimals>
-  <ProjectTechLevel>projektets teknologiska nivå</ProjectTechLevel>
-  <YourTechLevel>din teknologiska nivå</YourTechLevel>
-  <ResearchCostMultiplier>kostnadsmultiplikator</ResearchCostMultiplier>
 
 </LanguageData>

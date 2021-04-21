@@ -12,9 +12,9 @@
   <Comfort.description>Komforten ökar av att sitta eller sova i komfortabla möbler. Den erhålls genom att ligga i en säng, sitta på en stol samtidigt som en jobbar, eller vid andra tillfällen.</Comfort.description>
   
   <!-- EN: chemical -->
-  <DrugDesire.label>TODO</DrugDesire.label>
+  <DrugDesire.label>kemiskt</DrugDesire.label>
   <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
-  <DrugDesire.description>TODO</DrugDesire.description>
+  <DrugDesire.description>Kemiskt visar en önskan att inta droger. När det är över en viss nivå skapar det gott humör, men när det ligger under en viss nivå skapar det ett växande dåligt humör.</DrugDesire.description>
   
   <!-- EN: food -->
   <Food.label>mat</Food.label>
@@ -29,7 +29,7 @@
   <!-- EN: mood -->
   <Mood.label>humör</Mood.label>
   <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
-  <Mood.description>Humör representerar hur glad eller stressad någon är. Om humöret sjunker för lågt kan personen bryta ihop. Beroende på hur lågt en persons humör är kan någon få ett psykbryt och gömma sig i sitt rum under en dag, eller gå och ha ihjäl någon.</Mood.description>
+  <Mood.description>Humör representerar hur glad eller stressad någon är. Om humöret sjunker för lågt kan personen bryta ihop. Beroende på hur lågt en persons humör är kan någon som har ett psykbryt få ett mindre sammanbrott och till exempel gömma sig i sitt rum under en dag, eller gå och ha ihjäl folk.</Mood.description>
   
   <!-- EN: outdoors -->
   <Outdoors.label>utomhus</Outdoors.label>

@@ -11,7 +11,8 @@
   <!-- EN: lancer -->
   <Mech_Lancer.label>lansiär</Mech_Lancer.label>
   <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
-  <Mech_Lancer.description>En stridsmekanoid av mänsklig storlek med enorma optiska sensorer i ansiktet för att sikta med vapen på långa avstånd. Den är effektiv på avstånd men svag i närstrid. Veteraner från mekanoidkrig vet att det säkraste att göra mot en lansiär ofta är att anfalla.</Mech_Lancer.description>
+  <Mech_Lancer.description>TODO 
+  En stridsmekanoid av mänsklig storlek med enorma optiska sensorer i ansiktet för att sikta med vapen på långa avstånd. Den är effektiv på avstånd men svag i närstrid. Veteraner från mekanoidkrig vet att det säkraste att göra mot en lansiär ofta är att anfalla.</Mech_Lancer.description>
   <!-- EN: left fist -->
   <Mech_Lancer.tools.left_fist.label>vänster näve</Mech_Lancer.tools.left_fist.label>
   <!-- EN: right fist -->

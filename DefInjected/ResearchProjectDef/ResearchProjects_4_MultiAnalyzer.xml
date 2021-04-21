@@ -7,24 +7,24 @@
   <AdvancedFabrication.description>tillverka avancerade komponenter från vanliga komponenter och andra material.</AdvancedFabrication.description>
   
   <!-- EN: bionic replacements -->
-  <Bionics.label>bionik</Bionics.label>
+  <Bionics.label>bioniska delar</Bionics.label>
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
   <Bionics.description>Bygg högteknologiska bioniska kroppsdelar för att ersätta förlorade kroppsdelar och ögon. Det behövs en skicklig läkare för att fästa dem. </Bionics.description>
   
   <!-- EN: pulse-charged munitions -->
-  <ChargedShot.label>energiskott</ChargedShot.label>
+  <ChargedShot.label>pulsladdad amunution<</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>Hemligheten bakom pulsladdat energi/projektil-ammunition. Tillåter dig att bygga energigevär.</ChargedShot.description>
+  <ChargedShot.description>Bygg vapen som avfyrar pulsladdad amunution, för extra skada. Notera att dessa även kräver avancerade komponenter.</ChargedShot.description>
   
   <!-- EN: cryptosleep casket -->
-  <Cryptosleep.label>kryptosömnkista</Cryptosleep.label>
+  <Cryptosleep.label>kryptosömnkapsel</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
-  <Cryptosleep.description>Tillåter kolonisterna att tillverka en kryptosömnkista, i vilken man kan sätta levande varelser i ett tillstånd av skendödhet.</Cryptosleep.description>
+  <Cryptosleep.description>Konstruera kapslar för kryptosömn, som kan hålla levande varelser i ett vagt medvetet tillstånd för att skjuta upp åldrande.</Cryptosleep.description>
   
   <!-- EN: fabrication -->
   <Fabrication.label>komponenttillverkning</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>Tillåter dig att bygga en komponentmonteringsbänk där kolonisterna kan tillverka komponenter från enkla material.</Fabrication.description>
+  <Fabrication.description>Bygg tillverkningsbänkar kapabla att hantera högteknoligiska projekt, från komponenttillverkning till kraftrustningar.</Fabrication.description>
   <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
   <Fabrication.discoveredLetterText>TODO</Fabrication.discoveredLetterText>
   <!-- EN: About: Getting advanced components -->
@@ -33,12 +33,12 @@
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>multianalysator</MultiAnalyzer.label>
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
-  <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Bygg multianalysatorer som ökar forskningshastighet och tillåter mer avancerade forskningsprojekt.</MultiAnalyzer.description>
   
   <!-- EN: marine armor -->
-  <PoweredArmor.label>kraftrustning</PoweredArmor.label>
+  <PoweredArmor.label>TODO</PoweredArmor.label>
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
-  <PoweredArmor.description>Nanomaskiner och avancerat plaststål-vävning tillåter dig att bygga kraftrustning och kraftrustninghjälm.</PoweredArmor.description>
+  <PoweredArmor.description>Bygg en TODO och en kraftrustningshjälmar. Notera att dessa även behöver avancerade komponenter.</PoweredArmor.description>
   
   <!-- EN: recon armor -->
   <ReconArmor.label>TODO</ReconArmor.label>
@@ -51,8 +51,8 @@
   <SniperTurret.description>Tillverka kanontorn som har extremt lång räckvidd. De avfyrar urankulor som sliter sönder plastål som papper, men de är mindre effektiva på kort avstånd. </SniperTurret.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>vitalparametersensor</VitalsMonitor.label>
+  <VitalsMonitor.label>vitalparametsmonitor</VitalsMonitor.label>
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
-  <VitalsMonitor.description>Ökar kvalitén hos behandlingen av patienten. Måste placeras jämte en sjuksäng. En sjuksäng kan kopplas samman med endast en vitalparametersensor.</VitalsMonitor.description>
+  <VitalsMonitor.description>Bygg monitorer för vitalparametrar som förbättrar medecinska resultat av behandlingar när de placeras bredvid sjukhussängar.</VitalsMonitor.description>
   
 </LanguageData>

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Animals will attack doors -->
-  <AnimalsDontAttackDoors.label>Djur attackerar inte dörrar</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>Djur kommer attackera dörrar</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>Människojagande djur brukar inte attackera dörrar eller inaktiva kulsprutetorn.\n\nDu kan fly från dem genom att att stanna innomhus eller bakom en mur. Men de väntar på dig där utanför.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>Människojagande djur kommer attakera dörrar om de ser någon av dina kolonister gå genom dem. De attakerar även inaktiva vapentorn.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>Beställningsflik</BillsTab.label>

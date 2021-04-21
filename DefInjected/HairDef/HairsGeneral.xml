@@ -8,7 +8,7 @@
   <Bob.label>bob</Bob.label>
   
   <!-- EN: bowlcut -->
-  <Bowlcut.label>TODO</Bowlcut.label>
+  <Bowlcut.label>pottfrisyr</Bowlcut.label>
   
   <!-- EN: braided knot -->
   <BraidedKnot.label>flätad knut</BraidedKnot.label>
@@ -23,22 +23,22 @@
   <Burgundy.label>vinröd</Burgundy.label>
   
   <!-- EN: cleopatra -->
-  <Cleopatra.label>TODO</Cleopatra.label>
+  <Cleopatra.label>cleopatra</Cleopatra.label>
   
   <!-- EN: curly -->
   <Curly.label>lockigt</Curly.label>
   
   <!-- EN: cute -->
-  <Cute.label>TODO</Cute.label>
+  <Cute.label>sött</Cute.label>
   
   <!-- EN: decent -->
-  <Decent.label>TODO</Decent.label>
+  <Decent.label>anständig</Decent.label>
   
   <!-- EN: elder -->
   <Elder.label>TODO</Elder.label>
   
   <!-- EN: fancy bun -->
-  <FancyBun.label>TODO</FancyBun.label>
+  <FancyBun.label>snygg knut</FancyBun.label>
   
   <!-- EN: firestarter -->
   <Firestarter.label>eldig</Firestarter.label>
@@ -50,7 +50,7 @@
   <Fringe.label>TODO</Fringe.label>
   
   <!-- EN: frozen -->
-  <Frozen.label>TODO</Frozen.label>
+  <Frozen.label>fryst</Frozen.label>
   
   <!-- EN: greasy swoop -->
   <GreasySwoop.label>oljigt</GreasySwoop.label>
@@ -65,7 +65,7 @@
   <Lackland.label>TODO</Lackland.label>
   
   <!-- EN: locks -->
-  <Locks.label>TODO</Locks.label>
+  <Locks.label>lockar</Locks.label>
   
   <!-- EN: long -->
   <Long.label>långt</Long.label>
@@ -83,7 +83,7 @@
   <Pigtails.label>flätor</Pigtails.label>
   
   <!-- EN: ponytails -->
-  <Ponytails.label>TODO</Ponytails.label>
+  <Ponytails.label>toffsar</Ponytails.label>
   
   <!-- EN: primal -->
   <Primal.label>TODO</Primal.label>
@@ -95,13 +95,13 @@
   <Randy.label>TODO</Randy.label>
   
   <!-- EN: recruit -->
-  <Recruit.label>TODO</Recruit.label>
+  <Recruit.label>rekryt</Recruit.label>
   
   <!-- EN: revolt -->
   <Revolt.label>TODO</Revolt.label>
   
   <!-- EN: rockstar -->
-  <Rockstar.label>TODO</Rockstar.label>
+  <Rockstar.label>rockstjärna</Rockstar.label>
   
   <!-- EN: rookie -->
   <Rookie.label>TODO</Rookie.label>
@@ -125,10 +125,10 @@
   <Shaved.label>rakat</Shaved.label>
   
   <!-- EN: shaved -->
-  <ShavedFemale.label>TODO</ShavedFemale.label>
+  <ShavedFemale.label>rakat</ShavedFemale.label>
   
   <!-- EN: shave top braid -->
-  <ShaveTopBraid.label>TODO</ShaveTopBraid.label>
+  <ShaveTopBraid.label>rakad med fläta</ShaveTopBraid.label>
   
   <!-- EN: snazzy -->
   <Snazzy.label>TODO</Snazzy.label>

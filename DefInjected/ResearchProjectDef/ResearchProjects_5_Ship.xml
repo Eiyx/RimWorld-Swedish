@@ -11,9 +11,10 @@
   <ShipBasics.discoveredLetterTitle>Gällande: Uppskjutning av skeppet </ShipBasics.discoveredLetterTitle>
   
   <!-- EN: machine persuasion -->
-  <ShipComputerCore.label>AI övertalning</ShipComputerCore.label>
+  <ShipComputerCore.label>maskinövertalning</ShipComputerCore.label>
   <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
-  <ShipComputerCore.description>Bygg ett belöningssystem för att övertala en befintlig AI-personakärna att fungera som skeppets AI-kapten. Eftersom människor sover under interstellära resor är en AI-kärna nödvändig för att hantera de komplexa besluten vid stjärnflygningar under flera års tid.</ShipComputerCore.description>
+  <ShipComputerCore.description>TODO
+  Bygg ett belöningssystem för att övertala en befintlig AI-personakärna att fungera som skeppets AI-kapten. Eftersom människor sover under interstellära resor är en AI-kärna nödvändig för att hantera de komplexa besluten vid stjärnflygningar under flera års tid.</ShipComputerCore.description>
   
   <!-- EN: vacuum cryptosleep casket -->
   <ShipCryptosleep.label>vaccum kryptosömnkapsel</ShipCryptosleep.label>

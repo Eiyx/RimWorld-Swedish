@@ -30,7 +30,7 @@
   <EdgeWalkIn.textWillArrive>TODO</EdgeWalkIn.textWillArrive>
   
   <!-- EN: {0} from {1} have arrived nearby, approaching from multiple angles. -->
-  <EdgeWalkInGroups.textEnemy>Flera grupper av {0} från {1} har anlänt i närheten.</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textEnemy>{0} från {1} har anlänt i närheten och närmar sig från flera håll.</EdgeWalkInGroups.textEnemy>
   <!-- EN: Friendly {0} from {1} have arrived nearby, approaching from multiple angles. -->
   <EdgeWalkInGroups.textFriendly>Flera vänliga grupper av {0} från {1} har anlänt i närheten.</EdgeWalkInGroups.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive on foot, approaching from several angles at once. -->

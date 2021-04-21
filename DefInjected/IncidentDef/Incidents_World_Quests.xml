@@ -2,49 +2,14 @@
 <LanguageData>
   
   <!-- EN: journey offer -->
-  <GiveQuest_EndGame_ShipEscape.label>TODO</GiveQuest_EndGame_ShipEscape.label>
+  <GiveQuest_EndGame_ShipEscape.label>reseförslag</GiveQuest_EndGame_ShipEscape.label>
   <!-- EN: Journey offer -->
-  <GiveQuest_EndGame_ShipEscape.letterLabel>TODO</GiveQuest_EndGame_ShipEscape.letterLabel>
+  <GiveQuest_EndGame_ShipEscape.letterLabel>Reseförslag</GiveQuest_EndGame_ShipEscape.letterLabel>
   
   <!-- EN: quest -->
-  <GiveQuest_Random.label>TODO</GiveQuest_Random.label>
+  <GiveQuest_Random.label>uppdrag</GiveQuest_Random.label>
   <!-- EN: Quest available -->
-  <GiveQuest_Random.letterLabel>TODO</GiveQuest_Random.letterLabel>
-  
-  <!-- UNUSED -->
-  <Quest_BanditCamp.label>banditläger, uppdrag</Quest_BanditCamp.label>
-  <Quest_BanditCamp.letterLabel>Banditläger, uppdrag</Quest_BanditCamp.letterLabel>
-  <Quest_BanditCamp.letterText>{0}, {1} från {2}, har skickat ett meddelande.\n\nUppenbarligen har banditer som är baserade i ett närliggande läger anfallit deras karavaner. De har bett oss förstöra det, vilket innebär att eliminera alla fiender och kanontorn.\n\n{0} säger att {5}.\n\nOm vi ​​lyckas kommer våra relationer att förbättras, och de skickar oss denna belöning värd {6}:\n\n{3}\n\nOm vi inte förstör lägret inom {4} dagar, kommer de att göra det själva.</Quest_BanditCamp.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_DownedRefugee.label>handlingsförlamad flykting, uppdrag</Quest_DownedRefugee.label>
-  <Quest_DownedRefugee.letterLabel>Handlingsförlamad flykting, uppdrag</Quest_DownedRefugee.letterLabel>
-  <Quest_DownedRefugee.letterText>{PAWN_nameDef} kontakter dig och ber om hjälp. {PAWN_pronoun} är skadad och kan inte röra sig. Utan din hjälp kommer {PAWN_pronoun} att dö inom {0} dagar.\n\n{PAWN_nameDef} är en {1}-årig {2}. {PAWN_pronoun} lovar att ansluta till kolonin om du räddar {PAWN_objective}.\n\n {PAWN_nameDef} säger att {3}.</Quest_DownedRefugee.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_ItemStash.label>föremålsgömma, uppdrag</Quest_ItemStash.label>
-  <Quest_ItemStash.letterLabel>Föremålsgömma, uppdrag</Quest_ItemStash.letterLabel>
-  <Quest_ItemStash.letterText>{0}, {1} från {2}, har informerat oss om en samling värdefulla föremål i närheten värda {6}. Samlingen består av:\n\n{3}\n\nTyvärr kommer den inte finnas kvar länge - andra kommer att lägga beslag på sakerna om {4} dagar om vi inte gör det.\n\nVar försiktig - värdefulla föremål tenderar att dra till sig faror. {0} berättar att {5}.</Quest_ItemStash.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_ItemStashAICore.label>föremålsgömma, uppdrag (AI-kärna)</Quest_ItemStashAICore.label>
-  <Quest_ItemStashAICore.letterLabel>föremålsgömma, uppdrag</Quest_ItemStashAICore.letterLabel>
-  <Quest_ItemStashAICore.letterText>{0}, {1} från {2}, har informerat oss om en samling värdefulla föremål i närheten värda {6}. Samlingen består av:\n\n{3}\n\nTyvärr kommer den inte finnas kvar länge - andra kommer att lägga beslag på sakerna om {4} dagar om vi inte gör det.\n\nVar försiktig - värdefulla föremål tenderar att dra till sig faror. {0} berättar att {5}.</Quest_ItemStashAICore.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_JourneyOffer.label>Fly från skepp, uppdrag</Quest_JourneyOffer.label>
-  
-  <!-- UNUSED -->
-  <Quest_PeaceTalks.label>fredssamtal</Quest_PeaceTalks.label>
-  <Quest_PeaceTalks.letterLabel>Fredssamtal</Quest_PeaceTalks.letterLabel>
-  <Quest_PeaceTalks.letterText>{PAWN_nameDef}, {0} av {1}, har skickat ett meddelande. {PAWN_pronoun vill föra ett samtal med oss i ett närliggande område.\n\nDetta kan vara en utmärkt möjlighet för att förbättra relationerna med deras fraktion och ta emot gåvor, men ha i åttanke - en dålig förhandlare kan orsaka mer skada än nytta och till och med förarga dem.\n\nErbjudandet löper ut om {2} dagar.</Quest_PeaceTalks.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_PrisonerRescue.label>frita en fånge, uppdrag</Quest_PrisonerRescue.label>
-  <Quest_PrisonerRescue.letterLabel>Frita en fånge</Quest_PrisonerRescue.letterLabel>
-  <Quest_PrisonerRescue.letterText>En fånge som hålls inlåst av {0} har lyckats stjäla en radio och anropar dig!\n\n{PAWN_nameDef} hålls tillfångatagen i ett närliggande läger som är bevakat. Rädda {PAWN_objective} och {PAWN_pronoun} kommer ansluta till din koloni. {PAWN_pronoun} är en {1}-årig {2}. {PAWN_pronoun} säger att {3}.</Quest_PrisonerRescue.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_TradeRequest.label>handelsförfrågan</Quest_TradeRequest.label>
+  <GiveQuest_Random.letterLabel>Uppdrag tillgängligt</GiveQuest_Random.letterLabel>
+
   
 </LanguageData>

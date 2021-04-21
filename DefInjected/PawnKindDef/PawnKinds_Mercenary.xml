@@ -18,9 +18,9 @@
   <Mercenary_Elite.labelPlural>legosoldater</Mercenary_Elite.labelPlural>
   
   <!-- EN: elite mercenary -->
-  <Mercenary_Elite_Acidifier.label>TODO</Mercenary_Elite_Acidifier.label>
+  <Mercenary_Elite_Acidifier.label>legosoldat</Mercenary_Elite_Acidifier.label>
   <!-- EN: elite mercenaries -->
-  <Mercenary_Elite_Acidifier.labelPlural>TODO</Mercenary_Elite_Acidifier.labelPlural>
+  <Mercenary_Elite_Acidifier.labelPlural>legosoldater</Mercenary_Elite_Acidifier.labelPlural>
   
   <!-- EN: mercenary gunner -->
   <Mercenary_Gunner.label>pistolbeväpnad legosoldat</Mercenary_Gunner.label>

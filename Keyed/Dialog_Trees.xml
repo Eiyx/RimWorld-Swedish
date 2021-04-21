@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
-  <FactionGreetingHostile>{0} häver ur sig ett par tillmälen mot skärmen och lägger på.</FactionGreetingHostile>
+  <FactionGreetingHostile>{0} häver ur sig ett par tillmälen i mikrofonen och lägger på.</FactionGreetingHostile>
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
   <FactionGreetingHostileAppreciative>{0} kräver att du utför en välvillighetsgest, såsom att ge bort gåvor till en av {0_possessive} bosättningar eller släppa fångar från {0_possessive} oskadda. Fram tills dess är inte {0_pronoun} villig att prata.\n\n{0_pronoun} kopplar från, muttrandes en förolämpning.</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
@@ -11,7 +11,7 @@
   <FactionGreetingWarm>{0} hälsar hjärtligt på {NEGOTIATOR_labelShort} och undrar hur {LEADER_pronoun} kan hjälpa till.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
-  <WorkTypeDisablesOption>TODO</WorkTypeDisablesOption>
+  <WorkTypeDisablesOption>kommer inte utföra {0}</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
   <Disconnect>Koppla från</Disconnect>
 

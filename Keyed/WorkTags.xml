@@ -34,10 +34,10 @@
   <!-- EN: mining -->
   <WorkTagMining>malmbrytning</WorkTagMining>
   <!-- EN: hunting -->
-  <WorkTagHunting>TODO</WorkTagHunting>
+  <WorkTagHunting>jakt</WorkTagHunting>
   <!-- EN: commoner work -->
-  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <WorkTagCommoner>vanligt arbete</WorkTagCommoner>
   <!-- EN: all work -->
-  <WorkTagAllWork>TODO</WorkTagAllWork>
+  <WorkTagAllWork>arbete</WorkTagAllWork>
 
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: heatstroke -->
   <Heatstroke.label>värmeslag</Heatstroke.label>
   <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
-  <Heatstroke.description>TODO</Heatstroke.description>
+  <Heatstroke.description>En generell störning av kroppsfunktion orsakad av överdriven exponering för värme och sol. Varelsen blir yr, svag och förvirrad. Återhämtningen går snabbt i ett svalt område, men om värmeexponeringen fortsätter blir värmeslaget värre fram tills att döden inträffar.</Heatstroke.description>
   <!-- EN: initial -->
   <Heatstroke.stages.initial-0.label>begynnande</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
@@ -19,7 +19,7 @@
   <!-- EN: hypothermia -->
   <Hypothermia.label>hypotermi</Hypothermia.label>
   <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
-  <Hypothermia.description>TODO</Hypothermia.description>
+  <Hypothermia.description>Farligt låg kroppstemperatur. Utan att värmas upp blir hypotermin värre och slutar med döden. Återhämtningen sker snabbt när varelsen värms upp. Undvik hypotermi genom att ha varma kläder i kalla miljöer</Hypothermia.description>
   <!-- EN: shivering -->
   <Hypothermia.stages.shivering-0.label>skälvande</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
@@ -34,7 +34,7 @@
   <!-- EN: hypothermic slowdown -->
   <HypothermicSlowdown.label>hypotermisk avmattning</HypothermicSlowdown.label>
   <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
-  <HypothermicSlowdown.description>TODO</HypothermicSlowdown.description>
+  <HypothermicSlowdown.description>Ett speciellt biologiskt tillstånd som används av vissa varelser för att överleva extrem kyla. Istället för att försöka hålla sig varm, anpassar varelsen sin kemiska sammansättning för att förhindra intern förfrysning trots mycket låg temperatur. Kroppsfunktioner sänks och kapaciteten minskas men kylan gör ingen permanent skada. Vissa biologer kallar det en vaken form av att gå i ide.</HypothermicSlowdown.description>
   <!-- EN: minor -->
   <HypothermicSlowdown.stages.minor-0.label>liten</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->

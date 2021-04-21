@@ -18,15 +18,13 @@
   <!-- EN: smokeleaf tolerance -->
   <SmokeleafTolerance.label>rökbladstolerans</SmokeleafTolerance.label>
   <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
-  <SmokeleafTolerance.description>TODO</SmokeleafTolerance.description>
+  <SmokeleafTolerance.description>En uppbyggd tolerans till rökblad. Ju högre tolerans desto mer röklöv behövs för att få samma effekt.</SmokeleafTolerance.description>
   <!-- EN: small -->
   <SmokeleafTolerance.stages.small.label>liten</SmokeleafTolerance.stages.small.label>
   <!-- EN: large -->
   <SmokeleafTolerance.stages.large.label>stor</SmokeleafTolerance.stages.large.label>
   <!-- EN: massive -->
   <SmokeleafTolerance.stages.massive.label>enorm</SmokeleafTolerance.stages.massive.label>
-  
-  <!-- UNUSED -->
-  <SmokeleafTolerance.stages.small-1.label>liten</SmokeleafTolerance.stages.small-1.label>
+
   
 </LanguageData>

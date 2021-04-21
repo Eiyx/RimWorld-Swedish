@@ -79,7 +79,7 @@
   <!-- EN: shelf -->
   <Shelf.label>hylla</Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
-  <Shelf.description>En hylla för att förvara olika saker. Föremål som placeras i denna kommer inte försämras, även om de är utomhus.</Shelf.description>
+  <Shelf.description>En hylla för att förvara olika saker. Föremål som placeras i denna kommer inte påverka rummets skönhet eller försämras, även om det är utomhus.</Shelf.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>sovplats</SleepingSpot.label>

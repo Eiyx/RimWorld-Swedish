@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: butcher creature -->
-  <ButcherCorpseFlesh.label>stycka varelse</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.label>slakta varelse</ButcherCorpseFlesh.label>
   <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
-  <ButcherCorpseFlesh.description>Styckar en varelse för att ta reda på kött, skinn och andra produkter.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.description>Slaktar en varelse för att ta reda på kött, skinn och andra produkter.</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
-  <ButcherCorpseFlesh.jobString>Styckar.</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.jobString>Slaktar.</ButcherCorpseFlesh.jobString>
   
   <!-- EN: shred mechanoid -->
-  <ButcherCorpseMechanoid.label>Demontera mekanoid</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>strimla mekanoid</ButcherCorpseMechanoid.label>
   <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
-  <ButcherCorpseMechanoid.description>Plockar isär en död mekanoid till dess komponenter.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>Strimla en död mekanoid för att försöka ta tillvara på material.</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>Demonterar mekanoid.</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>Strimlar mekanoid.</ButcherCorpseMechanoid.jobString>
   
   <!-- EN: smash mechanoid -->
-  <SmashCorpseMechanoid.label>TODO</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.label>slå sönder mekanoid</SmashCorpseMechanoid.label>
   <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
-  <SmashCorpseMechanoid.description>TODO</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.description>Slå sönder en död mekanoid med simpla verktyg för att ta tillvara på material.</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
-  <SmashCorpseMechanoid.jobString>TODO</SmashCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.jobString>Slår sönder mekanoid.</SmashCorpseMechanoid.jobString>
   
 </LanguageData>

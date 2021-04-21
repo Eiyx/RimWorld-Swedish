@@ -4,29 +4,29 @@
   <!-- EN: denture -->
   <Denture.label>tandprotes</Denture.label>
   <!-- EN: An installed denture. -->
-  <Denture.description>TODO</Denture.description>
+  <Denture.description>Installerad tandprotes.</Denture.description>
   <!-- EN: a denture -->
   <Denture.labelNoun>en tandprotes</Denture.labelNoun>
   
   <!-- EN: peg leg -->
   <PegLeg.label>träben</PegLeg.label>
   <!-- EN: An installed peg leg. -->
-  <PegLeg.description>TODO</PegLeg.description>
+  <PegLeg.description>Ett installerat träben.</PegLeg.description>
   <!-- EN: a peg leg -->
   <PegLeg.labelNoun>ett träben</PegLeg.labelNoun>
   
   <!-- EN: wooden foot -->
   <WoodenFoot.label>träfot</WoodenFoot.label>
   <!-- EN: An installed wooden foot. -->
-  <WoodenFoot.description>TODO</WoodenFoot.description>
+  <WoodenFoot.description>En installerad träfot.</WoodenFoot.description>
   <!-- EN: a wooden foot -->
   <WoodenFoot.labelNoun>en träfot</WoodenFoot.labelNoun>
   
   <!-- EN: wooden hand -->
-  <WoodenHand.label>TODO</WoodenHand.label>
+  <WoodenHand.label>trähand</WoodenHand.label>
   <!-- EN: An installed wooden hand. -->
-  <WoodenHand.description>TODO</WoodenHand.description>
+  <WoodenHand.description>En installerad trähand.</WoodenHand.description>
   <!-- EN: a wooden hand -->
-  <WoodenHand.labelNoun>TODO</WoodenHand.labelNoun>
+  <WoodenHand.labelNoun>en trähand</WoodenHand.labelNoun>
   
 </LanguageData>

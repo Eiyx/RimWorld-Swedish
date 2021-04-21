@@ -4,7 +4,7 @@
   <!-- EN: malnutrition -->
   <Malnutrition.label>undernäring</Malnutrition.label>
   <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleaseant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death.\n\nUpon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
-  <Malnutrition.description>TODO</Malnutrition.description>
+  <Malnutrition.description>Onormalt lågt kroppsfett och vikt som vanligtvis orsakas av brist på mat. Undernäring är alltid mycket obehagligt, men dess initiala effekter är milda. Utan mat kommer en undernärd varelse att tyna bort, förlora muskelmassa och kapacitet. Undernäring slutar med döden.\n\nGenom att åter äta kommer undernäringen naturligt återställas över tid. Undernärda varelser har större aptit än normalt.</Malnutrition.description>
   <!-- EN: trivial -->
   <Malnutrition.stages.trivial.label>trivial</Malnutrition.stages.trivial.label>
   <!-- EN: minor -->

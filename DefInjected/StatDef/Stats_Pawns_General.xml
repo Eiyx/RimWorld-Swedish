@@ -4,17 +4,17 @@
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>bärförmåga</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
-  <CarryingCapacity.description>Mängden saker denna varelse kan bära i sin hand, mun, eller andra manipulatorer.</CarryingCapacity.description>
+  <CarryingCapacity.description>Mängden saker denna varelse kan bära i sin hand, mun, eller andra manipulatorer. TODO</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
   <ComfyTemperatureMax.label>Högsta behaglig temperatur</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
-  <ComfyTemperatureMax.description>Ovanför denna temperatur kommer personen att vara olycklig. Betydligt högre än denna temperatur kommer de att utveckla värmeslag och så småningom dö.</ComfyTemperatureMax.description>
+  <ComfyTemperatureMax.description> TODOOvanför denna temperatur kommer personer att vara olycklig. Betydligt högre än denna temperatur kommer de att utveckla värmeslag och så småningom dö.</ComfyTemperatureMax.description>
   
   <!-- EN: Minimum comfortable temperature -->
   <ComfyTemperatureMin.label>Minsta behaglig temperatur</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
-  <ComfyTemperatureMin.description>Under denna temperatur kommer personen att vara olycklig. Betydligt under denna temperatur kommer de att utveckla hypotermi och förfrysning och så småningom dö.</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.description>TODO Under denna temperatur kommer personen att vara olycklig. Betydligt under denna temperatur kommer de att utveckla hypotermi och förfrysning och så småningom dö.</ComfyTemperatureMin.description>
   
   <!-- EN: eating speed -->
   <EatingSpeed.label>äthastighet</EatingSpeed.label>
@@ -39,7 +39,7 @@
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>immunitethastighet</ImmunityGainSpeed.label>
   <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
-  <ImmunityGainSpeed.description>Hastighet med vilken denna personen får immunitet mot sjukdomar. Om detta är för långsam, kommer personen att dö av sjukdomen innan den hinner utveckla immunitet.</ImmunityGainSpeed.description>
+  <ImmunityGainSpeed.description>TODO Hastighet med vilken denna personen får immunitet mot sjukdomar. Om detta är för långsam, kommer personen att dö av sjukdomen innan den hinner utveckla immunitet.</ImmunityGainSpeed.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>lädermängd</LeatherAmount.label>
@@ -54,7 +54,7 @@
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>mentaltbryt-tröskel</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
-  <MentalBreakThreshold.description>Så länge som någons humör är under denna nivå riskerar de att få en mentalt bryt.</MentalBreakThreshold.description>
+  <MentalBreakThreshold.description>TODO Så länge som någons humör är under denna nivå riskerar de att få en mentalt bryt. </MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>minsta hanteringsfärdighet</MinimumHandlingSkill.label>
@@ -76,7 +76,7 @@
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>psykisk känslighet</PsychicSensitivity.label>
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
-  <PsychicSensitivity.description>Multiplikator på hur effekterna av psykiska fenomen påverkar den här personen.</PsychicSensitivity.description>
+  <PsychicSensitivity.description>TODO Multiplikator på hur effekterna av psykiska fenomen påverkar den här personen.</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>vilohastighetsmultiplikator</RestRateMultiplier.label>

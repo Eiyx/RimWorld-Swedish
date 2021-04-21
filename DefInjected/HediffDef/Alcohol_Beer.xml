@@ -4,14 +4,14 @@
   <!-- EN: alcohol addiction -->
   <AlcoholAddiction.label>alkoholberoende</AlcoholAddiction.label>
   <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AlcoholAddiction.description>TODO</AlcoholAddiction.description>
+  <AlcoholAddiction.description>Ett kemisk beroende av alkohol. En långvarig närvaro av alkohol i blodet har orsakat neurologiska anpassningar på en cellulär nivå. Hjärnan kan inte längre fungera ordentligt utan substansen.\n\nUtan regelbundet intag av alkohol kommer abstinenssymptom. En utdragen abstinens kommer tvinga hjärnan att återgå till sitt normala tillstånd och häva beroendet.</AlcoholAddiction.description>
   <!-- EN: withdrawal -->
   <AlcoholAddiction.stages.withdrawal.label>abstinens</AlcoholAddiction.stages.withdrawal.label>
   
   <!-- EN: alcohol -->
   <AlcoholHigh.label>alkohol</AlcoholHigh.label>
   <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
-  <AlcoholHigh.description>TODO</AlcoholHigh.description>
+  <AlcoholHigh.description>Alkohol i blodomloppet. Gör folk glada men reducerar prestationsförmåga.</AlcoholHigh.description>
   <!-- EN: drunkenness -->
   <AlcoholHigh.labelNoun>berusning</AlcoholHigh.labelNoun>
   <!-- EN: warm -->
@@ -28,7 +28,7 @@
   <!-- EN: alcohol tolerance -->
   <AlcoholTolerance.label>alkoholtolerans</AlcoholTolerance.label>
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
-  <AlcoholTolerance.description>TODO</AlcoholTolerance.description>
+  <AlcoholTolerance.description>Uppbygd tolerans för alkohol. Ju högre tolerans desto mer alkohol behövs för att ge samma effekt.</AlcoholTolerance.description>
   <!-- EN: small -->
   <AlcoholTolerance.stages.small.label>liten</AlcoholTolerance.stages.small.label>
   <!-- EN: large -->
@@ -36,13 +36,10 @@
   <!-- EN: massive -->
   <AlcoholTolerance.stages.massive.label>enorm</AlcoholTolerance.stages.massive.label>
   
-  <!-- UNUSED -->
-  <AlcoholTolerance.stages.small-1.label>liten</AlcoholTolerance.stages.small-1.label>
-  
   <!-- EN: hangover -->
   <Hangover.label>bakfull</Hangover.label>
   <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
-  <Hangover.description>TODO</Hangover.description>
+  <Hangover.description>En obehaglig och fördröjd biverkning av alkoholintag.</Hangover.description>
   <!-- EN: a hangover -->
   <Hangover.labelNoun>bakfylla</Hangover.labelNoun>
   <!-- EN: slight -->

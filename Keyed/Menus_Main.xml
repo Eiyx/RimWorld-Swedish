@@ -629,8 +629,5 @@
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
 
-  <!-- UNUSED -->
-  <SelectLandingSite>Välj landingsplats</SelectLandingSite>
-  <MustSelectLandingSite>Du måste välja en landningsplats.</MustSelectLandingSite>
 
 </LanguageData>

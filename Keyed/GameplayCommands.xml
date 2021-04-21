@@ -542,7 +542,5 @@
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
   <TakeDrugDesc>TODO</TakeDrugDesc>
   
-  <!-- UNUSED -->
-  <CommandBedSetOwnerLabel>Ange ägare</CommandBedSetOwnerLabel>
 
 </LanguageData>

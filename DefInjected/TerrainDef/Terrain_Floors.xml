@@ -29,7 +29,7 @@
   <!-- EN: concrete -->
   <Concrete.label>betong</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
-  <Concrete.description>Rå betong, snabb att ta sig fram över, billig och snabb att lägga men ganska fult.</Concrete.description>
+  <Concrete.description>Rå betong, billig och snabb att lägga men ganska fult.</Concrete.description>
   
   <!-- EN: gold tile -->
   <GoldTile.label>guldplattor</GoldTile.label>
@@ -37,14 +37,14 @@
   <GoldTile.description>För överlägsen extravagans, ingenting slår guldplattor, de är extremt dyra och otroligt vackra. Folk kommer tro att du är väldigt snobbig om du faktiskt bor på dessa.</GoldTile.description>
   
   <!-- EN: steel tile -->
-  <MetalTile.label>metallplattor</MetalTile.label>
+  <MetalTile.label>stålplattor</MetalTile.label>
   <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>Metallplattor, för den där rymdskeppslooken. De är fina och den jämna ytan ger en renlighetsbonus.</MetalTile.description>
+  <MetalTile.description>Stålplattor, för den där rymdskeppslooken. De är fina och den jämna ytan ger en renlighetsbonus.</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>gjutna klinkers</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>Betongklinker. Billigt och snabbt att ta sig fram över, neutralt i fråga om stil och tar lång tid att lägga.</PavedTile.description>
+  <PavedTile.description>Betongklinker. Billigt och neutralt i fråga om stil, tar lång tid att lägga.</PavedTile.description>
   
   <!-- EN: silver tile -->
   <SilverTile.label>silverplattor</SilverTile.label>

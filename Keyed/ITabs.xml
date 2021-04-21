@@ -324,10 +324,5 @@
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>TODO</DeleteQuest>
 
-  <!-- UNUSED -->
-  <FormingCaravanStatus_GatheringAnimals>Samlar djur</FormingCaravanStatus_GatheringAnimals>
-  <FormingCaravanStatus_GatheringAnimals_Pause>Samlar djur (väntar)</FormingCaravanStatus_GatheringAnimals_Pause>
-  <FormingCaravanStatus_GatheringSlaves>Samlar slavar</FormingCaravanStatus_GatheringSlaves>
-  <FormingCaravanStatus_GatheringSlaves_Pause>Samlar slavar (väntar)</FormingCaravanStatus_GatheringSlaves_Pause>
 
 </LanguageData>

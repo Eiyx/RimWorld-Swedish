@@ -29,7 +29,7 @@
   <Designator_RotateRight.label>rotera höger</Designator_RotateRight.label>
   
   <!-- EN: change selected debug action -->
-  <Dev_ChangeSelectedDebugAction.label>TODO</Dev_ChangeSelectedDebugAction.label>
+  <Dev_ChangeSelectedDebugAction.label>ändra vald debug handling</Dev_ChangeSelectedDebugAction.label>
   
   <!-- EN: tick once -->
   <Dev_TickOnce.label>bocka av en gång</Dev_TickOnce.label>

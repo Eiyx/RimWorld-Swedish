@@ -4,7 +4,7 @@
   <!-- EN: alzheimer's -->
   <Alzheimers.label>alzheimers</Alzheimers.label>
   <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
-  <Alzheimers.description>TODO</Alzheimers.description>
+  <Alzheimers.description>En demenssjukdom som vanligtvis är förknippad med att åldras. Alzheimers sjukdom försämrar förmågan att tänka och komma ihåg. Patienter brukar glömma bort nära släktingar och ibland vandra runt i förvirring.</Alzheimers.description>
   <!-- EN: minor -->
   <Alzheimers.stages.minor-0.label>lindrig</Alzheimers.stages.minor-0.label>
   <!-- EN: minor -->
@@ -17,7 +17,7 @@
   <!-- EN: asthma -->
   <Asthma.label>astma</Asthma.label>
   <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
-  <Asthma.description>TODO</Asthma.description>
+  <Asthma.description>En långvarig inflammatorisk sjukdom i lungornas luftvägar. Kräver regelbunden behandling för att förhindra symtom.</Asthma.description>
   <!-- EN: minor -->
   <Asthma.stages.minor.label>lindrig</Asthma.stages.minor.label>
   <!-- EN: major -->
@@ -28,19 +28,19 @@
   <!-- EN: bad back -->
   <BadBack.label>dålig rygg</BadBack.label>
   <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
-  <BadBack.description>TODO</BadBack.description>
+  <BadBack.description>En försämring av kotpelaren i ryggen och omgivande muskler. Gör det svårt att röra sig och böja sig ned.</BadBack.description>
   <!-- EN: a bad back -->
   <BadBack.labelNoun>dålig rygg</BadBack.labelNoun>
   
   <!-- EN: blindness -->
   <Blindness.label>blindhet</Blindness.label>
   <!-- EN: Total inability to see. -->
-  <Blindness.description>TODO</Blindness.description>
+  <Blindness.description>Total oförmåga att se.</Blindness.description>
   
   <!-- EN: carcinoma -->
   <Carcinoma.label>cancer</Carcinoma.label>
   <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
-  <Carcinoma.description>TODO</Carcinoma.description>
+  <Carcinoma.description>En klump av cancervävnad. Utan behandling kommer cancern att sprida sig och orsakar en försämring av symtom vilket på sikt leder till döden.\n\nEn skicklig läkare kan ta bort cancervävnaden. En okunnig läkare kan eventuellt amputera kroppsdelen med cancern i.</Carcinoma.description>
   <!-- EN: a carcinoma -->
   <Carcinoma.labelNoun>har cancer</Carcinoma.labelNoun>
   <!-- EN: minor -->
@@ -59,31 +59,31 @@
   <!-- EN: cataract -->
   <Cataract.label>gråstarr</Cataract.label>
   <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
-  <Cataract.description>TODO</Cataract.description>
+  <Cataract.description>Mjölkaktig hinna i ögat. Starr försämrar synen.</Cataract.description>
   <!-- EN: a cataract -->
   <Cataract.labelNoun>gråstarr</Cataract.labelNoun>
   
   <!-- EN: dementia -->
   <Dementia.label>demens</Dementia.label>
   <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
-  <Dementia.description>TODO</Dementia.description>
+  <Dementia.description>Nedbrytning av nervbanor i hjärnan som försämrar förmågan att tänka och komma ihåg saker. Demens orsakas av olika saker, åldrande, specifika sjukdomar och toxiner.</Dementia.description>
   
   <!-- EN: frail -->
   <Frail.label>skör</Frail.label>
   <!-- EN: Generalized loss of muscle and bone density. -->
-  <Frail.description>TODO</Frail.description>
+  <Frail.description>Allmän förlust av muskelmassa och bentäthet.</Frail.description>
   <!-- EN: frailty -->
   <Frail.labelNoun>skörhet</Frail.labelNoun>
   
   <!-- EN: hearing loss -->
   <HearingLoss.label>hörselnedsättning</HearingLoss.label>
   <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
-  <HearingLoss.description>TODO</HearingLoss.description>
+  <HearingLoss.description>Oförmåga att höra låga ljud på grund av en försämring av öronsnäckans hårceller.</HearingLoss.description>
   
   <!-- EN: artery blockage -->
   <HeartArteryBlockage.label>kranskärlssjukdom</HeartArteryBlockage.label>
   <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
-  <HeartArteryBlockage.description>TODO</HeartArteryBlockage.description>
+  <HeartArteryBlockage.description>En propp i et av kranskärlen runt hjärtat. Kan slumpmässigt inducera hjärtattacker.</HeartArteryBlockage.description>
   <!-- EN: an artery blockage -->
   <HeartArteryBlockage.labelNoun>en kranskärlssjukdom</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->

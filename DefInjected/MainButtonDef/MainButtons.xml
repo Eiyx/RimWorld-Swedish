@@ -35,9 +35,9 @@
   <Menu.description>Ändra alternativ, spara, ladda eller avsluta spelet.</Menu.description>
   
   <!-- EN: quests -->
-  <Quests.label>TODO</Quests.label>
+  <Quests.label>uppdrag</Quests.label>
   <!-- EN: View available, active, and historical quests. -->
-  <Quests.description>TODO</Quests.description>
+  <Quests.description>Visa tillgängliga, aktiva och historiska uppdrag.</Quests.description>
   
   <!-- EN: research -->
   <Research.label>forskning</Research.label>
@@ -45,9 +45,9 @@
   <Research.description>Undersök och besluta om forskningsprojekt.</Research.description>
   
   <!-- EN: schedule -->
-  <Restrict.label>begränsa</Restrict.label>
+  <Restrict.label>schemalägg</Restrict.label>
   <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
-  <Restrict.description>Begränsa kolonister till vissa aktiviteter vid vissa tider på dagen, eller till specifikt tillåtna områden.</Restrict.description>
+  <Restrict.description>Schamalägg kolonister till vissa aktiviteter vid vissa tider på dagen, eller till specifikt tillåtna områden.</Restrict.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>djurliv</Wildlife.label>

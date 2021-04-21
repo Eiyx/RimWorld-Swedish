@@ -84,10 +84,6 @@
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
   <KnowPrisonerSold.stages.prisoner_sold.description>TODO</KnowPrisonerSold.stages.prisoner_sold.description>
   
-  <!-- UNUSED -->
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>en fånge såldes</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>Denna koloni sålde en fånge till slaveri. Det är en oroande tanke.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
-  
   <!-- EN: my organ harvested -->
   <MyOrganHarvested.stages.my_organ_harvested.label>mina organ skördades</MyOrganHarvested.stages.my_organ_harvested.label>
   <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->

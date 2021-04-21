@@ -212,7 +212,7 @@
   <DoBillsRefinery.verb>raffinera kemikalier</DoBillsRefinery.verb>
   
   <!-- EN: make things at art bench -->
-  <DoBillsSculpt.label>gör skulpturer</DoBillsSculpt.label>
+  <DoBillsSculpt.label>skapa konst vid TODO </DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>skulpterar vid</DoBillsSculpt.gerund>
   <!-- EN: sculpt -->
@@ -511,11 +511,6 @@
   <Research.gerund>forskar vid</Research.gerund>
   <!-- EN: research -->
   <Research.verb>forska</Research.verb>
-  
-  <!-- UNUSED -->
-  <Scan.label>mannövrera skanner</Scan.label>
-  <Scan.gerund>skannar vid</Scan.gerund>
-  <Scan.verb>skanna</Scan.verb>
   
   <!-- EN: shear animals -->
   <Shear.label>klipp djur</Shear.label>

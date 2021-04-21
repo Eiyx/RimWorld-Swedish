@@ -71,7 +71,7 @@
   <MechanicalThorax.label>bröstkorg</MechanicalThorax.label>
   
   <!-- EN: thorax -->
-  <MechanicalThoraxCanManipulate.label>TODO</MechanicalThoraxCanManipulate.label>
+  <MechanicalThoraxCanManipulate.label>överkropp</MechanicalThoraxCanManipulate.label>
   
   <!-- EN: reactor -->
   <Reactor.label>reaktor</Reactor.label>

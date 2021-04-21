@@ -60,9 +60,6 @@
   <!-- EN: Ransom demand -->
   <RansomDemand.letterLabel>Lösenkrav</RansomDemand.letterLabel>
   
-  <!-- UNUSED -->
-  <RefugeeChased.label>jagad flykting</RefugeeChased.label>
-  
   <!-- EN: transport pod crash -->
   <RefugeePodCrash.label>krasch av transportkapsel</RefugeePodCrash.label>
   
@@ -93,9 +90,9 @@
   <!-- EN: wanderer join -->
   <WandererJoin.label>vandrare ansluter</WandererJoin.label>
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
-  <WandererJoin.letterLabel>vandrare ansluter</WandererJoin.letterLabel>
+  <WandererJoin.letterLabel>Vandrare ansluter: {PAWN_nameDef}</WandererJoin.letterLabel>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
-  <WandererJoin.letterText>En {PAWN_kind} vid namn {PAWN_nameDef} har anlänt och ansluter till din koloni. {PAWN_pronoun} är en {PAWN_title}.\n\n[PAWN_pronoun] är villig att bidra, men vill inte lämna frivilligt. Om du inte vill ha {PAWN_nameDef} kan du förvisa {PAWN_objective}, sälja {PAWN_objective} till slaveri eller ha ihjäl {PAWN_objective}. Hursomhellst kommer dina kolonister inte tycka om det. </WandererJoin.letterText>
+  <WandererJoin.letterText>En {PAWN_title} vid namn {PAWN_nameDef} har anlänt och ansluter till din koloni.\n\n[PAWN_pronoun] är villig att bidra men inte lämna frivilligt. Om du inte vill ha {PAWN_nameDef} kan du förvisa {PAWN_objective}, sälja {PAWN_objective} till slaveri eller helt enkelt bara ha ihjäl {PAWN_objective}. Hursomhellst kommer dina kolonister inte tycka om det. </WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>vildmänniska vandrar in</WildManWandersIn.label>

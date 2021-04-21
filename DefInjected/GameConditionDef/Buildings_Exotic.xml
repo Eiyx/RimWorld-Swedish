@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: psychic droner -->
-  <PsychicDroner.label>TODO</PsychicDroner.label>
+  <PsychicDroner.label>psykisk drönare</PsychicDroner.label>
   <!-- EN: A psychic droner tuned to the {0} gender is driving {0}s mad. -->
-  <PsychicDroner.description>TODO</PsychicDroner.description>
+  <PsychicDroner.description>En psykisk drönare inställd på {0} och driver {0} till vansinne </PsychicDroner.description>
   <!-- EN: A psychic droner machine has begun affecting this region. -->
-  <PsychicDroner.letterText>TODO</PsychicDroner.letterText>
+  <PsychicDroner.letterText>En psykisk drönare har börjat påverka detta område.</PsychicDroner.letterText>
   
 </LanguageData>

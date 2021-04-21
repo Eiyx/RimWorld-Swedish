@@ -8,7 +8,7 @@
   <!-- EN: The aurora is ending. -->
   <Aurora.endMessage>Norrskenet avtar.</Aurora.endMessage>
   <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
-  <Aurora.letterText>TODO</Aurora.letterText>
+  <Aurora.letterText>Ett vackert norrsken lyser upp himlen.\n\nDe böljande färgerna höjer humöret för de som är utomhus och ser det, gör även natten ljusare.</Aurora.letterText>
   
   <!-- EN: climate cycle -->
   <ClimateCycle.label>klimatcykel</ClimateCycle.label>
@@ -20,11 +20,11 @@
   <!-- EN: An unusual cold snap is freezing the region. -->
   <ColdSnap.description>En ovanlig köldknäpp förfryser regionen.</ColdSnap.description>
   <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
-  <ColdSnap.descriptionFuture>TODO</ColdSnap.descriptionFuture>
+  <ColdSnap.descriptionFuture>en kallfront kyler ned området runt [map_definite] under [gameConditionDuration_duration] vilket skadar växter och djur utan lämpligt skydd.</ColdSnap.descriptionFuture>
   <!-- EN: The cold snap is over. -->
   <ColdSnap.endMessage>Köldknäppen avtar.</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>TODO</ColdSnap.letterText>
+  <ColdSnap.letterText>En ovanlig köldknäpp har anlänt. Köldknäppar kan snabbt ha ihjäl någon genom hypoterimi. Bygg ett uppvärmt utrymme för att överleva, klä dig efter väder och försök skörda dina grödor innan de förfryser och dör.</ColdSnap.letterText>
   
   <!-- EN: eclipse -->
   <Eclipse.label>solförmörkelse</Eclipse.label>
@@ -33,7 +33,7 @@
   <!-- EN: The eclipse is ending. -->
   <Eclipse.endMessage>Solförmörkelsen avtar.</Eclipse.endMessage>
   <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
-  <Eclipse.letterText>TODO</Eclipse.letterText>
+  <Eclipse.letterText>En av planetens månar har hamnat framför solen. En solförmörkelse har påbörjats. </Eclipse.letterText>
   
   <!-- EN: flashstorm -->
   <Flashstorm.label>blixtoväder</Flashstorm.label>
@@ -42,18 +42,18 @@
   <!-- EN: The flashstorm is over. -->
   <Flashstorm.endMessage>Blixtovädret avtar.</Flashstorm.endMessage>
   <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
-  <Flashstorm.letterText>TODO</Flashstorm.letterText>
+  <Flashstorm.letterText>Ett blixtoväder drabbar ett litet område med blixtar. Kan orsaka massiva bränder.</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>värmebölja</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
   <HeatWave.description>En extrem värmebölja, det är stekhett utomhus.</HeatWave.description>
   <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
-  <HeatWave.descriptionFuture>TODO</HeatWave.descriptionFuture>
+  <HeatWave.descriptionFuture>en värmebölja kommer drabba området runt [map_definite] i [gameConditionDuration_duration], den kommer skada grödor och eventuellt ha ihjäl människor och djur som inte befinner sig i svala rum eller områden.</HeatWave.descriptionFuture>
   <!-- EN: The heat wave is over. -->
   <HeatWave.endMessage>Värmeböljan avtar.</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
-  <HeatWave.letterText>TODO</HeatWave.letterText>
+  <HeatWave.letterText>En ovanlig värmebölja har börjat.\n\nVärmeböljor kan orsaka värmeslag. Håll temperaturen nere genom att bygga en passiv eller elektrisk kylanläggning, eller gräv dig djupt under jord där berget håller kyla naturligt.</HeatWave.letterText>
   
   <!-- EN: planetkiller -->
   <Planetkiller.label>planetförstörare</Planetkiller.label>
@@ -65,20 +65,20 @@
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
   <PsychicDrone.description>En avlägsen, kraftfull AI sänder vågor av psykisk kraft som driver människor mot galenskap.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>TODO</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>en [psychicDroneLevel] psykisk drönare kommer surra i området runt [map_definite] under [gameConditionDuration_duration], det pressar alla människor av det [psychicDroneGender] kön till galenskap.</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>Den psykiska pulsen avtar.</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>TODO</PsychicDrone.letterText>
+  <PsychicDrone.letterText>Varje {0} kolonist känner en våg av ångest och ilska!\n\nNågon avlägsen motor av hat spinner. Den projicerar en psykisk puls på detta område genom en orbital förstärkare, inställd på enbart {0}. I ett par dagar kommer människors humör vare avsevärt sämre. Drönarens nivå är {1}.</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>psykisk lugn</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>En avlägsen, kraftfull AI utstrålar vågor av psykisk kraft som lugnar människor och stabiliserar deras sinnen.</PsychicSoothe.description>
+  <PsychicSoothe.description>En avlägsen arkotek skickar psykiska signaler genom en orbital förstärkare, den lugnar människor och stabiliserar deras sinnen.</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
   <PsychicSoothe.endMessage>Det psykiska lugnet avtar.</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
-  <PsychicSoothe.letterText>TODO</PsychicSoothe.letterText>
+  <PsychicSoothe.letterText>Varje {0} kolonist ler tillfredställt!\n\nNågon avlägsen motor av glädje spinner. Den projicerar en psykisk puls på detta område genom en orbital förstärkare, inställd på enbart {0}. I ett par dagar kommer några människors humör vara lite bättre.</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>soleruption</SolarFlare.label>
@@ -87,28 +87,28 @@
   <!-- EN: The solar flare is ending. -->
   <SolarFlare.endMessage>Soleruptionen avtar.</SolarFlare.endMessage>
   <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
-  <SolarFlare.letterText>TODO</SolarFlare.letterText>
+  <SolarFlare.letterText>En soleruption har påbörjats.\n\n Den intensiva strålningen kommer stänga av alla elektriska apparater.\n\nDet går över om någon dag. </SolarFlare.letterText>
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>giftnedfall</ToxicFallout.label>
   <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
   <ToxicFallout.description>En plym av giftigt damm från någon avlägsen plats lägger sig långsamt över hela området. Alla levande varelser som inte befinner sig under tak kommer sakta att förgiftas, föremål som lämnas utomhus korroderar.</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
-  <ToxicFallout.descriptionFuture>TODO</ToxicFallout.descriptionFuture>
+  <ToxicFallout.descriptionFuture>ett moln av giftigt nedfall lägger sig som en blöt filt över området runt map_definite] under [gameConditionDuration_duration], vilket har ihjäl växter och djur utomhus.</ToxicFallout.descriptionFuture>
   <!-- EN: The worst of the toxic fallout has settled. -->
   <ToxicFallout.endMessage>Det värsta av giftnedfallet har lagt sig.</ToxicFallout.endMessage>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum. -->
-  <ToxicFallout.letterText>TODO</ToxicFallout.letterText>
+  <ToxicFallout.letterText>En avlägsen giftig eldsvåda har avgett en plym med gift över hela regionen.\n\nAlla människor och djur som inte befinner sig under ett tak kommer sakta förgiftas av det farliga dammet som finns i atmosfären.\n\nDet kan pågå i någon vecka eller upp till hela årstider.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>vulkanisk vinter</VolcanicWinter.label>
   <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
-  <VolcanicWinter.description>En avlägsen vulkan har kvävt atmosvären med vulkanaska vilket märkbart reducerar soljuset. Temperaturen kommer sjunka och plantor kommer växa långsammare.</VolcanicWinter.description>
+  <VolcanicWinter.description>En avlägsen vulkan eller eldsvåda kväver atmosvären med aska vilket märkbart reducerar soljuset som når marken. Temperaturen kommer sjunka och plantor kommer växa långsammare.</VolcanicWinter.description>
   <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
-  <VolcanicWinter.descriptionFuture>TODO</VolcanicWinter.descriptionFuture>
+  <VolcanicWinter.descriptionFuture>Ett skikt av aska kommer att flyga runt i den övre atmosfären vilket reducerar solljuset runt [map_definite] under [gameConditionDuration_duration] och skada de lokala ekosystemen hårt.</VolcanicWinter.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
-  <VolcanicWinter.endMessage>Den största delen av vulkanaskan har lagt sig.</VolcanicWinter.endMessage>
+  <VolcanicWinter.endMessage>Den största delen av askan har lagt sig.</VolcanicWinter.endMessage>
   <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>TODO</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>En avlägsen vulkan eller eldsvåda avger otroligt stora mängder aska i atmosfären.\n\nAska i atmosfären kommer skymma solen. Temperaturen faller och växter kommer få för lite solljus. Det kan gå över om ett par veckor eller vara i flera månader. </VolcanicWinter.letterText>
   
 </LanguageData>

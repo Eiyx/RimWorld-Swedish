@@ -314,7 +314,6 @@
   <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
   <!-- EN: group -->
   <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
-  <!-- UNUSED -->
-  <ContentSource_LocalFolder>lokal mapp</ContentSource_LocalFolder>
+
 
 </LanguageData>

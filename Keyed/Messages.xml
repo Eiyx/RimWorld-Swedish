@@ -624,16 +624,5 @@
   <!-- EN: {PAWN_nameDef} is a prisoner -->
   <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
 
-  <!-- UNUSED -->
-  <MessagePartyCalledOff>Festen har avblåsts.</MessagePartyCalledOff>
-  <MessagePartyFinished>Festen är slut.</MessagePartyFinished>
-  <MessageCaravanIsVisitingSettlement>{0} har anlänt om {1}.</MessageCaravanIsVisitingSettlement>
-  <MessageCaravanEnteredWorldObject>{0} har anlänt vid {1}.</MessageCaravanEnteredWorldObject>
-  <MessageRescueeJoined>Eftersom du räddade [PAWN_objective], har {0} gått med i din grupp!</MessageRescueeJoined>
-  <MessageFailedToLoadTransportersBecauseColonistLost>Lastningen har avbrutits eftersom en av kolonisterna har försvunnit.</MessageFailedToLoadTransportersBecauseColonistLost>
-  <MessageChoseRoute>Karavanen reser automatiskt till den första vägpuknten.</MessageChoseRoute>
-  <MessageBlockedHediff>{0} blockerade {1} på: {2}.</MessageBlockedHediff>
-  <MessageCraftedMasterwork>{0} har skapat ett {1}.</MessageCraftedMasterwork>
-  <MessagePlayerTriedToLeaveMapViaExitGrid>För att lämna området, använd knappen "ombilda karavan" i världsöversikten.</MessagePlayerTriedToLeaveMapViaExitGrid>
 
 </LanguageData>

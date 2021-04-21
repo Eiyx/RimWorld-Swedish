@@ -80,14 +80,14 @@
   <ChangeWorkSettings.text>Du kan bestämma vem som skall gör vilken typ av arbete genom att använda klickrutorna. Kolonisterna kommer att göra uppgifterna i ordning från vänster till höger.\n\nFörsök ändra dessa inställingar nu.\n\nVarning - Kolonisterna kommer alltid följa deras arbetsprioriteringar, även om det får dem att göra korkade saker! Att sätta upp ett välgenomtänkt arbetsschema är nyckeln till framgång i RimWold. Sätt arbetsinställingarna noga, och kontrollera dem ofta!</ChangeWorkSettings.text>
   
   <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
-  <ChooseLandingSite.rejectInputMessage>Välj en plats med tempererad skog och platt terräng.</ChooseLandingSite.rejectInputMessage>
+  <ChooseLandingSite.rejectInputMessage>Välj en plats med tempererad skog och platt terräng (ljust grön utan bruna fläckar).</ChooseLandingSite.rejectInputMessage>
   <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text>Här väljer du din landningsplats.\n\nDet finns många olika biomer men just nu kan vi startamed en fridfull.\n\Klicka på en landningsplats i ett tempererat skogsområde med platt terräng och klicka sedan på Nästa.\n\nDu kan använda Terrängfliken för att få mer information om den valda platsen.</ChooseLandingSite.text>
+  <ChooseLandingSite.text>Här väljer du din landningsplats.\n\nKlicka på ett tempererat skogsområde (ljusgrön) utan bruna fläckar och klicka sedan på NÄSTA.\n\nValfritt, använd fliken TERRÄNG för att få mer information om den valda platsen.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>Var god och välj en spelledare i Inställningsmenyn för att slutföra guiden.</ChooseStoryteller.rejectInputMessage>
   <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
-  <ChooseStoryteller.text>Detta är slutet på guiden!\n\nDet finns fortfarande massor att lära sig såsom fångar, jakt, handel, djurtämjning och mycket mer. Men nu har du lite grundkunskaper.\n\nSlumpvisa incidenter var inaktiverade under guiden. För att börja det riktiga spelet:\n\n1. Öppna MENYfliken nere till höger.\n2. Välj INSTÄLLNINGAR.\n3. Klicka på VÄLJ SPELLEDARE.\n4. Välj spelledare och svårighetsgrad du är nöjd med.\n\nLycka till och ha så kul.</ChooseStoryteller.text>
+  <ChooseStoryteller.text>Detta är slutet på guiden!\n\nDet finns fortfarande massor att lära sig såsom fångar, jakt, handel, djurtämjning och mycket mer. Men nu har du lite grundkunskaper.\n\nSlumpvisa incidenter var inaktiverade under guiden. För att börja det riktiga spelet:\n\n1. Öppna MENYfliken nere till höger.\n2. Välj INSTÄLLNINGAR.\n3. Klicka på VÄLJ SPELLEDARE.\n4. Välj spelledare och spelstil som du är nöjd med.\n\nLycka till och ha så kul.</ChooseStoryteller.text>
   
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
   <ChopTrees.rejectInputMessage>var snäll och dra valet 'avverka träd' över några träd.</ChopTrees.rejectInputMessage>
@@ -170,14 +170,14 @@
   <Pause.text>Du kan pausa tiden.\n\nDe här innebär att du inte behöver skynda dig. Du kan alltid pausa och fundera igenom dina ordrar.\n\nFörsök pausa med {Key:TogglePause} tangenten, eller genom att använda tidskontrollern nere i det högra hörnet.</Pause.text>
   
   <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
-  <RandomizeCharacter.rejectInputMessage>Försök slumpa en karaktär först.</RandomizeCharacter.rejectInputMessage>
+  <RandomizeCharacter.rejectInputMessage>Klicka på SLUMPA för att slumpa fram en karaktär.</RandomizeCharacter.rejectInputMessage>
   <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.text>Om du inte tycker om en karraktär kan du regenerera dem!\n\nPröva att slumpa en karaktär med knappen SLUMPA.</RandomizeCharacter.text>
   
   <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
-  <ReorderCharacters.rejectInputMessage>Var snäll och välj en karraktär först.</ReorderCharacters.rejectInputMessage>
+  <ReorderCharacters.rejectInputMessage>Dra en karraktär från gruppen "lämnad kvar" (nere till vänster) till "valda" (uppe till vänster).</ReorderCharacters.rejectInputMessage>
   <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
-  <ReorderCharacters.text>Nu kan du välja karraktärer\n\nKlicka i det vänstra området för att välja från tillgängliga karraktärer. Om du hittar en karraktär du tycker om, dre dem till sektionen som heter VALDA.</ReorderCharacters.text>
+  <ReorderCharacters.text>Nu väljer du vilka karraktärer du vill använda.\n\nDRAG en karraktär från listan "lämnad kvar" (längst ner) till den "valda" (högst upp).\n\nValfritt, genom att klicka på en karaktär kan du inspektera hen.</ReorderCharacters.text>
   
   <!-- EN: Please choose a research project. -->
   <SelectResearchProject.rejectInputMessage>Välj forskningsprojekt.</SelectResearchProject.rejectInputMessage>

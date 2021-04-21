@@ -15,13 +15,13 @@
   <!-- EN: Lost Tribe -->
   <LostTribe.label>Den Förlorade Stammen</LostTribe.label>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
-  <LostTribe.description>Din stam blev förstörd av de stora blodmaskinnerna som skickats av gudarna. Fem  av er lyckades fly. Nu är det dags att bygga upp ett nytt hem.\n\nNotera: Eftersom du startar fattig och froskning går långsamt är detta ett svårt scenario.</LostTribe.description>
+  <LostTribe.description>Din stam blev förstörd av de stora blodmaskinnerna som skickats av gudarna. Fem  av er lyckades fly. Nu är det dags att bygga upp ett nytt hem.\n\nNotera: Eftersom du startar fattig och saknar teknologi är detta ett svårt scenario.</LostTribe.description>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
-  <LostTribe.scenario.description>Din stam blev förstörd av de stora blodmaskinnerna som skickats av gudarna. Fem  av er lyckades fly. Nu är det dags att bygga upp ett nytt hem.\n\nNotera: Eftersom du startar fattig och froskning går långsamt är detta ett svårt scenario.</LostTribe.scenario.description>
+  <LostTribe.scenario.description>Din stam blev förstörd av de stora blodmaskinnerna som skickats av gudarna. Fem  av er lyckades fly. Nu är det dags att bygga upp ett nytt hem.\n\nNotera: Eftersom du startar fattig och saknar teknologi är detta ett svårt scenario.</LostTribe.scenario.description>
   <!-- EN: Lost Tribe -->
   <LostTribe.scenario.name>Den Förlorade Stammen</LostTribe.scenario.name>
   <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
-  <LostTribe.scenario.parts.GameStartDialog.text>Gudarna var väldigt arga. Blodmaskierna kom på natten. De svepte genom byn, skar och brände ert folk med deras klingor och djävulseld.\n\nEndast några få av er lyckades fly. Nu, efter en uppslitande resa till fots utan några vänner att vända sig till, måste ni bygga ett nytt hem i vildmarken, precis som era förfäder gjorde.</LostTribe.scenario.parts.GameStartDialog.text>
+  <LostTribe.scenario.parts.GameStartDialog.text>TODO Gudarna var väldigt arga. Blodmaskierna kom på natten. De svepte genom byn, skar och brände ert folk med deras klingor och djävulseld.\n\nEndast några få av er lyckades fly. Nu, efter en uppslitande resa till fots utan några vänner att vända sig till, måste ni bygga ett nytt hem i vildmarken, precis som era förfäder gjorde.</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>Fem vilse stammmedlemar försöker att bygga ett nytt hem. Svårt.</LostTribe.scenario.summary>
   

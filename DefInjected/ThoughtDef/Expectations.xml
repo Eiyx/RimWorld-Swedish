@@ -33,19 +33,6 @@
   <Expectations.stages.royal_expectations.label>TODO</Expectations.stages.royal_expectations.label>
   <!-- EN: My majesty... I can hardly believe it myself. A moment's discomfort is below me. -->
   <Expectations.stages.royal_expectations.description>TODO</Expectations.stages.royal_expectations.description>
-  
-  <!-- UNUSED -->
-  <LowExpectations.stages.skyhigh_expectations.label>måttliga förväntningar</LowExpectations.stages.skyhigh_expectations.label>
-  <LowExpectations.stages.skyhigh_expectations.description>Den här platsen är inte speciellt rikt. Jag kan inte räkna med att vara helt bortskämda.</LowExpectations.stages.skyhigh_expectations.description>
-  <LowExpectations.stages.high_expectations.label>låga förväntningar</LowExpectations.stages.high_expectations.label>
-  <LowExpectations.stages.high_expectations.description>Den här platsen har inte den resurser för något lyx. Jag måste hålla mig stark.</LowExpectations.stages.high_expectations.description>
-  <LowExpectations.stages.moderate_expectations.label>väldigt låga förväntningar</LowExpectations.stages.moderate_expectations.label>
-  <LowExpectations.stages.moderate_expectations.description>Den här platsen är fattiga. Jag kan inte förvänta sig någon komfort här; Jag måste hålla mig stark.</LowExpectations.stages.moderate_expectations.description>
-  <LowExpectations.stages.low_expectations.label>extremt låga förväntningar</LowExpectations.stages.low_expectations.label>
-  <LowExpectations.stages.low_expectations.description>Jag är här ute med liten eller inget skydd. Jag måste stålsätta mig för att överleva.</LowExpectations.stages.low_expectations.description>
-  <LowExpectations.stages.very_low_expectations.label>mycket låga förväntningar</LowExpectations.stages.very_low_expectations.label>
-  <LowExpectations.stages.very_low_expectations.description>Det här stället är fattigt. Jag behöver hålla mig stark för att överleva.</LowExpectations.stages.very_low_expectations.description>
-  <LowExpectations.stages.extremely_low_expectations.label>extremt låga förväntningar</LowExpectations.stages.extremely_low_expectations.label>
-  <LowExpectations.stages.extremely_low_expectations.description>Det finns ingenting här som är konfortabelt, jag behöver stålsätta mig för att överleva.</LowExpectations.stages.extremely_low_expectations.description>
+   
   
 </LanguageData>

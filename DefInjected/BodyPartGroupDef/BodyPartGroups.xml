@@ -72,9 +72,9 @@
   <Legs.label>ben</Legs.label>
   
   <!-- EN: middle finger -->
-  <MiddleFingers.label>TODO</MiddleFingers.label>
+  <MiddleFingers.label>mittersta finger</MiddleFingers.label>
   <!-- EN: finger -->
-  <MiddleFingers.labelShort>TODO</MiddleFingers.labelShort>
+  <MiddleFingers.labelShort>finger</MiddleFingers.labelShort>
   
   <!-- EN: mouth -->
   <Mouth.label>mun</Mouth.label>
@@ -111,6 +111,6 @@
   <UpperHead.label>huvudets överdel</UpperHead.label>
   
   <!-- EN: utility slot -->
-  <Waist.label>midja</Waist.label>
+  <Waist.label>TODO</Waist.label>
   
 </LanguageData>

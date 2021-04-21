@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: anesthetic -->
-  <Anesthetic.label>Narkos</Anesthetic.label>
+  <Anesthetic.label>narkos</Anesthetic.label>
   <!-- EN: Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious. -->
-  <Anesthetic.description>TODO</Anesthetic.description>
+  <Anesthetic.description>Narkosmedel i blodet. Narkos gör varelser medvetslösa.</Anesthetic.description>
   <!-- EN: wearing off -->
-  <Anesthetic.stages.wearing_off.label>TODO</Anesthetic.stages.wearing_off.label>
+  <Anesthetic.stages.wearing_off.label>avtagande</Anesthetic.stages.wearing_off.label>
   <!-- EN: woozy -->
-  <Anesthetic.stages.woozy.label>TODO</Anesthetic.stages.woozy.label>
+  <Anesthetic.stages.woozy.label>yr</Anesthetic.stages.woozy.label>
   <!-- EN: sedated -->
-  <Anesthetic.stages.sedated.label>TODO</Anesthetic.stages.sedated.label>
+  <Anesthetic.stages.sedated.label>nedsövd</Anesthetic.stages.sedated.label>
   
   <!-- EN: blood loss -->
   <BloodLoss.label>blodförlust</BloodLoss.label>
   <!-- EN: A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply. -->
-  <BloodLoss.description>TODO</BloodLoss.description>
+  <BloodLoss.description>Förminskning av den normala blodvolymen. En mindre blodförlust har relativt milda effekter men när en blodförlust blir allvarlig försämras syrets transport i blodet och därmed förmågan att röra sig. Livshotande blodförlust leder till döden.\n\nBlodförlusten återställs över tid när kroppen sakta regenererar blod.</BloodLoss.description>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-0.label>smärre</BloodLoss.stages.minor-0.label>
+  <BloodLoss.stages.minor-0.label>mindre</BloodLoss.stages.minor-0.label>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-1.label>smärre</BloodLoss.stages.minor-1.label>
+  <BloodLoss.stages.minor-1.label>mindre</BloodLoss.stages.minor-1.label>
   <!-- EN: moderate -->
   <BloodLoss.stages.moderate.label>medelsvår</BloodLoss.stages.moderate.label>
   <!-- EN: severe -->
@@ -28,34 +28,34 @@
   <BloodLoss.stages.extreme.label>livshotande</BloodLoss.stages.extreme.label>
   
   <!-- EN: brain shock -->
-  <BrainShock.label>TODO</BrainShock.label>
+  <BrainShock.label>hjärnchock</BrainShock.label>
   <!-- EN: After-effects of an electrical shock to the brain. This is generally cause by feedback from brain implants hit by EMP pulses. -->
-  <BrainShock.description>TODO</BrainShock.description>
+  <BrainShock.description>Effekten av en elektrisk chock av hjärnan. Orsakas vanligtvis av den respons som hjärnimplantat skapar när de utsätts för en EMP-chock. </BrainShock.description>
   <!-- EN: a brain shock -->
-  <BrainShock.labelNoun>TODO</BrainShock.labelNoun>
+  <BrainShock.labelNoun>en hjärnchock</BrainShock.labelNoun>
   
   <!-- EN: catatonic breakdown -->
   <CatatonicBreakdown.label>katatoniskt sammanbrott</CatatonicBreakdown.label>
   <!-- EN: A state of mental shock which leads to a total inability to function. The victim collapses, effectively unconscious. -->
-  <CatatonicBreakdown.description>TODO</CatatonicBreakdown.description>
+  <CatatonicBreakdown.description>Ett tillstånd av mental chock vilket leder till en total oförmåga att fungera. Varelsen kollapsar, effektivt medvetslös.</CatatonicBreakdown.description>
   <!-- EN: a catatonic breakdown -->
   <CatatonicBreakdown.labelNoun>ett katatoniskt sammanbrott</CatatonicBreakdown.labelNoun>
   
   <!-- EN: cryptosleep sickness -->
   <CryptosleepSickness.label>kryptosömnsjuka</CryptosleepSickness.label>
   <!-- EN: After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind. -->
-  <CryptosleepSickness.description>TODO</CryptosleepSickness.description>
+  <CryptosleepSickness.description>Eftereffekt av användandet av en kryptosömnskapsel. Kryptosömn stänger av och ersätter många kroppsfunktioner för att förhindra åldrande och död. Vid uppvaknande från kryptosömn tar kroppen tid på sig att starta om och återbalansera sina naturliga metaboliska processer. När detta pågår lider patienten av illamående, yrsel och en känsla av dimmsyn.</CryptosleepSickness.description>
   
   <!-- EN: drug overdose -->
-  <DrugOverdose.label>drogöverdos</DrugOverdose.label>
+  <DrugOverdose.label>överdos</DrugOverdose.label>
   <!-- EN: Generalized toxic effects due to over-concentration of drugs in the bloodstream. -->
-  <DrugOverdose.description>TODO</DrugOverdose.description>
+  <DrugOverdose.description>Generellt toxiska effekter på grund av en överkoncentration av droger i blodet.</DrugOverdose.description>
   <!-- EN: Overdose: {0} -->
   <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>Överdos: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} is overdosing! -->
   <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} överdoserar!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
   <!-- EN: a drug overdose -->
-  <DrugOverdose.labelNoun>en drogöverdos</DrugOverdose.labelNoun>
+  <DrugOverdose.labelNoun>en överdos</DrugOverdose.labelNoun>
   <!-- EN: minor -->
   <DrugOverdose.stages.minor-0.label>lindrig</DrugOverdose.stages.minor-0.label>
   <!-- EN: minor -->
@@ -66,7 +66,7 @@
   <!-- EN: food poisoning -->
   <FoodPoisoning.label>matförgiftning</FoodPoisoning.label>
   <!-- EN: Gastrointestinal illness caused by consuming decayed or unclean food. It can be caused by eating rotten food, by incompetent cooks accidentally poisoning meals, or by eating from unsafe wild sources. The patient will vomit and feel sick for some time. -->
-  <FoodPoisoning.description>TODO</FoodPoisoning.description>
+  <FoodPoisoning.description>Gastrointestinal sjukdom  som orsakas genom att konsumera utgången eller oren mat. Det kan orsakas av att äta rutten mat, inkompetenta kockar som av misstag förgiftar måltider eller genom att äta från osäkra vilda källor. Patienten kommer att kräkas och känner sig sjuk under en tid.</FoodPoisoning.description>
   <!-- EN: recovering -->
   <FoodPoisoning.stages.recovering.label>återhämtning</FoodPoisoning.stages.recovering.label>
   <!-- EN: major -->
@@ -77,7 +77,7 @@
   <!-- EN: heart attack -->
   <HeartAttack.label>hjärtattack</HeartAttack.label>
   <!-- EN: A disruption in the heart's normal beating rhythm. Heart attacks can be debilitatingly painful. They can worsen and lead to death, or recover. -->
-  <HeartAttack.description>TODO</HeartAttack.description>
+  <HeartAttack.description>En störning av hjärtats normala slagrytm. Hjärtattacker kan vara försvagande smärtsama. De kan även förvärras och leda till döden, eller återhämtning.</HeartAttack.description>
   <!-- EN: a heart attack -->
   <HeartAttack.labelNoun>en hjärtattack</HeartAttack.labelNoun>
   <!-- EN: painful -->
@@ -90,7 +90,7 @@
   <!-- EN: pregnant -->
   <Pregnant.label>gravid</Pregnant.label>
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
-  <Pregnant.description>TODO</Pregnant.description>
+  <Pregnant.description>Denna varelse är havande. Den kommer att föda om graviditeten blir fullgången. Om den svälter eller skadas finns det risk för missfall.</Pregnant.description>
   <!-- EN: {0} pregnant -->
   <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} gravid</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} is pregnant! -->
@@ -132,12 +132,12 @@
   <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>återuppståndelsessjuka</ResurrectionSickness.label>
   <!-- EN: After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves. -->
-  <ResurrectionSickness.description>TODO</ResurrectionSickness.description>
+  <ResurrectionSickness.description>Eftereffekt av att bli återuppstånden genom mekanikinjektion. Konstgjorda kickstartade processer i kroppen tar tid på sig att balansera sig själva.</ResurrectionSickness.description>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>förgiftning</ToxicBuildup.label>
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nCreatures who die with toxic buildup cannot be eaten. -->
-  <ToxicBuildup.description>TODO</ToxicBuildup.description>
+  <ToxicBuildup.description>Giftiga ämnen i blodet. Detta kan komma från olika källor inklusive miljötoxiner, giftiga bett eller förgiftade vapen.\n\nI för höga halter kan en förgiftning vara dödlig. Det kan även generera olika cancerformer vid låga nivåer.\n\nVarelser som dör med en förgiftning kan inte ätas.</ToxicBuildup.description>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>initial</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->

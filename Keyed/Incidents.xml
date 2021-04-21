@@ -242,16 +242,5 @@
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
   <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
 
-  <!-- UNUSED -->
-  <LetterLabelPsychicDrone>Psykisk puls</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>Varje kolonist av {0} kön ryser till av smärta!\n\nEn fjärran maskin av hat har gått igång. Den projicerar en kraftig psykisk puls över hela området på en frekvens som enbart ser ut att påverka det {0} könet. Under ett par dagar kommer vissa personers humör vara betydligt värre.\n\nPulsnivån är: {1}.</LetterIncidentPsychicDrone>
-  <LetterLabelPsychicSoothe>Psykiskt lugn</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Varje kolonist av {0} kön ler av belåtenhet!\n\nEn fjärran maskin av glädje har gått igång. Den projicerar en kraftfull psykisk puls över hela området på en frekvens som bara påverkar det {0} könet. Under ett par dagar kommer vissa personers humör vara betydligt bättre.</LetterIncidentPsychicSoothe>
-  <RefugeeChasedTitle>Flykting jagad av {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>{PAWN_titleIndef} vid namn {PAWN_nameDef} anropar från kort avstånd. {PAWN_pronoun} är jagad av {2} från {3}!\n\n{PAWN_pronoun} ber om säkerhet och erbjuder sig att ansluta sig till din koloni. {PAWN_pronoun}berättar att {PAWN_pronoun} är {4} år gammal, men det finns ingen tid att få reda på mer information.\n\nVarning - Om du accepterar kommer du behöva strida mot de {2} som är hack i häl på {PAWN_objective}. Deras grupp består av:\n\n{5}</RefugeeChasedInitial>
-  <RefugeeChasedInitial_Accept>Erbjud säkerhet</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>Ignorera meddelandet</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{1_labelShort} skriker i panik genom den lilla högtalaren innan du stänger av sändningen.</RefugeeChasedRejected>
-  <JourneyOffer>En vänlig AI från ditt förflutna som heter Charlon Whitestone har skickat ett meddelande!\n\nHan avslöjar att han har ett rymdskepp gömt på den här planeten och skickar dess koordinater.\n\nSkeppet är i nuläget i ett djupt viloläge. Du kommer behöva starta det när du kommer fram och sedan försvara det från banditer som försöker att stjäla det fram tills dess att startsekvensen är färdig.\n\n Om du får skeppet från marken kommer Charlon ta dig utanför denna rimworld, till stjärnorna.</JourneyOffer>
 
 </LanguageData>

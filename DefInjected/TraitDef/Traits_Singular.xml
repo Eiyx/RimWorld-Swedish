@@ -14,7 +14,7 @@
   <!-- EN: ascetic -->
   <Ascetic.degreeDatas.ascetic.label>asket</Ascetic.degreeDatas.ascetic.label>
   <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
-  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} föredrar att leva asketiskt. {PAWN_pronoun}s humör försämras om {PAWN_pronoun}s sovrum är för imponerande. {PAWN_pronoun} ogillar också lyxig mat och föredrar att äta rå mat - vilket inte stör {PAWN_objective} alls. </Ascetic.degreeDatas.ascetic.description>
+  <Ascetic.degreeDatas.ascetic.description>TODO {PAWN_nameDef} föredrar att leva asketiskt. {PAWN_pronoun}s humör försämras om {PAWN_pronoun}s sovrum är för imponerande. {PAWN_pronoun} ogillar också lyxig mat och föredrar att äta rå mat - vilket inte stör {PAWN_objective} alls. </Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: asexual -->
   <Asexual.degreeDatas.asexual.label>TODO</Asexual.degreeDatas.asexual.label>
@@ -94,7 +94,7 @@
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>snäll</Kind.degreeDatas.kind.label>
   <!-- EN: {PAWN_nameDef} is exceptionally kind. {PAWN_pronoun} has a special way of using kind words to brighten someone's day. {PAWN_pronoun} never insults others, and never judges people by their appearance. -->
-  <Kind.degreeDatas.kind.description>{PAWN_nameDef} är en snäll person. {PAWN_pronoun} har en tendens att lysa upp andras vardag och förolämpar aldrig någon.</Kind.degreeDatas.kind.description>
+  <Kind.degreeDatas.kind.description>TODO {PAWN_nameDef} är en snäll person. {PAWN_pronoun} har en tendens att lysa upp andras vardag och förolämpar aldrig någon.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>masochist</Masochist.degreeDatas.masochist.label>

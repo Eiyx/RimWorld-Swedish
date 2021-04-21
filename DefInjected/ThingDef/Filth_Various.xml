@@ -31,7 +31,7 @@
   <Filth_Fuel.description>en pöl av brandfarligt kembränsle.</Filth_Fuel.description>
   
   <!-- EN: machine bits -->
-  <Filth_MachineBits.label>TODO</Filth_MachineBits.label>
+  <Filth_MachineBits.label>Maskindelar</Filth_MachineBits.label>
   
   <!-- EN: building rubble -->
   <Filth_RubbleBuilding.label>byggrester</Filth_RubbleBuilding.label>
@@ -52,7 +52,7 @@
   <Filth_Vomit.label>spya</Filth_Vomit.label>
   
   <!-- EN: water puddle -->
-  <Filth_Water.label>TODO</Filth_Water.label>
+  <Filth_Water.label>vattenpöl</Filth_Water.label>
   
   <!-- EN: scattered sandbags -->
   <SandbagRubble.label>utspridda sandsäckar</SandbagRubble.label>

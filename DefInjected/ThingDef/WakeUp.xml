@@ -4,7 +4,7 @@
   <!-- EN: wake-up -->
   <WakeUp.label>va-kna</WakeUp.label>
   <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. Psycasters on wake-up gain more psyfocus from meditation than they otherwise would. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug. -->
-  <WakeUp.description>En syntetiskt njutningsmedel. Va-kna fyller användarens behöv av sömn och låter användaren jobba under långa perioder utan att bli trött. Men upprepad användning kommer skapa ett beroende vilket orsakar reducerad mental förmåga och kan även trigga psykotiska utbrot.\n\nPå de mest tävlingsinriktade universiteten och företagen i många världar är karriärister kända för att ibland bryta ihop i psykoser pågrund av va-knamissbruk.</WakeUp.description>
+  <WakeUp.description>TODO En syntetiskt njutningsmedel. Va-kna fyller användarens behöv av sömn och låter användaren jobba under långa perioder utan att bli trött. Men upprepad användning kommer skapa ett beroende vilket orsakar reducerad mental förmåga och kan även trigga psykotiska utbrot.\n\nPå de mest tävlingsinriktade universiteten och företagen i många världar är karriärister kända för att ibland bryta ihop i psykoser pågrund av va-knamissbruk.</WakeUp.description>
   <!-- EN: Take {0} -->
   <WakeUp.ingestible.ingestCommandString>Ta {0}</WakeUp.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->

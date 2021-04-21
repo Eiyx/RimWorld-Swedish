@@ -2,38 +2,39 @@
 <LanguageData>
   
   <!-- EN: Custom -->
-  <Custom.label>TODO</Custom.label>
+  <Custom.label>Skräddarsydd</Custom.label>
   <!-- EN: This setting allows you to define your own playstyle in detail.\n\nRecommended for:\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
-  <Custom.description>TODO</Custom.description>
+  <Custom.description>Med den här inställningen kan du definiera din egen spelstil i detalj.\n\Rekommenderas för:\n\n- Spelare som är nöjda med en av de vanliga spelastilarna men vill ändra några saker.\n- Spelare som vill experimentera med något annat.</Custom.description>
   
   <!-- EN: community builder -->
   <Easy.label>nybyggare</Easy.label>
   <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\nRecommended for:\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
-  <Easy.description>Bygg en koloni samtidigt som du får pröva på att möta en del faror. Rekommenderas för: Spelare som nyligen upptäckt denna typen av spel, samt spelare som vill bygga den perfekta kolonin.\n\nStora och farliga händelser kommer inträffa, men i mindre skala än i andra lägen. Vissa mycket farliga händelser är inaktiverade.</Easy.description>
+  <Easy.description>Bygg en koloni där du får möta en del faror. Hot förekommer men är försvagade.\n\n Rekommenderas för:\n\n- Spelare som är nya till denna typen av spel.\n- Spelare som vill bygga den perfekta kolonin.\n- Spelare som vill ta det lugnt.</Easy.description>
   
   <!-- EN: losing is fun -->
-  <Extreme.label>hänsynslös</Extreme.label>
+  <Extreme.label>att förlora är kul</Extreme.label>
   <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\nRecommended for:\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
-  <Extreme.description>Använd alla dina kunskaper om RimWorld för att ha en chans att överleva en hänsynslös prövning i en orättvis värld.\n\nRekommenderas för: Erfarna spelare som vill möta en brutal och orättvis utmaning, även stor skicklighet kommer inte förhindra döden.\n\nDenna nivå handlar om att hantera förluster, att försöka förhindra dem är omöjligt. Du kommer spendera mycket tid på att hantera skador och återhämtning, och du kommer behöva offra personer och fåremål du älskar. Orättvisa utmaningar och nyckfulla dödsfall kan förekomma närsomhelst.</Extreme.description>
+  <Extreme.description>Denna inställning är utformad för att vara orättvist. Stora hot kommer slängas på dig utan barmhärtighet tills din koloni dör. Välj bara den här inställningen om du är nöjd med dramatiken  som följer med att kämpa och dö.\n\nRekommenderas för:\n\n- Erfarna spelare som vill möta en brutal och orättvist utmaning där även stor skicklighet antagligen inte förhindrar döden.\n- Älskare av tragedier.\n- Digitala masochister.</Extreme.description>
   
   <!-- EN: blood and dust -->
-  <Hard.label>brutal</Hard.label>
+  <Hard.label>blod och stoft</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\nRecommended for:\n\n- Experienced players who want to struggle to survive. -->
-  <Hard.description>Möt en brutal utmaning i överlevnad där priset för att överleva, är blod.\n\n Rekommenderas för: Erfarna spelare som vill vara med om stora prövningar och uppoffringar.\n\nAtt lyckas på denna nivå kräver en god förståelse för olika typer av strategier, disciplinerad förberedelse och lite tur. Hotfulla händelser kan öka i frekvens och kombineras på hemska sätt. Även om du är duktig på spelet kommer många utmaningar att vara omöjliga att övervinna utan förluster.</Hard.description>
+  <Hard.description>En brutal utmaning för överlevnad. Även om du spelar bra kommer människor att dö. Du måste förutse hot innan de anländer och leta efter varje fördel.\n\nRekommenderas för:\n\n- Erfarna spelare som vill kämpa för att överleva.</Hard.description>
   
   <!-- EN: adventure story -->
-  <Medium.label>medel</Medium.label>
+  <Medium.label>äventyrsberättelse</Medium.label>
   <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\nRecommended for:\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
-  <Medium.description>Bygg upp ett samhälle samtidigt som du hanterar farliga situationer.\n\n Rekommenderas för: Erfarna strategispelare i deras första spel av RimWorld, eller skickliga RimWorld-spelare som vill ha andrum och kunna sträva efter roliga eller konstiga mål.\n\nDet finns rum för att växa och frodas, men det är fortfarande en farlig planet.</Medium.description>
+  <Medium.description>Det fins rum för att växa och frodas, men det är fortfarande en farlig planet.\n\nRekomenderas för:\n\n- Erfarna strategispelare i sitt första spel av RimWorld.\n- Erfarna spelare av RimWorld som vill ha lite andrum för och sträva efter roliga eller konstiga mål.</Medium.description>
   
   <!-- EN: peaceful -->
-  <Peaceful.label>lugn</Peaceful.label>
+  <Peaceful.label>fridfull</Peaceful.label>
   <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\nRecommended for:\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
-  <Peaceful.description>Bygg en koloni i en sandlåde-liknande miljö.\n\nRekommenderas för: Spelare som vill fokusera på de aspekter av samhällsbyggnad som finns i RimWorld.\n\n I detta läge är stora och hotfulla händelser avstängda, men utmaningar i form av sjukdommar, psykbryt och galna djur kan fortfarande inträffa.</Peaceful.description>
+  <Peaceful.description>Bygg en koloni i en sandlåde-liknande miljö. Stora och direkta hot är inaktiverade men utmaningar som sjukdom, nervsammanbrott och galna djur kan fortfarande uppstå.\n\nRekommenderas för:\n\n- Spelare som vill lära sig spelmekaniken med minimal påfrestning.\n- Spelare som bara vill bygga.\n- Spelare som vill koppla av.
+</Peaceful.description>
   
   <!-- EN: strive to survive -->
-  <Rough.label>våldsam</Rough.label>
+  <Rough.label>kamp för överlevnad</Rough.label>
   <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\nRecommended for:\n\n- Experienced players who want a rough story requiring skill to survive. -->
-  <Rough.description>Sträva mot att överleva på en grym och tuff planet.\n\nRekommenderas för: Spelare med erfarenhet av RimWorld som vill spela en grym historia där skicklighet behövs för att överleva.\n\nDet kommer vara framgångar och motgångar; triumf och tragedi. Allt för lite drama.</Rough.description>
+  <Rough.description>Sträva mot att överleva på en grym och tuff planet. Det kommer vara tiumf och tragedi.\n\nRekommenderas för:\n\n- Erfarna spelare som vill ha en utmanande berättelse som kräver skicklighet för att överleva.</Rough.description>
   
 </LanguageData>

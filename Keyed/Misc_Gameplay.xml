@@ -45,7 +45,7 @@
   <!-- EN: nothing -->
   <NothingLower>ingenting</NothingLower>
   <!-- EN: Nothing -->
-  <Nothing>TODO</Nothing>
+  <Nothing>Ingenting</Nothing>
   <!-- EN: Adapted -->
   <Adapted>Anpassat</Adapted>
   <!-- EN: fresh -->
@@ -67,13 +67,13 @@
   <!-- EN: Immunity -->
   <Immunity>Immunitet</Immunity>
   <!-- EN: {0} days to recover -->
-  <DaysToRecover>TODO</DaysToRecover>
+  <DaysToRecover>{0} dagar till återhämtning</DaysToRecover>
   <!-- EN: Ineffective -->
-  <Ineffective>TODO</Ineffective>
+  <Ineffective>Innefektiv</Ineffective>
   <!-- EN: illegal -->
-  <Illegal>TODO</Illegal>
+  <Illegal>illegal</Illegal>
   <!-- EN: detection chance -->
-  <DetectionChance>TODO</DetectionChance>
+  <DetectionChance>chans att uptäckas</DetectionChance>
   <!-- EN: Race -->
   <Race>Ras</Race>
   <!-- EN: Description -->
@@ -91,7 +91,7 @@
   <!-- EN: Temporary faction members will not drop their items. -->
   <DropThingLodger>TODO</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
-  <DropThingLocked>TODO</DropThingLocked>
+  <DropThingLocked>Personen vägrar att släppa detta</DropThingLocked>
   <!-- EN: Rename -->
   <Rename>Byt namn</Rename>
   <!-- EN: Rename animal -->
@@ -99,9 +99,9 @@
   <!-- EN: Rename colonist -->
   <RenameColonist>Byt namn på kolonist</RenameColonist>
   <!-- EN: Renounce title -->
-  <RenounceTitle>TODO</RenounceTitle>
+  <RenounceTitle>Avsäga titel</RenounceTitle>
   <!-- EN: {0} of {1} -->
-  <TitleOfFaction>TODO</TitleOfFaction>
+  <TitleOfFaction>{0} av {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>TODO</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
@@ -143,7 +143,7 @@
   <!-- EN: Next {0} in -->
   <NextSpawnedItemIn>Nästa {0} om</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
-  <NextSpawnedResourceIn>TODO</NextSpawnedResourceIn>
+  <NextSpawnedResourceIn>Nästa resurs om</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
   <BrokenDown>Trasig</BrokenDown>
   <!-- EN: (bond) -->
@@ -177,7 +177,7 @@
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>Est. tid till destinationen: {0}</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>Estimerade dagar till destinationen: {0}</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>Ruttens restid: {0}</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>Imobiliserad: alltför mycket vikt.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
@@ -185,11 +185,11 @@
   <!-- EN: Days of food: {0} -->
   <CaravanDaysOfFood>Dagsransoner: {0}</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
-  <CaravanDaysOfFoodRot>Dagsransoner: {0}, ruttnar om {1} dagar</CaravanDaysOfFoodRot>
+  <CaravanDaysOfFoodRot>Dagsransoner: {0} (ruttnar om {1} dagar)</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
-  <AllCaravanMembersDowned>Stannade på grund av: alla är avsvimmade.</AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>Stannade på grund av: Alla är avsvimmade.</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone is in a mental break. -->
-  <AllCaravanMembersMentalBreak>Stannade på grund av: alla fick ett nervsammanbrott.</AllCaravanMembersMentalBreak>
+  <AllCaravanMembersMentalBreak>Stannade på grund av: Alla har ett nervsammanbrott.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
   <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
   <!-- EN: 1 animal -->
@@ -233,7 +233,7 @@
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Erbjuder gåvor till {0}.</CaravanOfferingGifts>
   <!-- EN: Trading with {0} -->
-  <CaravanTrading>TODO</CaravanTrading>
+  <CaravanTrading>Handlar med {0}</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>Fördärvat eftersom det burits av ett lik.</WasWornByCorpse>
   <!-- EN: T -->
@@ -247,9 +247,9 @@
   <!-- EN: Map -->
   <Map>Karta</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>{0} tills fienden anländer</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>Fienders förstärkning anländer i detta område om {0}.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>Rum</Room>
   <!-- EN: Beauty here -->
@@ -289,13 +289,13 @@
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} vill ha detta förstört.\n    Belöning: {1} ({2}).</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
-  <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
+  <QuestTargetDestroyInspectStringShort>{0} vill att detta förstörs.</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>TODO</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>Lämnar i skyttel om {0}</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>TODO</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>Lämnar om {0}</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>TODO</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>Borde lämna med skyttel</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Tid kvar: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
@@ -309,7 +309,7 @@
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
   <CheckboxShiftClickTip>Shift + klick: Markera alla\nShift + högerklick: Avmarkera alla</CheckboxShiftClickTip>
   <!-- EN: {0} {1} -->
-  <KnownSiteThreatEnemyCountAppend>TODO</KnownSiteThreatEnemyCountAppend>
+  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>Färdighetskrav</SkillRequirements>
   <!-- EN: Products -->
@@ -329,7 +329,7 @@
   <!-- EN: downed -->
   <DownedLower>däckad</DownedLower>
   <!-- EN: resting -->
-  <Carried>buren</Carried>
+  <Carried>vilar</Carried>
   <!-- EN: Avg. person move speed -->
   <AverageCaravanMemberMoveSpeed>Genomsnittl. persons förflyttningshastighet</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier for carried mass: {0} -->
@@ -363,9 +363,9 @@
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} träningsförmåga</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
-  <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
+  <CreatureFollowDrafted>Följ efter ägare när komenderrad</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
-  <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
+  <CreatureFollowFieldwork>Följ efter ägare vid fältarbete</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} med {1}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
@@ -375,7 +375,7 @@
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>det kan finnas faror där</HiddenOrNoSitePartDescription>
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
-  <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
+  <PreciousLumpHostileThreat>Scannern upptäcker aktivitet vid klumpen. Antagligen fientligt.</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>klump av {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
@@ -391,43 +391,43 @@
   <!-- EN: enemy -->
   <Enemy>fiende</Enemy>
   <!-- EN: location -->
-  <Location>TODO</Location>
+  <Location>plats</Location>
   <!-- EN: animals -->
-  <AnimalsLower>TODO</AnimalsLower>
+  <AnimalsLower>djur</AnimalsLower>
   <!-- EN: {0} x{1} -->
-  <FilthLabel>TODO</FilthLabel>
+  <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>TODO</FilthLabelWithSource>
+  <FilthLabelWithSource>{0} of {1} x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
-  <Required>TODO</Required>
+  <Required>Förutsätter</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
   <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
-  <PrisonerLower>TODO</PrisonerLower>
+  <PrisonerLower>fånge</PrisonerLower>
   <!-- EN: prisoners -->
-  <PrisonersLower>TODO</PrisonersLower>
+  <PrisonersLower>fångar</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
   <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
-  <Mood>TODO</Mood>
+  <Mood>Humör</Mood>
   <!-- EN: Quest -->
-  <Quest>TODO</Quest>
+  <Quest>Uppdrag</Quest>
   <!-- EN: Brings raids every {0} -->
-  <BringsRaidsEvery>TODO</BringsRaidsEvery>
+  <BringsRaidsEvery>Lockar till räder varje {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
-  <GeneratesResourcesEvery>TODO</GeneratesResourcesEvery>
+  <GeneratesResourcesEvery>Genererar {0} varje {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
   <FoliageKillRadius>TODO</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>TODO</RadiusExpandRate>
+  <RadiusExpandRate>Radiens expantionshastighet</RadiusExpandRate>
   <!-- EN: View: {0} -->
-  <ViewHyperlink>TODO</ViewHyperlink>
+  <ViewHyperlink>Visa: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
-  <DetonationCountdown>TODO</DetonationCountdown>
+  <DetonationCountdown>Detonerar om {0} dagar</DetonationCountdown>
   <!-- EN: Large explosion if damaged -->
-  <ExplosionOnDamageWarning>TODO</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>Stor explotion om den skadas</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
-  <MechCluster>TODO</MechCluster>
+  <MechCluster>Mekanoidkluster</MechCluster>
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>TODO</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
@@ -435,55 +435,55 @@
   <!-- EN: Will assemble -->
   <MechAssemblyNextType>TODO</MechAssemblyNextType>
   <!-- EN: produced -->
-  <ThingsProduced>TODO</ThingsProduced>
+  <ThingsProduced>producerad</ThingsProduced>
   <!-- EN: harvested -->
-  <PlantsHarvested>TODO</PlantsHarvested>
+  <PlantsHarvested>skördad</PlantsHarvested>
   <!-- EN: {0} killed -->
-  <PawnsKilled>TODO</PawnsKilled>
+  <PawnsKilled>{0} dödad</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>TODO</PawnsLent>
+  <PawnsLent>Sände {0}, kommer tillbaka om {1}</PawnsLent>
   <!-- EN: Dormant -->
-  <DormantCompInactive>TODO</DormantCompInactive>
+  <DormantCompInactive>Vilande</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>TODO</DormantCompSealed>
+  <DormantCompSealed>Förseglad</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
-  <DormantCompBeacon>TODO</DormantCompBeacon>
+  <DormantCompBeacon>Redo att släppa mekanoider</DormantCompBeacon>
   <!-- EN: Expired -->
-  <DormantCompExpired>TODO</DormantCompExpired>
+  <DormantCompExpired>Utgången</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>TODO</InitiatesIn>
+  <InitiatesIn>Initieras om</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>TODO</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>Aktiveras om {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
   <PsychicEntropy>TODO</PsychicEntropy>
   <!-- EN: Heat -->
-  <PsychicEntropyShort>TODO</PsychicEntropyShort>
+  <PsychicEntropyShort>Hetta</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
   <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
-  <ConditionCauserRadius>TODO</ConditionCauserRadius>
+  <ConditionCauserRadius>radie {0}</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
   <LowPsyfocus>TODO</LowPsyfocus>
   <!-- EN: {0} left -->
-  <DurationLeft>TODO</DurationLeft>
+  <DurationLeft>{0} lämnade</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>TODO</AnyOf>
   <!-- EN: Goodwill -->
   <Goodwill>TODO</Goodwill>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>reducerar motstånd hos {0_nameIndef}</JobReport_ReduceResistance>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
-  <UserScanAbility>TODO</UserScanAbility>
+  <UserScanAbility>Användares scanhastighet</UserScanAbility>
   <!-- EN: Random find interval -->
-  <ScanAverageInterval>TODO</ScanAverageInterval>
+  <ScanAverageInterval>Slumpvis fyndintervall</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
-  <ScanningProgressToGuaranteedFind>TODO</ScanningProgressToGuaranteedFind>
+  <ScanningProgressToGuaranteedFind>Förlopp till garanterat fynd</ScanningProgressToGuaranteedFind>
   
   <!-- Meditation -->
   <!-- EN: meditating at -->
-  <MeditatingAt>TODO</MeditatingAt>
+  <MeditatingAt>mediterar vid</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
@@ -529,11 +529,11 @@
   <!-- EN: Dodge -->
   <TextMote_Dodge>Undvika</TextMote_Dodge>
   <!-- EN: Immune -->
-  <TextMote_Immune>TODO</TextMote_Immune>
+  <TextMote_Immune>Immun</TextMote_Immune>
   <!-- EN: {0} tended -->
   <TextMote_Tended>{0} behandlat</TextMote_Tended>
   <!-- EN: level {0} -->
-  <TextMote_SkillUp>TODO</TextMote_SkillUp>
+  <TextMote_SkillUp>nivå {0}</TextMote_SkillUp>
   <!-- EN: low mood -->
   <lowMood>dåligt humör</lowMood>
   <!-- EN: low opinion -->
@@ -591,17 +591,17 @@
   <!-- EN: roofed -->
   <Roofed>takbelagt</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Granat laddad</ShellLoaded>
+  <ShellLoaded>Granat laddad: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Ej laddad</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>transporterar {0} till {1}.</ReportHaulingTo>
+  <ReportHaulingTo>transporterar {THING_label} till {DESTINATION}.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
+  <ReportHaulingToGrave>begraver {THING_label} i {DESTINATION}.</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>transporterar {0}.</ReportHauling>
+  <ReportHauling>transporterar {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>transporterar.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
@@ -623,7 +623,7 @@
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>använder {0} på {1}.</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
+  <UsingVerbNoTarget>använder {0}.</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>område.</AreaLower>
   <!-- EN: cowering. -->
@@ -643,13 +643,13 @@
   <!-- EN: Attending party -->
   <LordReportAttendingParty>Är på fest</LordReportAttendingParty>
   <!-- EN: Attending concert -->
-  <LordReportAttendingConcert>TODO</LordReportAttendingConcert>
+  <LordReportAttendingConcert>Är på konsert</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
-  <LordReportHoldingConcert>TODO</LordReportHoldingConcert>
+  <LordReportHoldingConcert>Håller konsert</LordReportHoldingConcert>
   <!-- EN: Giving a speech -->
-  <LordReportGivingSpeech>TODO</LordReportGivingSpeech>
+  <LordReportGivingSpeech>Håller tal</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>TODO</LordReportListeningSpeech>
+  <LordReportListeningSpeech>Lystnar på {ORGANIZER_labelShort}s tal</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
   <LordReportFormingCaravan>Bildar karavan</LordReportFormingCaravan>
 
@@ -679,9 +679,9 @@
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>Tillverka {0}</RecipeMake>
+  <RecipeMake>tillverka {0}</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>TODO</RecipeMakeDescription>
+  <RecipeMakeDescription>Tillverka {0}.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Tillverkar {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
@@ -697,7 +697,7 @@
   <!-- EN: Expires in: {0} -->
   <ThoughtExpiresIn>Upphör om: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
-  <ThoughtNullifiedBy>TODO</ThoughtNullifiedBy>
+  <ThoughtNullifiedBy>tanke avbröts av</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
   <ThoughtStartsExpiringIn>Börjar upphöra om: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
@@ -715,19 +715,19 @@
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} av {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
+  <PawnTitleDescWrap>{0} i {1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>TODO</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{0} under {1}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>TODO</PawnMainDescTempFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{0} under {1}\nHemfraktion: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
-  <Faction>Grupp</Faction>
+  <Faction>Fraktion</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>TODO</FactionDesc>
+  <FactionDesc>Fraktionen som {PAWN_labelShort} just nu tillhör.</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
-  <ExtraFactionDesc>TODO</ExtraFactionDesc>
+  <ExtraFactionDesc>Fraktionen som {PAWN_labelShort} ursprungligen tillhörde.</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>Utrustad</Equipped>
   <!-- EN: nothing -->
@@ -759,7 +759,7 @@
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>Välj nästa sak i samma ruta\n\nGenvägsknapp: {0}\n\nDu kan också göra detta genom att långsammt klicka på samma ruta igen.</SelectNextInSquareTip>
   <!-- EN: View information. -->
-  <DefInfoTip>Se information om detta objekt.</DefInfoTip>
+  <DefInfoTip>Visa information.</DefInfoTip>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
@@ -775,7 +775,7 @@
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>Ingen anslutning till elektricitet.</PowerNotConnected>
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
-  <PowerConnectedRateStored>Ansluten takt/lagrad: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerConnectedRateStored>Elnätets överskott/lagrad: {0} W / {1} Wd</PowerConnectedRateStored>
   <!-- EN: Power needed -->
   <PowerNeeded>Behöver elektricitet</PowerNeeded>
   <!-- EN: Power output -->
@@ -925,7 +925,7 @@
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>Lås kamerarotation så att nordpolen alltid är uppåt.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
-  <UsePlanetDayNightSystemToggleButton>Växla dag/natt ljussystem.</UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>Växla dags/natt ljus på planetöversikten.</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
   <ShowExpandingIconsToggleButton>Växla att visa utökade ikoner istället för de vanliga ikonerna för avlägsna objekt.</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
@@ -947,13 +947,13 @@
   <!-- EN: impact date -->
   <ImpactDate>påverkansdatum</ImpactDate>
   <!-- EN: Source unknown. -->
-  <SourceUnknown>TODO</SourceUnknown>
+  <SourceUnknown>Källa okänd.</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
-  <ClickToJumpToSource>TODO</ClickToJumpToSource>
+  <ClickToJumpToSource>Klicka för att hoppa till källan</ClickToJumpToSource>
   <!-- EN: Click to jump to the flashstorm. -->
-  <ClickToJumpToFlashstorm>TODO</ClickToJumpToFlashstorm>
+  <ClickToJumpToFlashstorm>Klicka för att hoppa till blixtovädret</ClickToJumpToFlashstorm>
   <!-- EN: Caused by quest: {0} -->
-  <CausedByQuest>TODO</CausedByQuest>
+  <CausedByQuest>Orsakad av uppdraget: {0}</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
@@ -997,7 +997,7 @@
   <!-- EN: Contains -->
   <CasketContains>Innehåller</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>Varning!\n\n[PAWN_nameDef] är din sista fristående kolonist! Om du låter [PAWN_objective] gå in i kapseln kommer du inte kunna fortsätta spela. Är du säker på att du vill fortsätta?</CasketWarning>
+  <CasketWarning>Varning!\n\n{PAWN_nameDef} är din sista fristående kolonist! Om du låter {PAWN_nameDef} gå in i kapseln kommer kanske inte kunna fortsätta spela. Är du säker på att du vill fortsätta?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
@@ -1015,11 +1015,11 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Komponent är inte klar än</ShipReportNotReady>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>Charlon Whitestone är redo att starta reaktorns vilolägesåterställningssekvens.\n\n Han varnar dig för att processen tar cirka 15 dagar och energiresignaturen kommer att kunna detekteras från ett långt avstånd.\n\nDenna typen av energiresignatur indikerar interstellär flygkapacitet och kommer att locka till sig gäng av desperata grupper och svärmar av dödliga mekanoider. Du kommer att bli överfallen med en intensitet som du aldrig  sett tidigare. Se till att dina försvar är förberedda först.</HibernateWarning>
+  <HibernateWarning>TODO Charlon Whitestone är redo att starta reaktorns vilolägesåterställningssekvens.\n\n Han varnar dig för att processen tar cirka 15 dagar och energiresignaturen kommer att kunna detekteras från ett långt avstånd.\n\nDenna typen av energiresignatur indikerar interstellär flygkapacitet och kommer att locka till sig gäng av desperata grupper och svärmar av dödliga mekanoider. Du kommer att bli överfallen med en intensitet som du aldrig  sett tidigare. Se till att dina försvar är förberedda först.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarningStandalone>Reaktorn är redo att startas.\n\n Processen tar cirka 15 dagar och energisignaturen kan detekteras från ett långt avstånd. Denna typ av energisignatur indikerar interstellär flygkapacitet och kommer att locka grupper av desperata grupper och svärmar av dödliga mekanoider.\n\nDu kommer att bli överfallen med en intensitet som du aldrig sett tidigare. Se till att dina försvar är förberedda först.</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>Charlon Whitestone är redo att starta reaktorns återställningssekvens. Han varnar dig för att processen tar cirka 15 dagar.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>TODO Charlon Whitestone är redo att starta reaktorns återställningssekvens. Han varnar dig för att processen tar cirka 15 dagar.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
   <HibernateWarningStandalonePacifist>Reaktorn är redo att startas. Processen tar cirka 15 dagar.</HibernateWarningStandalonePacifist>
 
@@ -1081,15 +1081,15 @@
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>Vid nära ljusets hastighet slår planetdödarens vapen ner i marken med kraften av flera biljoners atombomber. Likt en vattenbalong som skjutits med ett gevär, förvätskas denna värld under den kraftiga smällen och sprider sina smälta inälvor ut i kosmos.\n\nDen delen som var {0} är nu ett midre astreoidbälte. Resten är ett smält, radioaktivt helvete som konstant krusar sig av kilometerhöga planetskälvningar.\n\nDu överlevde inte.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
-  <GameOverShipLaunchedIntro>TODO</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedIntro>Vi avfyrade rymdskeppet!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
   <GameOverShipLaunchedEnding>TODO</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
-  <GameOverColonistsEscaped>TODO</GameOverColonistsEscaped>
+  <GameOverColonistsEscaped>Dessa kolonister undkom:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
-  <GameOverColonistsLeft>TODO</GameOverColonistsLeft>
+  <GameOverColonistsLeft>Dessa kolonister som lämnades kvar:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
-  <GameOverInMemoryOf>TODO</GameOverInMemoryOf>
+  <GameOverInMemoryOf>Till minne av:\n</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Fortsätt spela</GameOverKeepPlaying>
   <!-- EN: Main menu -->
@@ -1105,11 +1105,11 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{0}'s {1} växer.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}s {1} växer nu.</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{0}'s {1} är nu stabil.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}s {1} är nu stabil.</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{0}'s {1} är nu i regrission.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}s {1} är nu i regrission.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
@@ -1169,7 +1169,7 @@
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
-  <ChargesRemaining>TODO</ChargesRemaining>
+  <ChargesRemaining>Återstående laddningar</ChargesRemaining>
   
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
@@ -1237,13 +1237,13 @@
   
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
-  <PawnTooltipWithDescAndPrimaryEquip>TODO</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
   <!-- EN: {0} ({1})\n{2} -->
-  <PawnTooltipWithDescNoPrimaryEquip>TODO</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
   <!-- EN: {0}\n{1}\n{2} -->
-  <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
-  <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
   <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
@@ -1257,7 +1257,7 @@
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
-  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
+  <PawnTooltipGenderAndKindLabel>{0} {1} </PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
@@ -1275,7 +1275,7 @@
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
   <Reward_Goodwill>TODO</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>TODO</Reward_PassageOffworld>
+  <Reward_PassageOffworld>du kommer tas till stjärnorna</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
   <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
@@ -1299,19 +1299,19 @@
   <!-- EN: a reward possibly granted in the future -->
   <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
-  <Reward_Title_Label>TODO</Reward_Title_Label>
+  <Reward_Title_Label>{TITLE} titel</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
-  <Reward_Title>TODO</Reward_Title>
+  <Reward_Title>{PAWNNAME} ges {TITLE} titel av {FACTION}</Reward_Title>
   <!-- EN: value {0} -->
-  <TotalValue>TODO</TotalValue>
+  <TotalValue>värde {0}</TotalValue>
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>TODO</BondedWith>
+  <BondedWith>Bunden till: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>TODO</NotBonded>
+  <NotBonded>Inte bunden än</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>Bunden till någon annan</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
   <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
@@ -1321,40 +1321,29 @@
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>TODO</Biocoded>
+  <Biocoded>biokodat {0}</Biocoded>
   <!-- EN: Biocoding: {0} -->
-  <CodedFor>TODO</CodedFor>
+  <CodedFor>Biokodad: {0}</CodedFor>
   <!-- EN: biocoded -->
-  <BiocodedCodedForSomeoneElse>TODO</BiocodedCodedForSomeoneElse>
+  <BiocodedCodedForSomeoneElse>biokodat</BiocodedCodedForSomeoneElse>
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>TODO</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>Genskjuter {0} varje {1}</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>TODO</InterceptsProjectiles>
+  <InterceptsProjectiles>Genskjuter {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>markprojektiler</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>TODO</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>luftburna projektiler</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
-  <AffectedGender>TODO</AffectedGender>
+  <AffectedGender>påverkat kön</AffectedGender>
 
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
-  <CausedByHediff>TODO</CausedByHediff>
+  <CausedByHediff>Orsakad av: {0}</CausedByHediff>
   
-  <!-- UNUSED -->
-  <CaravanPaused>Vilar.</CaravanPaused>
-  <ForceExitAndRemoveMapCountdown>{0} till avfärd</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>Dina kolonister kommer automatiskt återförena karavanen och lämna detta område om {0}.</ForceExitAndRemoveMapCountdownTip>
-  <ItemStashContents>Innehåll: {0}.</ItemStashContents>
-  <KnownSiteThreat>Kännt hot: {0}.</KnownSiteThreat>
-  <KnownSiteThreats>Kända hot: {0}.</KnownSiteThreats>
-  <KnownSiteThreatsNone>Kända hot: inga.</KnownSiteThreatsNone>
-  <NeurotrainerUsed>{0} använde {1} neurotränare att gå från nivå {2} till nivå {3}.</NeurotrainerUsed>
-  <GameOverShipLaunched>Du har lyckats skjuta upp skeppet! Dessa kolonister klarade sig:\n\n{0}\nDessa kolonister lämnades kvar:\n\n{1}\nSkeppets AI kommer nu försöka vägleda dig till ett säkert ställe. Den kanske hitar en mer välmående planet i det här solsystemet. Eller så kanske det undergår en resa som kan ta flera århundranden till en annan stjärna. Den kanske till och med bestämmer sig för att gömma sig under is på en asteroid i ett par tusen år, i väntan på att någon bygger en ny glittervärld här.\n\nDet får du reda på när du vaknar upp.</GameOverShipLaunched>
-  <GameOverArrivedAtJourneyDestination>När ni bordar skeppet blir ni välkomnade av besättningen med öppna armar. De verkar glada över att ta åtminstånde en till person med sig.\n\nDessa kolonister klarade sig:\n\n{0}\nDessa kolonister lämnades kvar:\n\n{1}\nSkeppets AI kommer nu försöka vägleda dig till ett säkert ställe. Den kanske hitar en mer välmående planet i det här solsystemet. Eller så kanske det undergår en resa som kan ta flera århundranden till en annan stjärna. Den kanske till och med bestämmer sig för att gömma sig under is på en asteroid i ett par tusen år, i väntan på att någon bygger en ny glittervärld här.\n\nDet får du reda på när du vaknar upp.</GameOverArrivedAtJourneyDestination>
 
 </LanguageData>

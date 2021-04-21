@@ -34,12 +34,12 @@
   <!-- EN: electricity -->
   <Electricity.label>elektricitet</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
-  <Electricity.description>Generera och använd elekticitet för att laga mat och andra enkla arbetsuppgifter.</Electricity.description>
+  <Electricity.description>ygla elektricitetens kraft och använd för hundratals olika syften.</Electricity.description>
   
   <!-- EN: firefoam -->
-  <Firefoam.label>bandskum</Firefoam.label>
+  <Firefoam.label>brandskum</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
-  <Firefoam.description>Tillåter tillverkning av brandskumsmällare; bandskyddsföremål som sprider ut en bransläckande skum till försvar mot inkommande bränder.</Firefoam.description>
+  <Firefoam.description>Konstruera brandskumsmällare, automatiskt brandskyddsföremål som sprider ut brandhämmande skum mot inkräktande bränder.</Firefoam.description>
   
   <!-- EN: flak armor -->
   <FlakArmor.label>splitterskydd</FlakArmor.label>
@@ -52,9 +52,9 @@
   <GasOperation.description>Tillverka kraftiga skjutvapen såsom kedje-hagelbössor samt lätta och tunga kulsprutor.</GasOperation.description>
   
   <!-- EN: geothermal power -->
-  <GeothermalPower.label>geotermisk kraft</GeothermalPower.label>
+  <GeothermalPower.label>geotermisk energi</GeothermalPower.label>
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
-  <GeothermalPower.description>Tillåter dig att tillverka ett geotermisk kraftverk på en ånggejser, för att få oavbruten energi.</GeothermalPower.description>
+  <GeothermalPower.description>Bygg geotermiska kraftverkt ovanför geijsrar och få oavbrutet flöde av energi.</GeothermalPower.description>
   
   <!-- EN: gunsmithing -->
   <Gunsmithing.label>vapensmide</Gunsmithing.label>
@@ -79,7 +79,7 @@
   <!-- EN: machining -->
   <Machining.label>maskintillverkning</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
-  <Machining.description>Bygg bord för maskintillverkning för att tillverka vapen, granater, splitterskydd och demontera döda mekanoider.</Machining.description>
+  <Machining.description>Bygg bord för maskintillverkning för att tillverka vapen, granater, splitterskydd och för att strimla döda mekanoider för resurser.</Machining.description>
   
   <!-- EN: mortars -->
   <Mortars.label>granatkastare</Mortars.label>
@@ -102,9 +102,9 @@
   <Prosthetics.description>tillverka billiga proteser för att ersätta förlorade kroppsdelar. Det behövs en skiklig läkare för att sättas fast.</Prosthetics.description>
   
   <!-- EN: smokepop packs -->
-  <SmokepopBelt.label>rökskyddsbälte</SmokepopBelt.label>
+  <SmokepopBelt.label>TODOw</SmokepopBelt.label>
   <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
-  <SmokepopBelt.description>Bygg rökskyddsbälten som automatiskt utsöndrar en defensivt rökridå när bäraren träffas.</SmokepopBelt.description>
+  <SmokepopBelt.description> TODO Bygg rökskyddsbälten som automatiskt utsöndrar en defensivt rökridå när bäraren träffas.</SmokepopBelt.description>
   
   <!-- EN: solar panel -->
   <SolarPanels.label>solpaneler</SolarPanels.label>

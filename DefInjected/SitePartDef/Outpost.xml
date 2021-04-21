@@ -12,7 +12,4 @@
   <!-- EN: There is an enemy outpost in this area. -->
   <Outpost.arrivedLetter>Fiender har en utpost i detta område.</Outpost.arrivedLetter>
   
-  <!-- UNUSED -->
-  <Outpost.descriptionDialogue>finder har en utpost i närheten, den bevakas av {0} fiender</Outpost.descriptionDialogue>
-  
 </LanguageData>

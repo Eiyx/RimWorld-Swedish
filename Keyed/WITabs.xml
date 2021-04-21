@@ -33,7 +33,7 @@
   <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Övergivna föremål går aldrig att få tillbaka.</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>{0} kommer sannolikt att dö.</BanishTipWillDie>
+  <BanishTipWillDie>{1_labelShort} kommer med stor sannolikhet att dö.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
@@ -47,7 +47,7 @@
   <!-- EN: Prisoners -->
   <CaravanPrisoners>Fångar</CaravanPrisoners>
   <!-- EN: Equippable items -->
-  <CaravanWeaponsAndApparel>Packning</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>Utrustningsbara föremål</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
   <NoneCapable>Ingen är kapabel</NoneCapable>
   <!-- EN: Caravan not moving -->

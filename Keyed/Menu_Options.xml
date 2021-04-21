@@ -21,7 +21,7 @@
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Pausa vid bråskande information</PauseOnUrgentLetter>
   <!-- EN: Pause on -->
-  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>Paus på</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Speciell muspekare</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -43,7 +43,7 @@
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Autoåterställning av moddar vid krash</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>TODO</SimulateNotOwningRoyalty>
+  <SimulateNotOwningRoyalty>Simulera att inte äga Royalty</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
   <LogVerbose>Utökad logging</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -51,9 +51,9 @@
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>Visa sparfilers plats</ShowSaveGameDataLocation>
   <!-- EN: Open log file folder -->
-  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <OpenLogFileFolder>Öppna loggfilers mapp</OpenLogFileFolder>
   <!-- EN: Show log file location -->
-  <ShowLogFileLocation>TODO</ShowLogFileLocation>
+  <ShowLogFileLocation>Visa loggfilers plats</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Välj spelar-skapade karaktärer. Dessa karraktärer kommer mer sannolikt dyka upp vid spelande.</NamesYouWantToSee>
   <!-- EN: Add name -->
@@ -73,7 +73,7 @@
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Maximalt antal kolonier: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Map mouse drag sensitivity -->
-  <MapDragSensitivity>TODO</MapDragSensitivity>
+  <MapDragSensitivity>Kartans känslighet vid musrörelse</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>Växter svajar i vinden</PlantWindSway>
   <!-- EN: Enable test map sizes -->
@@ -103,12 +103,7 @@
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Dina alternativ har återställts. Spelet startas nu om automatiskt.</ResetAndRestart>
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
-  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
+  <ResetAndRestartConfirmationDialog>Alla dina inställningar kommer återställas och spelet startas om. All osparad data kommer förloras!\n\nFortsätt?</ResetAndRestartConfirmationDialog>
   
-  <!-- UNUSED -->
-  <Privacy>Privat</Privacy>
-  <UserName>Användarnamn</UserName>
-  <ChooseHistoryUploadPref>Uppladdning av speldata inst.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Användarens speldata hjälper utvecklaren att balansera spelet. Om du går med på det, kommer din information att skickas varje {0} speldag (och i vissa fall, vid slutet av ett spel) till Rimworlds server för analys. Uppladdad data består endast av statistik och speldata realterat till spelet - ingen personlig information skickas, förutom användarnanmet, vilket betyder att det är helt anonymt.</AboutHistoryUpload>
 
 </LanguageData>

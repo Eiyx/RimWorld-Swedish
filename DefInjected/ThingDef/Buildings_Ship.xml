@@ -9,7 +9,7 @@
   <!-- EN: ship computer core -->
   <Ship_ComputerCore.label>datorkärnaför rymdskepp</Ship_ComputerCore.label>
   <!-- EN: A computer core housing a machine persona who can guide a starship through any challenge during a multi-decade starflight. -->
-  <Ship_ComputerCore.description>En datorkärna som inhyser en AI-personlighet som kan leda ett stjärnskepp genom alla utmaningar under en multi-deceniers lång stjärnresa.</Ship_ComputerCore.description>
+  <Ship_ComputerCore.description>En datorkärna som inhyser en maskinpersonlighet som kan leda ett stjärnskepp genom alla utmaningar under en multi-deceniers lång stjärnresa.</Ship_ComputerCore.description>
   
   <!-- EN: ship cryptosleep casket -->
   <Ship_CryptosleepCasket.label>kryptosömnkapsel för skepp</Ship_CryptosleepCasket.label>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: applying TargetB. -->
-  <ApplyTechprint.reportString>TODO</ApplyTechprint.reportString>
+  <ApplyTechprint.reportString>applicerar TargetB</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>anfaller TargetA i närstrid.</AttackMelee.reportString>
@@ -14,19 +14,19 @@
   <BeatFire.reportString>släcker eldsvåda.</BeatFire.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThing.reportString>TODO</CastAbilityOnThing.reportString>
+  <CastAbilityOnThing.reportString>Gör nånting.</CastAbilityOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  <CastAbilityOnThingMelee.reportString>Gör någonting.</CastAbilityOnThingMelee.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  <CastAbilityOnThingUninterruptible.reportString>Gör nånting.</CastAbilityOnThingUninterruptible.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  <CastAbilityOnWorldTile.reportString>Gör nånting.</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
-  <CastJump.reportString>TODO</CastJump.reportString>
+  <CastJump.reportString>Gör nånting.</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>skottar snö.</ClearSnow.reportString>
@@ -71,7 +71,7 @@
   <Goto.reportString>går.</Goto.reportString>
   
   <!-- EN: moving. -->
-  <GotoMindControlled.reportString>TODO</GotoMindControlled.reportString>
+  <GotoMindControlled.reportString>går.</GotoMindControlled.reportString>
   
   <!-- EN: seeking safe temperature. -->
   <GotoSafeTemperature.reportString>uppsöker säker temperatur.</GotoSafeTemperature.reportString>
@@ -125,7 +125,7 @@
   <RefuelAtomic.reportString>fyller på TargetA.</RefuelAtomic.reportString>
   
   <!-- EN: reloading TargetA. -->
-  <Reload.reportString>TODO</Reload.reportString>
+  <Reload.reportString>laddar TargetA</Reload.reportString>
   
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>tar av sig TargetA.</RemoveApparel.reportString>
@@ -143,7 +143,7 @@
   <TakeBeerOutOfFermentingBarrel.reportString>tar en öl från TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeInventory.reportString>tar TargetA.</TakeInventory.reportString>
+  <TakeInventory.reportString>plockar på sig TargetA.</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
   <TradeWithPawn.reportString>handlar med TargetA.</TradeWithPawn.reportString>
@@ -167,10 +167,10 @@
   <UseNeurotrainer.reportString>använder neurotränare.</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>gör någonting.</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>Gör någonting.</UseVerbOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
+  <UseVerbOnThingStatic.reportString>Gör nånting.</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>kräks.</Vomit.reportString>

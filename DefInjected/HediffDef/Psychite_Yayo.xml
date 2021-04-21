@@ -4,14 +4,14 @@
   <!-- EN: psychite addiction -->
   <PsychiteAddiction.label>psykitberoende</PsychiteAddiction.label>
   <!-- EN: A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <PsychiteAddiction.description>TODO</PsychiteAddiction.description>
+  <PsychiteAddiction.description>Ett rent kemisk beroende av psykit. Långsiktig användning av psykit har orsakat neurologiska anpassningar på en cellulär nivå. Hjärnan kan inte längre fungera ordentligt utan läkemedlet.\n\nUtan regelbundna doser av psykit från droger som flingor eller yayo kommer abstinenssymptom att börja synas. En längre tids abstinens kommer tvinga hjärnan att anpassa sig till sitt normala tillstånd och därmed missbruket.</PsychiteAddiction.description>
   <!-- EN: withdrawal -->
   <PsychiteAddiction.stages.withdrawal.label>abstinens</PsychiteAddiction.stages.withdrawal.label>
   
   <!-- EN: psychite tolerance -->
   <PsychiteTolerance.label>psykittolerans</PsychiteTolerance.label>
   <!-- EN: A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect. -->
-  <PsychiteTolerance.description>TODO</PsychiteTolerance.description>
+  <PsychiteTolerance.description>En uppbyggd tolerans mot psykit. Ju högre denna tolerans är, de mer psykitbaserade drogerna som yayo eller fling som krävs för att få samma effekt.</PsychiteTolerance.description>
   <!-- EN: small -->
   <PsychiteTolerance.stages.small.label>liten</PsychiteTolerance.stages.small.label>
   <!-- EN: large -->
@@ -19,13 +19,10 @@
   <!-- EN: massive -->
   <PsychiteTolerance.stages.massive.label>enorm</PsychiteTolerance.stages.massive.label>
   
-  <!-- UNUSED -->
-  <PsychiteTolerance.stages.small-1.label>liten</PsychiteTolerance.stages.small-1.label>
-  
   <!-- EN: high on yayo -->
   <YayoHigh.label>hög på yayo</YayoHigh.label>
   <!-- EN: Active yayo in the bloodstream. Generates an intense euphoric high. -->
-  <YayoHigh.description>TODO</YayoHigh.description>
+  <YayoHigh.description>Aktiv substans från yayo i blodet. Skapar en intensivt känsla av eufori.</YayoHigh.description>
   <!-- EN: a yayo high -->
   <YayoHigh.labelNoun>ett yayorus</YayoHigh.labelNoun>
   

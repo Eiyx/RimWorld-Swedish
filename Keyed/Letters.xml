@@ -545,10 +545,5 @@
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
   <LetterTextSiteCountdownStarted>TODO</LetterTextSiteCountdownStarted>
 
-  <!-- UNUSED -->
-  <PrisonerRescueTimeout>Lägret kommer att försvinna efter {0} dagar. Om du missar denna möjlighet kanske du aldrig hör från {1} igen.</PrisonerRescueTimeout>
-  <LetterLabelMentalBreakdown>Mentalt sammanbrott</LetterLabelMentalBreakdown>
-  <LetterLabelNewParty>Fest</LetterLabelNewParty>
-  <LetterNewParty>{1_labelShort} arrangerar en fest! Alla som går kommer få behov av fritid och social energi tillfredställt, och en långvarande positiv humörhöjning.</LetterNewParty>
 
 </LanguageData>

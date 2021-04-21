@@ -178,11 +178,6 @@
   <!-- EN: gave away my bonded animal -->
   <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
   
-  <!-- UNUSED -->
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.label>kärt djur sålt</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.description>Min speciella kära djur såldes till en handlare!</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>sålde mitt kära djur</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
-  
   <!-- EN: bonded animal given away -->
   <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
   <!-- EN: My special bonded animal was given away! -->

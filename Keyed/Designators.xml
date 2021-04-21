@@ -243,8 +243,5 @@
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>TODO</AllColonistsWithSkillHaveDisabledConstructingTip>
 
-  <!-- UNUSED -->
-  <NoColonistWithConstructionSkillTip>Ingen av dina {0} har denna färdighet.</NoColonistWithConstructionSkillTip>
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alla dina {0} som har denna färdighet har ej tilldelats arbetsuppgiften {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

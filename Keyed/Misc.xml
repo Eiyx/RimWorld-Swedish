@@ -17,17 +17,17 @@
   <!-- EN: Version {0} -->
   <VersionIndicator>Version {0}</VersionIndicator>
   <!-- EN: Game version -->
-  <GameVersionIndicator>TODO</GameVersionIndicator>
+  <GameVersionIndicator>Spelverision</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>utvecklingsversion</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
   <CompiledOn>Kompillerad {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
-  <LoggedIntoSteamAs>Inloggad genom Steam som {0}</LoggedIntoSteamAs>
+  <LoggedIntoSteamAs>Inloggad på Steam som {0}</LoggedIntoSteamAs>
   
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
-  <ToCommaListAnd>TODO</ToCommaListAnd>
+  <ToCommaListAnd>{0} och {1}</ToCommaListAnd>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -35,9 +35,9 @@
   <!-- EN: No -->
   <No>Nej</No>
   <!-- EN: new -->
-  <New>TODO</New>
+  <New>ny</New>
   <!-- EN: Gender -->
-  <Gender>TODO</Gender>
+  <Gender>Kön</Gender>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -53,7 +53,7 @@
   <!-- EN: radius -->
   <radius>radie</radius>
   <!-- EN: expired -->
-  <expired>TODO</expired>
+  <expired>utgången</expired>
   <!-- EN: duration (days) -->
   <durationDays>varaktighet (dagar)</durationDays>
   <!-- EN: interval (days) -->
@@ -79,11 +79,11 @@
   <!-- EN: Average -->
   <Average>Medel</Average>
   <!-- EN: Cause -->
-  <Cause>TODO</Cause>
+  <Cause>Orsak</Cause>
   <!-- EN: etc -->
-  <Etc>TODO</Etc>
+  <Etc>etc</Etc>
   <!-- EN: ${0} -->
-  <MoneyFormat>TODO</MoneyFormat>
+  <MoneyFormat>kr{0}</MoneyFormat>
 
   <!-- Content generation-->
   
@@ -97,14 +97,14 @@
   <MeatHumanDesc>Rått styckat kött. Kan tillagas för måltider eller ätas rått, även om de flesta människor ogillar det sitsnämnda.</MeatHumanDesc>
 
   <!-- EN: techprint ({PROJECT_label}) -->
-  <TechprintLabel>TODO</TechprintLabel>
+  <TechprintLabel>teknikritning ({PROJECT_label})</TechprintLabel>
   <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
   <TechprintDesc>TODO</TechprintDesc>
   <!-- EN: Unlocks -->
-  <Unlocks>TODO</Unlocks>
+  <Unlocks>Låser upp</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} lik</CorpseLabel>
@@ -145,10 +145,10 @@
   <CouplesRoom>{PAWN1_labelShort} och {PAWN2_labelShort}s {2}</CouplesRoom>
   
   <!-- EN: Important for this type of room. -->
-  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  <StatRelatesToCurrentRoom>Viktig för denna typ av rum</StatRelatesToCurrentRoom>
   
   <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
-  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} under jord här.</DeepResourceRemaining>
   
   <!-- EN: (various) -->
   <VariousLabel>(diverse)</VariousLabel>
@@ -168,6 +168,6 @@
   <East>Öster</East>
 
   <!-- EN: applying techprint ({0}) -->
-  <ApplyingTechprint>TODO</ApplyingTechprint>
+  <ApplyingTechprint>applicerar teknikritning ({0})</ApplyingTechprint>
   
 </LanguageData>

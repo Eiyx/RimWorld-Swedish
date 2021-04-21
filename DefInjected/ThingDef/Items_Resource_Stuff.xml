@@ -77,9 +77,9 @@
   <WoolAlpaca.stuffProps.stuffAdjective>alpackaull</WoolAlpaca.stuffProps.stuffAdjective>
   
   <!-- EN: bison wool -->
-  <WoolBison.label>TODO</WoolBison.label>
+  <WoolBison.label>bisonull</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
-  <WoolBison.description>TODO</WoolBison.description>
+  <WoolBison.description>Tjock och grov ull från en bisonoxe. Ganska varm.</WoolBison.description>
   
   <!-- EN: megasloth wool -->
   <WoolMegasloth.label>jättesengångarull</WoolMegasloth.label>

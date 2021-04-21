@@ -39,14 +39,14 @@
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
   <TribeCivil.description>Dessa människor har varit här en väldigt lång tid. Kanske krashade deras förfäder här för tusen år sedan. Kanske var de överlevare av en katastrof som förstörde en teknologisk civilisation här. I vilket fall, de flesta stammar är nomader som lever av vad jorden har att erbjuda med hjälp av primitiva verktyg och vapen.\n\nTrots deras teknologiska svagheter kan stammar vara farliga fiender och värdefulla vänner, med deras skiklighet med lågteknologiska vapen, deras antal och tapperhet.\n\n Just denna stam är varsamma och lever sitt liv där de kan. De är relativt öppna för handel och allianser, även med märkligt folk.</TribeCivil.description>
   <!-- EN: chief -->
-  <TribeCivil.leaderTitle>Hövding</TribeCivil.leaderTitle>
+  <TribeCivil.leaderTitle>hövding</TribeCivil.leaderTitle>
   <!-- EN: tribesman -->
   <TribeCivil.pawnSingular>stammedlem</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
   <TribeCivil.pawnsPlural>stamfolk</TribeCivil.pawnsPlural>
   
   <!-- EN: fierce tribe -->
-  <TribeRough.label>vild stam</TribeRough.label>
+  <TribeRough.label>våldsam stam</TribeRough.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
   <TribeRough.description>Dessa människor har varit här en väldigt lång tid. Kanske krashade deras förfäder här för tusen år sedan. Kanske var de överlevare av en katastrof som förstörde en teknologisk civilisation här. I vilket fall, de flesta stammar är nomader som lever av vad jorden har att erbjuda med hjälp av primitiva verktyg och vapen.\n\nTrots deras teknologiska svagheter kan stammar vara farliga fiender och värdefulla vänner, med deras skiklighet med lågteknologiska vapen, deras antal och tapperhet.\n\Denna stam värderar krigisk dominans; Det kan vara svårt att göra dem till allierade.</TribeRough.description>
   <!-- EN: tribesman -->
@@ -55,12 +55,12 @@
   <TribeRough.pawnsPlural>stamfolk</TribeRough.pawnsPlural>
   
   <!-- EN: savage tribe -->
-  <TribeSavage.label>TODO</TribeSavage.label>
+  <TribeSavage.label>barbarstam</TribeSavage.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
-  <TribeSavage.description>TODO</TribeSavage.description>
+  <TribeSavage.description>Dessa människor har varit här en väldigt lång tid. Kanske krashade deras förfäder här för tusen år sedan. Kanske var de överlevare av en katastrof som förstörde en teknologisk civilisation här. I vilket fall, de flesta stammar är nomader som lever av vad jorden har att erbjuda med hjälp av primitiva verktyg och vapen.\n\nTrots deras teknologiska svagheter kan stammar vara farliga fiender och värdefulla vänner, med deras skiklighet med lågteknologiska vapen, deras antal och tapperhet.\n\Denna stam  har en kultur som drivs av blod och ära; du kan inte bli allierad med dem!</TribeSavage.description>
   <!-- EN: tribesman -->
-  <TribeSavage.pawnSingular>TODO</TribeSavage.pawnSingular>
+  <TribeSavage.pawnSingular>stammedlem</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeSavage.pawnsPlural>TODO</TribeSavage.pawnsPlural>
+  <TribeSavage.pawnsPlural>stamfolk</TribeSavage.pawnsPlural>
   
 </LanguageData>
