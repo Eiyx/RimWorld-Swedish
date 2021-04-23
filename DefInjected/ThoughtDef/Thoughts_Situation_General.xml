@@ -106,8 +106,8 @@
   <Sick.stages.sick.description>Jag känner mig inte bra, jag är sjuk.</Sick.stages.sick.description>
   
   <!-- EN: wearing {0} apparel -->
-  <WrongApparelGender.stages.wearing_apparel.label>TODO</WrongApparelGender.stages.wearing_apparel.label>
+  <WrongApparelGender.stages.wearing_apparel.label>bär {0} kläder</WrongApparelGender.stages.wearing_apparel.label>
   <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
-  <WrongApparelGender.stages.wearing_apparel.description>TODO</WrongApparelGender.stages.wearing_apparel.description>
+  <WrongApparelGender.stages.wearing_apparel.description>Jag har på mig kläder som tydligt är ämnade för {0}s! Pinsamt.</WrongApparelGender.stages.wearing_apparel.description>
   
 </LanguageData>

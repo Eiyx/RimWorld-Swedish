@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: bite -->
-  <Bite.label>TODO</Bite.label>
+  <Bite.label>bett</Bite.label>
   
   <!-- EN: blunt -->
-  <Blunt.label>TODO</Blunt.label>
+  <Blunt.label>trubbig</Blunt.label>
   
   <!-- EN: cut -->
-  <Cut.label>TODO</Cut.label>
+  <Cut.label>skärsår</Cut.label>
   
   <!-- EN: kick material in eyes -->
-  <KickMaterialInEyes.label>TODO</KickMaterialInEyes.label>
+  <KickMaterialInEyes.label>sparkat material i ögonen</KickMaterialInEyes.label>
   
   <!-- EN: poke -->
-  <Poke.label>TODO</Poke.label>
+  <Poke.label>stucken</Poke.label>
   
   <!-- EN: scratch -->
-  <Scratch.label>TODO</Scratch.label>
+  <Scratch.label>rivsår</Scratch.label>
   
   <!-- EN: toxic scratch -->
-  <ScratchToxic.label>TODO</ScratchToxic.label>
+  <ScratchToxic.label>giftigt rivsår</ScratchToxic.label>
   
   <!-- EN: stab -->
-  <Stab.label>TODO</Stab.label>
+  <Stab.label>knivhugg</Stab.label>
   
   <!-- EN: toxic bite -->
-  <ToxicBite.label>TODO</ToxicBite.label>
+  <ToxicBite.label>giftbett</ToxicBite.label>
   
 </LanguageData>

@@ -164,26 +164,26 @@
   <RescuedMe.stages.rescued_me.label>räddade mig</RescuedMe.stages.rescued_me.label>
   
   <!-- EN: rescued me -->
-  <RescuedMeByOfferingHelp.stages.rescued_me.label>TODO</RescuedMeByOfferingHelp.stages.rescued_me.label>
+  <RescuedMeByOfferingHelp.stages.rescued_me.label>fritog mig</RescuedMeByOfferingHelp.stages.rescued_me.label>
   <!-- EN: I was rescued by someone! I almost thought I was done for back there. I'm so thankful. -->
-  <RescuedMeByOfferingHelp.stages.rescued_me.description>TODO</RescuedMeByOfferingHelp.stages.rescued_me.description>
+  <RescuedMeByOfferingHelp.stages.rescued_me.description>Jag räddades av någon! Jag trodde nästan att allt var kört. Jag är så tacksam.</RescuedMeByOfferingHelp.stages.rescued_me.description>
   
   <!-- EN: slighted -->
   <Slighted.stages.slighted.label>förringad</Slighted.stages.slighted.label>
   
   <!-- EN: bonded animal given away -->
-  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>kärt djur gavs bort</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
   <!-- EN: My special bonded animal was given away! -->
-  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>Mitt speciella kära djur har getts bort!</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
   <!-- EN: gave away my bonded animal -->
-  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>gav bort mitt kära djur</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
   
   <!-- EN: bonded animal given away -->
-  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>kärt djur gavs bort</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
   <!-- EN: My special bonded animal was given away! -->
-  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>Mitt speciella kära djur har getts bort!</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
   <!-- EN: gave away my bonded animal -->
-  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>av bort mitt kära djur</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
   
   <!-- EN: loved one sold -->
   <SoldMyLovedOne.stages.loved_one_sold.label>älskade såld</SoldMyLovedOne.stages.loved_one_sold.label>

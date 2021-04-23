@@ -23,7 +23,7 @@
 
   <!-- Enemy raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <EnemyRaidLeaderPresent>En av {0} - {1} är fraktionens ledare.</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>En av {LEADER_factionPawnsPlural} - {LEADER_labelShort} är fraktionens ledare.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
@@ -61,9 +61,9 @@
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
   <TraderArrival>Ett handelsskepp passerar i närheten.\n\nDe är kända som {0}. De är en {1}.</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
-  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <TraderArrivalFromFaction>De är anslutna till {FACTION_name}.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
-  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
+  <TraderArrivalNoFaction>De är inte anslutna till någon fraktion.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
   <SingleTravelerPassing>En {PAWN_title} från {1} passerar i närheten. {PAWN_pronoun} heter {PAWN_nameFull}.</SingleTravelerPassing>
@@ -102,15 +102,15 @@
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>Vaknade för {0} dagar sedan</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
-  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <ActivatedDaysAgo>Aktiverad för {0} dagar sedan</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->
-  <OpenedDaysAgo>TODO</OpenedDaysAgo>
+  <OpenedDaysAgo>Öppnad för {0} dagar sedan</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Psykisk drönare nivå: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Drönarens nivå ökar</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>Den krashade skeppsdelen skickar nu ut en kraftigare sorts psykisk puls. Alla mänskliga varelser i närheten känner sig nu mer störda, skrämda och paranoida.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Den krashade skeppsdelen skickar nu ut en kraftigare sorts psykisk puls. Alla {0} mänskliga varelser i närheten känner sig nu mer störda, skrämda och paranoida.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
@@ -150,9 +150,9 @@
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} från {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
-  <LetterTraderCaravanArrival>En karavan från {0} närmar sig.\n\nDe är en {1} och kommer att röra sig runt kolonin nåra dagar innan dom beger sig vidare. Du kan attackera dem - med detta kommer förarga deras fraktion!</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>En karavan från {0} närmar sig.\n\nDe är {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>TODO</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>De kommer att hänga runt kolonin en stund innan de lämnar. Du kan attakera dem - men det kommer att reta upp deras fraktion!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
@@ -168,19 +168,19 @@
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>Skepp hittat</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>Du har nått koordinaterna som skickats av Charlon Whitestone och upptäckte det dolda rymdskeppet.\n\nSkeppets reaktor är fortfarande i djupt viloläge, så det kan inte flyga ännu. Du kan starta upp det genom att interagera med datorns kärna.\n\nCharlon Whitestone varnar dig för att startprocessen tar cirka 15 dagar, och energiresignaturen kan detekteras långt borta. Denna typ av energisignatur indikerar interstellär flygkapacitet och kommer att locka till sig gäng av desperata banditer och svärmar av dödliga mechanoider.\n\nDu kommer att bli angripen med en intensitet du aldrig sett tidigare. Se till att dina försvar är förberedda först.</EscapeShipFound>
+  <EscapeShipFound>Du har nått koordinaterna som skickats av (*Name)Charlon Whitestone(/Name) och upptäckte det dolda rymdskeppet.\n\nSkeppets reaktor är fortfarande i djupt viloläge, så det kan inte flyga ännu. Du kan starta upp det genom att interagera med datorns kärna.\n\n(*Name)Charlon Whitestone(/Name) varnar dig för att startprocessen tar cirka 15 dagar och energiresignaturen kan detekteras långt borta. Denna typ av energisignatur indikerar interstellär flygkapacitet och kommer att locka till sig gäng av desperata banditer och svärmar av dödliga mechanoider.\n\nDu kommer att bli angripen med en intensitet du aldrig sett tidigare. Se till att dina försvar är förberedda först.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
+  <EscapeShipFoundPeaceful>Du har nått koordinaterna som skickades av (*Name)Charlon Whitestone(/Name) och upptäckt det dolda rymdskeppet.\n\nSkeppets reaktor är fortfarande i djupt viloläge så det kan inte flyga ännu. Du kan starta det genom att interagera med datorns kärna.\n\n(*Name)Charlon Whitestone(/Name) varnar dig för att startprocessen tar cirka 15 dagar.</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Skepp förstört</EscapeShipLostLabel>
   <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>Charlon Whitestone skickar ett meddelande till dig.\n\nHan ser att du har tappat kontrollen över det landade skeppet. För att hindra att det faller i fel händer har han tvingats utlösa fartygets självförstörelsemekanism. Skeppet är nu en krater.\n\nDu behöver hitta en annan väg från denna planet</EscapeShipLost>
+  <EscapeShipLost>(*Name)Charlon Whitestone(/Name) skickar ett meddelande till dig.\n\nHan ser att du har tappat kontrollen över det landade skeppet. För att hindra att det faller i fel händer har han tvingats utlösa fartygets självförstörelsemekanism. Skeppet är nu en krater.\n\nDu behöver hitta en annan väg från denna planet</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
   <CaravanMeetingTitle>Karavanmöte av {0}</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>{0} har lugnt mött en annan karavan från {0}. Den andra karavanen består av:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting>{0} har lugnt mött en annan karavan från {1}. Den andra karavanen består av:\n\n{2}</CaravanMeeting>
   <!-- EN: Trade -->
   <CaravanMeeting_Trade>Handla</CaravanMeeting_Trade>
   <!-- EN: Attack -->
@@ -190,7 +190,7 @@
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>Inga karavanmedlemmar kan förhandla</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>behöver en handlare med titeln {0} från {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
@@ -198,7 +198,7 @@
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
   <LetterCaravanRequest>En bosättning i närheten, {0}, kontaktar dig gällande en handelsförfrågan. De skulle vilja köpa :\n\n  {1} (värt {2})\n\nI utbyte erbjuder de:\n\n  {3} (värt{4})\n\nDen här förfrågan förfaller om: {5}\n\nOm du vill utöra hadeln, skicka en karavan med de önskade varorna. Den förväntade restiden är {6}. Du kan granska det här erbjudandet genom att välja {0} på världskartan.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
-  <CaravanRequestInfo>Förfrågan: {0} ({3}), Belöning: {1} ({4}) ({2} kvar)</CaravanRequestInfo>
+  <CaravanRequestInfo>Förfrågan: {0} ({2}) ({1} kvar</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>normal kvalitet eller bättre</NormalQualityOrBetter>
   <!-- EN: not tainted -->
@@ -206,9 +206,9 @@
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->
-  <CaravanDemandTitle>Krav på karavan från {0}</CaravanDemandTitle>
+  <CaravanDemandTitle>Kräver karavan från {0}</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>Din karavan har råkat ut för ett bakhåll av en grupp {2} {4} från {1}. De kommer att attackera om du inte ger dem:\n\n{3}</CaravanDemand>
+  <CaravanDemand>{0} har råkat ut för ett bakhåll av en grupp {2} {4} från {1}. De kommer att attackera om du inte ger dem:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
   <CaravanDemand_Give>Ge och passera</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->
@@ -222,25 +222,25 @@
   <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
   <LetterSiteNoLongerHostile>Eftersom du inte längre är fientlig med {0} är platsen {1} inte längre tillgänglig.</LetterSiteNoLongerHostile>
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
-  <LetterSiteNoLongerHostileMulti>Eftersom du inte längre är fientlig med {0} är följande platser inte längre tillgängliga</LetterSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostileMulti>Eftersom du inte längre är fientlig mot {0} är följande platser inte längre tillgängliga</LetterSiteNoLongerHostileMulti>
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>Uppdrag misslyckades</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>Uppdraget är inte genomförbart eftersom {FACTION_name} är fientlig.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>Uppdrag misslyckades</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>Uppdraget är inte genomförbart eftersom {SUBJECT_definite} har tillfångatagits.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>Uppdrag misslyckades</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
+  <LetterQuestAskerDied>Uppdraget är inte genomförbart eftersom {SUBJECT_definite} har dött.</LetterQuestAskerDied>
 
 
 </LanguageData>

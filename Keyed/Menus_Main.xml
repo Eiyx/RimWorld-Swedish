@@ -17,7 +17,7 @@
   <!-- EN: Options -->
   <Options>Inställningar</Options>
   <!-- EN: Mod -->
-  <Mod>TODO</Mod>
+  <Mod>Modd</Mod>
   <!-- EN: Mods -->
   <Mods>Moddar</Mods>
   <!-- EN: Save translation report -->
@@ -27,7 +27,7 @@
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>Städa översättningsfiler</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>TODO</TranslationFilesTKeyUpdate>
+  <TranslationFilesTKeyUpdate>Uppdatera översättningsfiler (TKey's)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Städar översättningsfiler</CleaningTranslationFiles>
   <!-- EN: Credits -->
@@ -87,7 +87,7 @@
   <!-- EN: Overall temperature -->
   <PlanetTemperature>Allmän temperatur</PlanetTemperature>
   <!-- EN: Population -->
-  <PlanetPopulation>TODO</PlanetPopulation>
+  <PlanetPopulation>Polulation</PlanetPopulation>
   <!-- EN: Low -->
   <PlanetRainfall_Low>Låg</PlanetRainfall_Low>
   <!-- EN: Normal -->
@@ -101,11 +101,11 @@
   <!-- EN: High -->
   <PlanetTemperature_High>Hög</PlanetTemperature_High>
   <!-- EN: Sparse -->
-  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <PlanetPopulation_Low>Sparsam</PlanetPopulation_Low>
   <!-- EN: Normal -->
-  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <PlanetPopulation_Normal>Normal</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>TODO</PlanetPopulation_High>
+  <PlanetPopulation_High>Trång</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>Frö</WorldSeed>
   <!-- EN: Randomize seed -->
@@ -151,7 +151,7 @@
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Är du säker på att du vill radera allt innehåll för {0}?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>TODO</ResolveModOrder>
+  <ResolveModOrder>Aoutosortera moddar</ResolveModOrder>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Avprenumerera</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -173,63 +173,63 @@
   <!-- EN: Downloading -->
   <Downloading>Laddar ned</Downloading>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>Visa uppfyllda krav</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>TODO</ModClickToSelect>
+  <ModClickToSelect>Klicka för att välja.</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>Klicka för att gå till hemsida.</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>Källa</Source>
   <!-- EN: For game version(s) -->
-  <ModTargetVersion>För version: {0}</ModTargetVersion>
+  <ModTargetVersion>För spelversion(er)</ModTargetVersion>
   <!-- EN: ID -->
-  <ModPackageId>TODO</ModPackageId>
+  <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <ModMustLoadBefore>Detta måste laddas innan: {0}.</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <ModMustLoadAfter>Detta måste laddas efter: {0}.</ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
-  <ModDependsOn>TODO</ModDependsOn>
+  <ModDependsOn>Beror på: {0}</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <ModIncompatibleWith>Inkompatibel med: {0}</ModIncompatibleWith>
   <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <ModIncompatibleWithTip>Denna modd är inkompatibel med: {0}.</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <ModOrderingWarning>Denna modd laddas i fel ordning i förhållande till en annan modd. Använd knappen 'automatisk sortering' eller sortera om manuellt.</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>En annan aktiv modd använder samma ID: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <ModCyclicDependency>Det finns en cyklisk modd med beroendeförhållande {0}.</ModCyclicDependency>
   <!-- EN: This requires following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
+  <ModUnsatisfiedDependency>Detta kräver följande moddar för att fungera: {0}.</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Den här modden är inte gjord för denna versionen av RimWorld och kommer troligtvis inte fungera korrekt.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Den här modden är inte gjord för denna version av RimWorld och kommer troligtvis inte fungera korrekt.</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>TODO</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>Denna mod är inte gjord för den här versionen av RimWorld</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion_Newer>TODO</ModNotMadeForThisVersion_Newer>
+  <ModNotMadeForThisVersion_Newer>Denna mod gjordes för en nyare version av RimWorld än den här och kommer förmodligen inte att fungera korrekt.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: {0}.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion> TODO Modden behöver en välformatterad målversion i About.xml. Liknande denna: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> är utfasad. Kontrollera loggen för mer information..</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Modden behöver ett unikt och korrekt formaterat packageId i About.xml. Den måste uppfylla följande krav:\n\n - Alfanumeriska tecken och endast punkt.\n  - Inga mellanslag.\n  - Minst en punkt.\n  - Inga upprepade punkter i rad, eller som börjar eller slutar med en punkt.\n  - 60 tecken eller mindre.\n  - Kan inte innehålla ordet "Ludeon".\n\nTill exempel: \n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> TODO</MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>Denna modd har problem i LoadFolders.xml som du måste lösa innan du laddar upp:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <ModLoadFolderDoesntExist>Mappen {0} som anges för version {1} finns inte.</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>Felaktig versionsträng '{0}'. Korrekt format är Major.Minor (t.ex. 1.1)</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>Listan över laddningsmappar för version {0} är tom.</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>Version {0} listar samma mapp mer än en gång: {1}.</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>Ogiltig versionsordning: {0} ska komma före {1}.</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>Ogiltig versionsordning: 'standard' bör definieras först.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>TODO</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>Användning av 'standard' i laddningsmappar är utfasad. Definiera mappar för varje version med taggarna <v...> TODO.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>Version {0} definieras i laddningsmappar, men visas inte i "stödda versioner" av moddens About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Dra för att ändra ordning</DragToReorder>
 
@@ -265,7 +265,7 @@
   <!-- EN: Incompatible -->
   <Incompatible>Inkompatibelt</Incompatible>
   <!-- EN: Tag as translation -->
-  <TagAsTranslation>TODO</TagAsTranslation>
+  <TagAsTranslation>Tagga som översättning</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>För många (max {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
@@ -300,34 +300,34 @@
   <DifficultyReset>TODO</DifficultyReset>
   
   <!-- EN: Threats -->
-  <DifficultyThreatSection>TODO</DifficultyThreatSection>
+  <DifficultyThreatSection>Hot</DifficultyThreatSection>
   <!-- EN: Threat scale -->
-  <Difficulty_ThreatScale_Label>TODO</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Label>Hotnivå</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
   <Difficulty_ThreatScale_Info>TODO</Difficulty_ThreatScale_Info>
   <!-- EN: Major threats -->
-  <Difficulty_AllowBigThreats_Label>TODO</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Label>Stora hot</Difficulty_AllowBigThreats_Label>
   <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
   <Difficulty_AllowBigThreats_Info>TODO</Difficulty_AllowBigThreats_Info>
   <!-- EN: Quest threats -->
-  <Difficulty_AllowViolentQuests_Label>TODO</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Label>Hot vid uppdrag</Difficulty_AllowViolentQuests_Label>
   <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
   <Difficulty_AllowViolentQuests_Info>TODO</Difficulty_AllowViolentQuests_Info>
   <!-- EN: Intro threats -->
-  <Difficulty_AllowIntroThreats_Label>TODO</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Label>Inledande hot</Difficulty_AllowIntroThreats_Label>
   <!-- EN: Enable the fixed intro threats that appear near game start. -->
   <Difficulty_AllowIntroThreats_Info>TODO</Difficulty_AllowIntroThreats_Info>
   <!-- EN: Predators hunt humans -->
-  <Difficulty_PredatorsHuntHumanlikes_Label>TODO</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Label>Rovdjur jagar människor</Difficulty_PredatorsHuntHumanlikes_Label>
   <!-- EN: Allow wild predators to hunt humans. -->
-  <Difficulty_PredatorsHuntHumanlikes_Info>TODO</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Info>Tillåter att vilda rovdjur jagar människor.</Difficulty_PredatorsHuntHumanlikes_Info>
   <!-- EN: Extreme weather -->
-  <Difficulty_AllowExtremeWeatherIncidents_Label>TODO</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Extremväder</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
   <Difficulty_AllowExtremeWeatherIncidents_Info>TODO</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <!-- EN: Economy -->
-  <DifficultyEconomySection>TODO</DifficultyEconomySection>
+  <DifficultyEconomySection>Ekonomi</DifficultyEconomySection>
   <!-- EN: Trade price disadvantage -->
   <Difficulty_TradePriceFactorLoss_Label>TODO</Difficulty_TradePriceFactorLoss_Label>
   <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
@@ -345,11 +345,11 @@
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
   <Difficulty_ButcherYieldFactor_Info>TODO</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
-  <Difficulty_ResearchSpeedFactor_Label>TODO</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Label>Forskningshastighet</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
-  <Difficulty_ResearchSpeedFactor_Info>TODO</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Info>Justera hastighet för forskning.</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
-  <Difficulty_QuestRewardValueFactor_Label>TODO</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Label>Uppdrags belöningar</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
   <Difficulty_QuestRewardValueFactor_Info>TODO</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
@@ -361,22 +361,22 @@
   <!-- EN: Adjust the cost of rearming turrets. -->
   <Difficulty_MaintenanceCostFactor_Info>TODO</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
-  <Difficulty_ScariaRotChance_Label>TODO</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Label>Förrutnelse vid scaria</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
   <Difficulty_ScariaRotChance_Info>TODO</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Fienden dör vid knockout</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
   <Difficulty_EnemyDeathOnDownedChanceFactor_Info>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <!-- EN: General -->
-  <DifficultyGeneralSection>TODO</DifficultyGeneralSection>
+  <DifficultyGeneralSection>Generellt</DifficultyGeneralSection>
   <!-- EN: Colonist mood -->
-  <Difficulty_ColonistMoodOffset_Label>TODO</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Label>Kolonisters humör</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
   <Difficulty_ColonistMoodOffset_Info>TODO</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
-  <Difficulty_FoodPoisonChanceFactor_Label>TODO</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Label>Chans för matförgiftning</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
   <Difficulty_FoodPoisonChanceFactor_Info>TODO</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
@@ -388,17 +388,17 @@
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
   <Difficulty_FriendlyFireChanceFactor_Info>TODO</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
-  <Difficulty_AllowInstantKillChance_Label>TODO</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Label>Kolonister dör direkt</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
   <Difficulty_AllowInstantKillChance_Info>TODO</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Label>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Chans för infektion</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Info>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Justera chansen för att en skada ska bli infekterad.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
   <!-- EN: Disease frequency -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Label>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Sjukdomsfrekvens</Difficulty_DiseaseIntervalFactor_Inverted_Label>
   <!-- EN: Adjust the frequency of random disease events. -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Info>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Justera frekvens av slumpartade sjukdommar.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
   <!-- EN: Insect spawning rate -->
   <Difficulty_EnemyReproductionRateFactor_Label>TODO</Difficulty_EnemyReproductionRateFactor_Label>
   <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
@@ -417,48 +417,48 @@
   <Difficulty_AllowCaveHives_Info>TODO</Difficulty_AllowCaveHives_Info>
 
   <!-- EN: Player tools -->
-  <DifficultyPlayerToolsSection>TODO</DifficultyPlayerToolsSection>
+  <DifficultyPlayerToolsSection>Spelarverktyg</DifficultyPlayerToolsSection>
   <!-- EN: Player can build traps -->
-  <Difficulty_AllowTraps_Label>TODO</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Label>Spelare kan bygga fällor</Difficulty_AllowTraps_Label>
   <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info>TODO</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTraps_Info>Spelare kan bygga fällor t.ex. spikfällor eller IEDs</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label>TODO</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Label>Spelare kan bygga vapentorn</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>TODO</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>Spelare kan bygga fasta vapentorn i flera olika storlekar och modeller\n\nDu kan fortfarande använda övertagna vapentorn även om detta är inaktiverat.</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
-  <Difficulty_AllowMortars_Label>TODO</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Label>Spelare kan bygga mörsare</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
-  <Difficulty_AllowMortars_Info>TODO</Difficulty_AllowMortars_Info>
+  <Difficulty_AllowMortars_Info>Spelare kan bygga mörsare.\n\nDu kan fortfarande använda övertagna mörsare även om detta är inaktiverat.</Difficulty_AllowMortars_Info>
   
   <!-- EN: Adaptation -->
-  <DifficultyAdaptationSection>TODO</DifficultyAdaptationSection>
+  <DifficultyAdaptationSection>Anpassning</DifficultyAdaptationSection>
   <!-- EN: Damage adaptation growth -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Anpassning av skadeökning</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the rate of that challenge growth. -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Anpassning innebär att berättaren gör spelet mer utmanande över tiden så länge du inte utsätts för nederlag. Detta skiljer sig från historiens effekter på välstånd och befolkning.\n\nDetta justerar vilken hastighet den utmaningen ökar.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
   <!-- EN: Damage adaptation effect -->
-  <Difficulty_AdaptationEffectFactor_Label>TODO</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Label>Anpassning av skadors effekt</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
-  <Difficulty_AdaptationEffectFactor_Info>TODO</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_AdaptationEffectFactor_Info>Anpassning innebär att berättaren gör spelet mer utmanande över tiden så länge du inte utsätts för nederlag. Detta skiljer sig från historiens effekter på välstånd och befolkning.\n\nDetta justerar effekten av detta anpassningsvärde på faktiska hot.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Wealth-independent progress mode -->
-  <Difficulty_FixedWealthMode_Label>TODO</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Label>Ekonomiskt oberoende och dess framåtskridande läge</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
   <Difficulty_FixedWealthMode_Info>TODO</Difficulty_FixedWealthMode_Info>
   <!-- EN: Years until maximum threat -->
-  <Difficulty_FixedWealthTimeFactor_Label>TODO</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Label>År tills maximalt hot</Difficulty_FixedWealthTimeFactor_Label>
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
-  <Difficulty_FixedWealthTimeFactor_Info>TODO</Difficulty_FixedWealthTimeFactor_Info>
+  <Difficulty_FixedWealthTimeFactor_Info>Antalet spelår tills ekonomiskt oberoende och dess framåtskridande når sin maximala hotnivå.\n\nNotera att berättaren fortfarande kommer att skala hoten gentemot antalet kolonister och en mängd andra faktorer.</Difficulty_FixedWealthTimeFactor_Info>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
-  <SelectStartingSite>TODO</SelectStartingSite>
+  <SelectStartingSite>Välj startplats</SelectStartingSite>
   <!-- EN: Select random site -->
   <SelectRandomSite>Välj slumpad landningsplats</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Välj plats</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>TODO</MustSelectStartingSite>
+  <MustSelectStartingSite>Välj plats</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Du kan inte landa i den här biomen: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
@@ -534,33 +534,33 @@
   <!-- EN: age {0} -->
   <AgeIndicator>ålder {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>TODO</PawnSummary>
+  <PawnSummary>{PAWN_race}, ålder {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, ålder {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>Bakgrundshistoria</Backstory>
   <!-- EN: Incapable of -->
   <IncapableOf>Inkapabel till </IncapableOf>
   <!-- EN: Abilities -->
-  <Abilities>TODO</Abilities>
+  <Abilities>Förmågor</Abilities>
   <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>På grund av bakgrundshistoria: {0}</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>På grund av titel: {0}</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>På grund av persondrag: {0}</IncapableOfTooltipTrait>
   <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>På grund av: {0}</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>Inaktiverade arbeten:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by quest status: {0} -->
-  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>På grund av uppdragsstatus: {0}</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
   <Traits>Persondrag</Traits>
   <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>Permanent humöreffekt</PermanentMoodEffect>
   <!-- EN: Skills -->
-  <Skills>Förmågor</Skills>
+  <Skills>Kompetens</Skills>
   <!-- EN: none -->
   <NoneLower>inga</NoneLower>
   <!-- EN: Adulthood -->
@@ -600,7 +600,7 @@
   <!-- EN: Back -->
   <Back>Tillbaka</Back>
   <!-- EN: Change material... -->
-  <ShowMaterials>TODO</ShowMaterials>
+  <ShowMaterials>Ändra material...</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>Spel</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
@@ -625,9 +625,9 @@
   <GeneratingMapForNewEncounter>Genererar karta för nytt möte</GeneratingMapForNewEncounter>
 
   <!-- EN: Click for more info -->
-  <ClickForMoreInfo>TODO</ClickForMoreInfo>
+  <ClickForMoreInfo>Klicka för mer information</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
+  <NoMoreInfoAvailable>Ingen mer information tillgänglig</NoMoreInfoAvailable>
 
 
 </LanguageData>

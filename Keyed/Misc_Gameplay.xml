@@ -89,7 +89,7 @@
   <!-- EN: Drop -->
   <DropThing>Släpp</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
-  <DropThingLodger>TODO</DropThingLodger>
+  <DropThingLodger>Temporära fraktionsmedlemmar kommer inte släppa sina föremål.</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
   <DropThingLocked>Personen vägrar att släppa detta</DropThingLocked>
   <!-- EN: Rename -->
@@ -103,9 +103,9 @@
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} av {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>TODO</RenounceTitleDescription>
+  <RenounceTitleDescription>Denna handling gör att {PAWN_nameDef} förlorar {PAWN_possessive} {TITLE} titel. Du får ingen kompensation för att avstå från titeln.\n\nDetta kommer att ha följande effekter:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>{PAWN_possessive} kommer förlora dessa tillstånd</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>okänd</UnknownLower>
   <!-- EN: On -->
@@ -139,7 +139,7 @@
   <!-- EN: Reproduces in -->
   <HiveReproducesIn>Reproducerar om</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>Inaktiv, reproducerar ej.</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>Inaktiv: Reproducerar ej.</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
   <NextSpawnedItemIn>Nästa {0} om</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
@@ -147,7 +147,7 @@
   <!-- EN: Broken down -->
   <BrokenDown>Trasig</BrokenDown>
   <!-- EN: (bond) -->
-  <BondBrackets>(förbindelse)</BondBrackets>
+  <BondBrackets>(bunden)</BondBrackets>
   <!-- EN: Fuel -->
   <Fuel>Bränsle</Fuel>
   <!-- EN: Fuel -->
@@ -175,9 +175,9 @@
   <!-- EN: using {0} bedrolls -->
   <UsingBedrolls>använder {0} sovsäckar</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination>Est. tid till destinationen: {0}</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>Est. tid till destinationen: {0} dagar</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>Ruttens restid: {0}</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>Ruttens restid: {0} dagar</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>Imobiliserad: alltför mycket vikt.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
@@ -401,13 +401,13 @@
   <!-- EN: Required -->
   <Required>Förutsätter</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>Du kan inte utföra handelsförfrågningar med hjälp av transportkapslar.\nOm du skickar varorna kommer de att tas emot som gåvor, men inte att belöna dig.\n\nFör att handla, ta dig till samhället med en karavan!\n\n Är du säker vill ge de lastade varorna till fraktionen som gåvor?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>fånge</PrisonerLower>
   <!-- EN: prisoners -->
   <PrisonersLower>fångar</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>Klicka för att visa detta uppdrag under fliken uppdrag.</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
   <Mood>Humör</Mood>
   <!-- EN: Quest -->
@@ -417,7 +417,7 @@
   <!-- EN: Generates {0} every {1} -->
   <GeneratesResourcesEvery>Genererar {0} varje {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
-  <FoliageKillRadius>TODO</FoliageKillRadius>
+  <FoliageKillRadius>Lövverks radie för död</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
   <RadiusExpandRate>Radiens expantionshastighet</RadiusExpandRate>
   <!-- EN: View: {0} -->
@@ -429,11 +429,11 @@
   <!-- EN: Mech cluster -->
   <MechCluster>Mekanoidkluster</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>TODO</SpawningNextPawnIn>
+  <SpawningNextPawnIn>Producerar om {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>TODO</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>{0} konstruktion är klar om {1}.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>TODO</MechAssemblyNextType>
+  <MechAssemblyNextType>Kommer att konstrueras</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>producerad</ThingsProduced>
   <!-- EN: harvested -->
@@ -455,21 +455,21 @@
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>Aktiveras om {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
-  <PsychicEntropy>TODO</PsychicEntropy>
+  <PsychicEntropy>Neural hetta</PsychicEntropy>
   <!-- EN: Heat -->
   <PsychicEntropyShort>Hetta</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
-  <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>{0} smärtförhöjare</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>radie {0}</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
-  <LowPsyfocus>TODO</LowPsyfocus>
+  <LowPsyfocus>lågt psyfokus</LowPsyfocus>
   <!-- EN: {0} left -->
   <DurationLeft>{0} lämnade</DurationLeft>
   <!-- EN: Any of -->
-  <AnyOf>TODO</AnyOf>
+  <AnyOf>Vilken som</AnyOf>
   <!-- EN: Goodwill -->
-  <Goodwill>TODO</Goodwill>
+  <Goodwill>Välvilja</Goodwill>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>reducerar motstånd hos {0_nameIndef}</JobReport_ReduceResistance>
 
@@ -919,9 +919,9 @@
   <!-- EN: Toggle visibility of roofs. -->
   <ShowRoofOverlayToggleButton>Växlar synlighet av tak.</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
-  <ShowFertilityOverlayToggleButton>TODO</ShowFertilityOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>Växla fertilitetsöverlägg.\n\nDetta visar hur bördig marken är vilket påverkar vilka typer av växter som kan växa och hur snabbt de växer.</ShowFertilityOverlayToggleButton>
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
-  <ShowTerrainAffordanceOverlayToggleButton>TODO</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>Växla synligheten för terrängen.\n\nDetta återger vilka typer av byggnader som kan byggas på varje plats.\n\nTill exempel vissa typer av mark accepterar endast lätta eller medelstora byggnader men inte tunga. Broar kan enbart byggas på vatten.</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>Lås kamerarotation så att nordpolen alltid är uppåt.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
@@ -1015,23 +1015,23 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Komponent är inte klar än</ShipReportNotReady>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>TODO Charlon Whitestone är redo att starta reaktorns vilolägesåterställningssekvens.\n\n Han varnar dig för att processen tar cirka 15 dagar och energiresignaturen kommer att kunna detekteras från ett långt avstånd.\n\nDenna typen av energiresignatur indikerar interstellär flygkapacitet och kommer att locka till sig gäng av desperata grupper och svärmar av dödliga mekanoider. Du kommer att bli överfallen med en intensitet som du aldrig  sett tidigare. Se till att dina försvar är förberedda först.</HibernateWarning>
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name) är redo att starta reaktorns vilolägesåterställningssekvens.\n\n Han varnar dig för att processen tar cirka 15 dagar och energiresignaturen kommer att kunna detekteras från ett långt avstånd.\n\nDenna typen av energiresignatur indikerar interstellär flygkapacitet och kommer att locka till sig gäng av desperata grupper och svärmar av dödliga mekanoider. Du kommer att bli överfallen med en intensitet som du aldrig  sett tidigare. Se till att dina försvar är förberedda först.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarningStandalone>Reaktorn är redo att startas.\n\n Processen tar cirka 15 dagar och energisignaturen kan detekteras från ett långt avstånd. Denna typ av energisignatur indikerar interstellär flygkapacitet och kommer att locka grupper av desperata grupper och svärmar av dödliga mekanoider.\n\nDu kommer att bli överfallen med en intensitet som du aldrig sett tidigare. Se till att dina försvar är förberedda först.</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>TODO Charlon Whitestone är redo att starta reaktorns återställningssekvens. Han varnar dig för att processen tar cirka 15 dagar.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) är redo att starta reaktorns återställningssekvens. Han varnar dig för att processen tar cirka 15 dagar.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
   <HibernateWarningStandalonePacifist>Reaktorn är redo att startas. Processen tar cirka 15 dagar.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <!-- EN: skilltrainer ({0}) -->
-  <SkillNeurotrainerLabel>TODO</SkillNeurotrainerLabel>
+  <SkillNeurotrainerLabel>färdighetstränare ({0})</SkillNeurotrainerLabel>
   <!-- EN: Use skilltrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>TODO</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerUseLabel>Använd färdighetstränare för att lära sig {0}</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <SkillNeurotrainerDescription>TODO</SkillNeurotrainerDescription>
+  <SkillNeurotrainerDescription>En superdos av mekaniter för engångsbruk som tränar upp en specifik färdighet.\n\nDosen administreras genom ögat. När de väl släppts in i hjärnan förbättrar mekaniterna snabbt personens färdigheter i ett specifikt område och gör sig själva till nervvävnad vid behov.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>TODO</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>{USER_labelShort} använde {1} färdighetstränare för att gå från nivå {2} till nivå {3}.</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -1083,7 +1083,7 @@
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>Vi avfyrade rymdskeppet!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>TODO</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>Din maskinpersonlighet kommer nu försöka styra fartyget till en säker plats. Den kan hitta en välmående planet i detta system, eller göra en resa på flera århundraden till en annan stjärna. Den kan till och med besluta att gömma sig under is på en asteroid i några tusen år och vänta på att någon ska bygga en ny glittervärld där.\n\nDet får du reda på när du vaknar upp.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
   <GameOverColonistsEscaped>Dessa kolonister undkom:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
@@ -1245,15 +1245,15 @@
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>Neural hetta: {0} / {1}\nFallhastighet: {2} / s ({3}s till noll)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>Neural hetta ökar efter att ha använt en psykisk kraft. Att överskrida den normala gränsen kan orsaka en psykisk kollaps som varar dagar. \n\nNeural hetta försvinner naturligt över tid. Denna process kan påskyndas genom att bära eltexkläder eller ha ont.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>Smärtförstärkning \n\nSmärta gör att sinnen fokuserar och påskyndar neural förskingring av värme.\n\nSmärtnivå: {0} \ Bonus för värmeåtervinning: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>TODO</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>Växla begränsning av neural hetta. Att Överskrida din värmegräns kan orsaka ett psykisk sammanbrott som varar dagar. Det orsakar inte permanent skada.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
-  <PawnTooltipPsyfocus>TODO</PawnTooltipPsyfocus>
+  <PawnTooltipPsyfocus>Psyfokus: {0}</PawnTooltipPsyfocus>
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
@@ -1261,43 +1261,45 @@
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>TODO</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>en {0_age} år gammal {0_title} vid namn {0_nameDef} kommer använda i en transportkapsel {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_WalkIn>TODO</Reward_Pawn_WalkIn>
+  <Reward_Pawn_WalkIn>en {0_age} år gammal {0_title} vid namn {0_nameDef} kommer anlända och följa med dig {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>TODO</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>en {0_age} år gammal {0_title} vid namn {0_nameDef} kommer ansluta till dig {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
-  <Reward_Items>TODO</Reward_Items>
+  <Reward_Items>transportkapslar med följande resurser kommer anlända (totalt värde {1}):
+\n {0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
-  <Reward_Items_Caravan>TODO</Reward_Items_Caravan>
+  <Reward_Items_Caravan>du kommer få (totalt värde {1}):
+  \n {0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>TODO</Reward_Goodwill>
+  <Reward_Goodwill>din relation med fraktionen {0_name} kommer att förbättras med {1}</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
   <Reward_PassageOffworld>du kommer tas till stjärnorna</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
   <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
-  <Reward_CampLoot>TODO</Reward_CampLoot>
+  <Reward_CampLoot>do kan plundra allt från lägret</Reward_CampLoot>
   <!-- EN: Camp loot -->
-  <Reward_CampLoot_Label>TODO</Reward_CampLoot_Label>
+  <Reward_CampLoot_Label>Byte från lägret</Reward_CampLoot_Label>
   <!-- EN: the visitors will work and fight for you -->
-  <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp>besökarna kommer arbeta och slåss för dig</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
-  <Reward_VisitorsHelp_Label>TODO</Reward_VisitorsHelp_Label>
+  <Reward_VisitorsHelp_Label>Besökares hjälp</Reward_VisitorsHelp_Label>
   <!-- EN: New psylink level -->
-  <Reward_BestowingCeremony_Label>TODO</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony_Label>Ny TODO nivå</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
-  <Reward_BestowingCeremony>TODO</Reward_BestowingCeremony>
+  <Reward_BestowingCeremony>{PAWNNAME} får TODO</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
-  <Reward_ShuttleLoot_Label>TODO</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot_Label>Byte från skytteln</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
-  <Reward_ShuttleLoot>TODO</Reward_ShuttleLoot>
+  <Reward_ShuttleLoot>du kan demontera och plundra skytteln</Reward_ShuttleLoot>
   <!-- EN: Possible future reward -->
-  <Reward_PossibleFutureReward_Label>TODO</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward_Label>Möjlig framtida belöning</Reward_PossibleFutureReward_Label>
   <!-- EN: a reward possibly granted in the future -->
-  <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
+  <Reward_PossibleFutureReward>en belöning som eventuellt beviljas i framtiden</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
   <Reward_Title_Label>{TITLE} titel</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
@@ -1313,11 +1315,11 @@
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>Bunden till någon annan</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
-  <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBonded>(redan bunden)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>TODO</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>En person kan bara bunden till ett personavapen åt gången.\n\nFör att utrusta och bli bunden med {WEAPON_labelShort} måste {PAWN_nameDef}s nuvarande bundna vapen {BONDEDWEAPON_labelShort} förstöras först.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
-  <BladelinkAlreadyBondedMessage>TODO</BladelinkAlreadyBondedMessage>
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} är redan bundet till {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
