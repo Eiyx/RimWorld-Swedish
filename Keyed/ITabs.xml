@@ -43,7 +43,7 @@
   <!-- EN: Contents -->
   <TabTransporterContents>Innehåll</TabTransporterContents>
   <!-- EN: Contents -->
-  <TabCasketContents>TODO</TabCasketContents>
+  <TabCasketContents>Inehåll</TabCasketContents>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -81,7 +81,7 @@
   <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Svårighetsgrad för rekrytering</RecruitmentDifficulty>
   <!-- EN: Recruitment chance -->
-  <RecruitmentChance>TODO</RecruitmentChance>
+  <RecruitmentChance>Rekryteringschans</RecruitmentChance>
   <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
   <RecruitmentChanceExplanation>TODO</RecruitmentChanceExplanation>
   <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
@@ -97,11 +97,11 @@
   <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
   <PrisonBreakMTBDaysDescription>TODO</PrisonBreakMTBDaysDescription>
   <!-- EN: Never -->
-  <Never>TODO</Never>
+  <Never>Aldrig</Never>
   <!-- EN: Not while asleep -->
-  <NotWhileAsleep>TODO</NotWhileAsleep>
+  <NotWhileAsleep>Inte i sömnen</NotWhileAsleep>
   <!-- EN: Slave price -->
-  <SlavePrice>TODO</SlavePrice>
+  <SlavePrice>Slavpris</SlavePrice>
   <!-- EN: Gets food -->
   <GetsFood>Får mat</GetsFood>
   <!-- EN: Doctors care -->
@@ -113,7 +113,7 @@
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>Anses skyldig (går ut om {0})</ConsideredGuilty>
   <!-- EN: Considered guilty -->
-  <ConsideredGuiltyNoTimer>TODO</ConsideredGuiltyNoTimer>
+  <ConsideredGuiltyNoTimer>Anses skyldig</ConsideredGuiltyNoTimer>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -141,7 +141,7 @@
   <!-- EN: Injured -->
   <Injured>Skadad</Injured>
   <!-- EN: Untended injury -->
-  <UntendedInjury>TODO</UntendedInjury>
+  <UntendedInjury>Obehandlad skada</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>inga hälsotillstånd</NoHealthConditions>
   <!-- EN: Whole body -->
@@ -236,7 +236,7 @@
   <!-- EN: Kidnapped -->
   <Kidnapped>Kidnappad</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
-  <Lent>TODO</Lent>
+  <Lent>Lånad till {FACTION_name}, återvänder om {1}</Lent>
   <!-- EN: Missing -->
   <Missing>Saknad</Missing>
   <!-- EN: Slave -->

@@ -2,69 +2,69 @@
 <LanguageData>
   
   <!-- EN: cassowary egg (fert.) -->
-  <EggCassowaryFertilized.label>kausaurägg (fert.)</EggCassowaryFertilized.label>
+  <EggCassowaryFertilized.label>kausaurägg (befr.)</EggCassowaryFertilized.label>
   <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
-  <EggCassowaryFertilized.description>Befruktade kausaurägg. Om allt går bra kommer det kläckas till en kausaurkyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggCassowaryFertilized.description>
+  <EggCassowaryFertilized.description>Ett befruktat kausaurägg. Om allt går bra kommer det kläckas till en kausaurkyckling. Det kan ätas rått, men är mycket bättre kokt.</EggCassowaryFertilized.description>
   
   <!-- EN: chicken egg (fert.) -->
-  <EggChickenFertilized.label>hönsägg (fert.)</EggChickenFertilized.label>
+  <EggChickenFertilized.label>hönsägg (befr.)</EggChickenFertilized.label>
   <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
-  <EggChickenFertilized.description>Befruktade hönsägg. Om allt går bra kommer det kläckas till en kyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggChickenFertilized.description>
+  <EggChickenFertilized.description>Ett befruktat hönsägg. Om allt går bra kommer det kläckas till en kyckling. Det kan ätas rått, men är mycket bättre kokta.</EggChickenFertilized.description>
   
   <!-- EN: chicken egg (unfert.) -->
-  <EggChickenUnfertilized.label>hönsägg (ofert.)</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.label>hönsägg (obef.)</EggChickenUnfertilized.label>
   <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggChickenUnfertilized.description>Obefruktade hönsägg. Den kan ätas rå, men det är mycket, mycket bättre kokta.</EggChickenUnfertilized.description>
+  <EggChickenUnfertilized.description>Ett obefruktat hönsägg. Det kan ätas rått men är mycket, mycket bättre kokt.</EggChickenUnfertilized.description>
   
   <!-- EN: cobra egg (fert.) -->
-  <EggCobraFertilized.label>kobraägg (fert.)</EggCobraFertilized.label>
+  <EggCobraFertilized.label>kobraägg (befr.)</EggCobraFertilized.label>
   <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
-  <EggCobraFertilized.description>Befruktade kobraägg. Om allt går bra kommer det kläckas till en cobraunge. Den kan ätas rå, men det är mycket bättre kokta.</EggCobraFertilized.description>
+  <EggCobraFertilized.description>Ett befruktat kobraägg. Om allt går bra kommer det kläckas till en cobraunge. Det kan ätas rått, men är mycket bättre kokt.</EggCobraFertilized.description>
   
   <!-- EN: duck egg (fert.) -->
-  <EggDuckFertilized.label>TODO</EggDuckFertilized.label>
+  <EggDuckFertilized.label>ankägg (befr.)</EggDuckFertilized.label>
   <!-- EN: A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked. -->
-  <EggDuckFertilized.description>TODO</EggDuckFertilized.description>
+  <EggDuckFertilized.description>Ett befruktat ankägg. Om allt går bra kommer det kläckas till en ankunge. Det kan ätas rått, men är mycket bättre kokt.</EggDuckFertilized.description>
   
   <!-- EN: duck egg (unfert.) -->
-  <EggDuckUnfertilized.label>TODO</EggDuckUnfertilized.label>
+  <EggDuckUnfertilized.label>ankägg (obef.)</EggDuckUnfertilized.label>
   <!-- EN: An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggDuckUnfertilized.description>TODO</EggDuckUnfertilized.description>
+  <EggDuckUnfertilized.description>Ett obefruktat ankägg. Det kan ätas rått men är mycket, mycket bättre kokt.</EggDuckUnfertilized.description>
   
   <!-- EN: emu egg (fert.) -->
-  <EggEmuFertilized.label>emuägg (fert.)</EggEmuFertilized.label>
+  <EggEmuFertilized.label>emuägg (befr.)</EggEmuFertilized.label>
   <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
-  <EggEmuFertilized.description>Befruktade emuägg. Om allt går bra kommer det kläckas till en emukyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggEmuFertilized.description>
+  <EggEmuFertilized.description>Ett befruktade emuägg. Om allt går bra kommer det kläckas till en emukyckling. Den kan ätas rå, men är mycket bättre kokta.</EggEmuFertilized.description>
   
   <!-- EN: goose egg (fert.) -->
-  <EggGooseFertilized.label>TODO</EggGooseFertilized.label>
+  <EggGooseFertilized.label>gåsägg (befr.)</EggGooseFertilized.label>
   <!-- EN: A fertilized goose egg. If all goes well, it should hatch into a baby goose. It can be eaten raw, but it's much better cooked. -->
-  <EggGooseFertilized.description>TODO</EggGooseFertilized.description>
+  <EggGooseFertilized.description>Ett befruktat gåsägg. Om allt går bra kommer det kläckas till en gåsunge. Det kan ätas rått, men är mycket bättre kokt.</EggGooseFertilized.description>
   
   <!-- EN: goose egg (unfert.) -->
-  <EggGooseUnfertilized.label>TODO</EggGooseUnfertilized.label>
+  <EggGooseUnfertilized.label>gåsägg (obef.)</EggGooseUnfertilized.label>
   <!-- EN: An unfertilized goose egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggGooseUnfertilized.description>TODO</EggGooseUnfertilized.description>
+  <EggGooseUnfertilized.description>Ett obefruktat gåsägg. Det kan ätas rått men är mycket, mycket bättre kokt.</EggGooseUnfertilized.description>
   
   <!-- EN: iguana egg (fert.) -->
-  <EggIguanaFertilized.label>iguanaägg (fert.)</EggIguanaFertilized.label>
+  <EggIguanaFertilized.label>iguanaägg (befr.)</EggIguanaFertilized.label>
   <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
-  <EggIguanaFertilized.description>Befruktade iguanaägg. Om allt går bra kommer det kläckas till en iguanaunge. Den kan ätas rå, men det är mycket bättre kokta.</EggIguanaFertilized.description>
+  <EggIguanaFertilized.description>Ett befruktat iguanaägg. Om allt går bra kommer det kläckas till en iguanaunge. Det kan ätas rått, men det är mycket bättre kokt.</EggIguanaFertilized.description>
   
   <!-- EN: ostrich egg (fert.) -->
-  <EggOstrichFertilized.label>strutsägg (fert.)</EggOstrichFertilized.label>
+  <EggOstrichFertilized.label>strutsägg (befr.)</EggOstrichFertilized.label>
   <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
-  <EggOstrichFertilized.description>Befruktade strutsägg. Om allt går bra kommer det kläckas till en strutskyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggOstrichFertilized.description>
+  <EggOstrichFertilized.description>Ett befruktat strutsägg. Om allt går bra kommer det kläckas till en strutskyckling. Det kan ätas rått, men är mycket bättre kokt.</EggOstrichFertilized.description>
   
   <!-- EN: tortoise egg (fert.) -->
-  <EggTortoiseFertilized.label>sköldpaddsägg (fert.)</EggTortoiseFertilized.label>
+  <EggTortoiseFertilized.label>sköldpaddsägg (befr.)</EggTortoiseFertilized.label>
   <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
-  <EggTortoiseFertilized.description>Befruktade sköldpaddsägg. Om allt går bra kommer det kläckas till en skölpaddsunge. Den kan ätas rå, men det är mycket bättre kokta.</EggTortoiseFertilized.description>
+  <EggTortoiseFertilized.description>Ett befruktat sköldpaddsägg. Om allt går bra kommer det kläckas till en skölpaddsunge. Det kan ätas rått, men är mycket bättre kokt.</EggTortoiseFertilized.description>
   
   <!-- EN: turkey egg (fert.) -->
-  <EggTurkeyFertilized.label>kalkonägg (fert.)</EggTurkeyFertilized.label>
+  <EggTurkeyFertilized.label>kalkonägg (befr.)</EggTurkeyFertilized.label>
   <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
-  <EggTurkeyFertilized.description>Befruktade kalkonägg. Om allt går bra kommer det kläckas till en kalkonkyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggTurkeyFertilized.description>
+  <EggTurkeyFertilized.description>Ett befruktat kalkonägg. Om allt går bra kommer det kläckas till en kalkonkyckling. Det kan ätas rått, men är mycket bättre kokta.</EggTurkeyFertilized.description>
   
   <!-- EN: insect jelly -->
   <InsectJelly.label>insektsgelé</InsectJelly.label>

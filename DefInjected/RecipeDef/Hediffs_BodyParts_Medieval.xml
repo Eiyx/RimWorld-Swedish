@@ -23,10 +23,10 @@
   <InstallWoodenFoot.jobString>Installerar träfot</InstallWoodenFoot.jobString>
   
   <!-- EN: install wooden hand -->
-  <InstallWoodenHand.label>TODO</InstallWoodenHand.label>
+  <InstallWoodenHand.label>installera trähand</InstallWoodenHand.label>
   <!-- EN: Install a wooden hand. -->
-  <InstallWoodenHand.description>TODO</InstallWoodenHand.description>
+  <InstallWoodenHand.description>Installera trähand</InstallWoodenHand.description>
   <!-- EN: Installing wooden hand. -->
-  <InstallWoodenHand.jobString>TODO</InstallWoodenHand.jobString>
+  <InstallWoodenHand.jobString>Installerar trähand</InstallWoodenHand.jobString>
   
 </LanguageData>

@@ -11,13 +11,13 @@
   <ImmediateAttack.letterLabelFriendly>Vänner</ImmediateAttack.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttackFriendly.arrivalTextEnemy>TODO</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextEnemy>De attakerar omedelbart</ImmediateAttackFriendly.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackFriendly.arrivalTextFriendly>TODO</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.arrivalTextFriendly>De kommer till undsättning direkt</ImmediateAttackFriendly.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackFriendly.letterLabelEnemy>TODO</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelEnemy>Räd</ImmediateAttackFriendly.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackFriendly.letterLabelFriendly>TODO</ImmediateAttackFriendly.letterLabelFriendly>
+  <ImmediateAttackFriendly.letterLabelFriendly>Allierade</ImmediateAttackFriendly.letterLabelFriendly>
   
   <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
   <ImmediateAttackSappers.arrivalTextEnemy>Det ser ut som dom kommer att använda sappörer för att gräva tunnlar runt ditt försvar.</ImmediateAttackSappers.arrivalTextEnemy>
@@ -43,9 +43,9 @@
   <Siege.letterLabelFriendly>Vänner</Siege.letterLabelFriendly>
   
   <!-- EN: Rather than attack directly, the mechanoids are setting up a mech cluster near the colony. You must attack it to finally remove the threat.\n\nThe cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
-  <SiegeMechanoid.arrivalTextEnemy>TODO</SiegeMechanoid.arrivalTextEnemy>
+  <SiegeMechanoid.arrivalTextEnemy>Istället för att attackera direkt sätter mekanoiderna upp ett mech-kluster nära kolonin. Du måste attackera den för att få bort hotet.\n\nKlustret kommer från början att vara vilande, så du kan ta dig tid att bestämma hur du ska attackera det.\n\nDet kan förbli vilande tills det störs, ha en timer eller närhets-aktivatorer.\n\nVilande mech-kluster är inte ofarliga. Ett vilande kluster kan montera mekanoider då och då eller ha någon annan negativ effekt som så småningom måste hanteras.</SiegeMechanoid.arrivalTextEnemy>
   <!-- EN: Mechanoid Siege -->
-  <SiegeMechanoid.letterLabelEnemy>TODO</SiegeMechanoid.letterLabelEnemy>
+  <SiegeMechanoid.letterLabelEnemy>Mekanoidbelägring</SiegeMechanoid.letterLabelEnemy>
   
   <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
   <StageThenAttack.arrivalTextEnemy>De kommer förbereda sig innan de attackerar.\n\nFörbered ett försvar eller attackera dem i förväg.</StageThenAttack.arrivalTextEnemy>

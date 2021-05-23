@@ -124,11 +124,11 @@
   <!-- EN: Room impressiveness -->
   <StatsReport_RoomImpressiveness>TODO</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
-  <StatsReport_Lit>TODO</StatsReport_Lit>
+  <StatsReport_Lit>Upplyst</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>TODO</StatsReport_GraveFull>
+  <StatsReport_GraveFull>Inehåller {0}</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>TODO</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>Inehåller en mänsklig kropp</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
   <StatsReport_GraveCorpseRelatedAbstract>TODO</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
@@ -155,13 +155,13 @@
   <!-- EN: The species of creature from which this was taken. -->
   <Stat_SourceSpecies_Desc>TODO</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
-  <Stat_Stuff_Name>TODO</Stat_Stuff_Name>
+  <Stat_Stuff_Name>Saker</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
   <Stat_Stuff_Desc>TODO</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
-  <Stat_Weapon_Name>TODO</Stat_Weapon_Name>
+  <Stat_Weapon_Name>Vapen</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>TODO</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>Det vapen som används av detta vapentorn.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
   <Stat_HitPoints_Desc>TODO</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
@@ -237,7 +237,7 @@
   <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
   <Stat_Thing_Surgery_SuccessChanceFactor_Desc>TODO</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
   <!-- EN: Can't fail -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>TODO</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Kan inte misslyckas</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
   <!-- EN: Performing this operation is safe for the patient. -->
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>TODO</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
@@ -283,17 +283,17 @@
   <!-- EN: Considered -->
   <Stat_Thing_Terrain_Fine_Name>TODO</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
-  <Stat_Thing_Terrain_Fine_Value>TODO</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Value>Fin</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
   <Stat_Thing_Terrain_Fine_Desc>TODO</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>TODO</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
-  <Stat_Thing_ReloadChargesRemaining_Name>TODO</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural} kvar</Stat_Thing_ReloadChargesRemaining_Name>
   <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
   <Stat_Thing_ReloadChargesRemaining_Desc>TODO</Stat_Thing_ReloadChargesRemaining_Desc>
   <!-- EN: {CHARGENOUN_plural} -->
-  <Stat_Thing_ReloadMaxCharges_Name>TODO</Stat_Thing_ReloadMaxCharges_Name>
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
   <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
   <Stat_Thing_ReloadMaxCharges_Desc>TODO</Stat_Thing_ReloadMaxCharges_Desc>
   <!-- EN: {CHARGENOUN} reload cost -->
@@ -311,7 +311,7 @@
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>TODO</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Biocoded_Name>TODO</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>Biokodar</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
   <Stat_Thing_Biocoded_Desc>TODO</Stat_Thing_Biocoded_Desc>
 

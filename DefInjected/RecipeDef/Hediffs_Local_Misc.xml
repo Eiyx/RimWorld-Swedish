@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: cure scaria -->
-  <CureScaria.label>TODO</CureScaria.label>
+  <CureScaria.label>bota scaria</CureScaria.label>
   <!-- EN: This special medical operation cures scaria. -->
-  <CureScaria.description>TODO</CureScaria.description>
+  <CureScaria.description>Denna speciella operation botar scaria.</CureScaria.description>
   <!-- EN: Curing scaria. -->
-  <CureScaria.jobString>TODO</CureScaria.jobString>
+  <CureScaria.jobString>Botar scaria</CureScaria.jobString>
   <!-- EN: {0} has successfully cured {1}'s scaria. -->
-  <CureScaria.successfullyRemovedHediffMessage>TODO</CureScaria.successfullyRemovedHediffMessage>
+  <CureScaria.successfullyRemovedHediffMessage>{0} har lyckats bota {1}s scariainfektion.</CureScaria.successfullyRemovedHediffMessage>
   
 </LanguageData>

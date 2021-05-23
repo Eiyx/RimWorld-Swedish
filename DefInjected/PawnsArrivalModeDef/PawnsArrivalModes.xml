@@ -6,51 +6,51 @@
   <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
   <CenterDrop.textFriendly>En vänlig grupp {0} från {1} faller rakt på dig!</CenterDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods right on top of you. -->
-  <CenterDrop.textWillArrive>TODO</CenterDrop.textWillArrive>
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef} kommer anlända i transportkapslar precis över dig.</CenterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
   <EdgeDrop.textEnemy>En grupp {0} från {1} har landat med transportkapslar i närheten.</EdgeDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
   <EdgeDrop.textFriendly>En vänligt grupp {0} från {1} har landat med transportkapslar i närheten.</EdgeDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
-  <EdgeDrop.textWillArrive>TODO</EdgeDrop.textWillArrive>
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} kommer anlända i transportkapslar.</EdgeDrop.textWillArrive>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
   <EdgeDropGroups.textEnemy>Flera grupper av {0} från {1} har landat med transportkapslar i närheten </EdgeDropGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
   <EdgeDropGroups.textFriendly>Flera vänliga grupper av {0} från {1} har landat med transportkapslar i närheten</EdgeDropGroups.textFriendly>
   <!-- EN: Several separate groups of {0_pawnsPluralDef} will arrive in transport pods. -->
-  <EdgeDropGroups.textWillArrive>TODO</EdgeDropGroups.textWillArrive>
+  <EdgeDropGroups.textWillArrive>Flera separata grupper av {0_pawnsPluralDef} kommer anlända i transportkapslar.</EdgeDropGroups.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived nearby. -->
   <EdgeWalkIn.textEnemy>En grupp {0} från {1} har anlänt i närheten.</EdgeWalkIn.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
   <EdgeWalkIn.textFriendly>En vänlig grupp {0} från {1} har anlänt i närheten.</EdgeWalkIn.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
-  <EdgeWalkIn.textWillArrive>TODO</EdgeWalkIn.textWillArrive>
+  <EdgeWalkIn.textWillArrive>{0_pawnsPluralDef} kommer anlända till fots.</EdgeWalkIn.textWillArrive>
   
   <!-- EN: {0} from {1} have arrived nearby, approaching from multiple angles. -->
   <EdgeWalkInGroups.textEnemy>{0} från {1} har anlänt i närheten och närmar sig från flera håll.</EdgeWalkInGroups.textEnemy>
   <!-- EN: Friendly {0} from {1} have arrived nearby, approaching from multiple angles. -->
   <EdgeWalkInGroups.textFriendly>Flera vänliga grupper av {0} från {1} har anlänt i närheten.</EdgeWalkInGroups.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive on foot, approaching from several angles at once. -->
-  <EdgeWalkInGroups.textWillArrive>TODO</EdgeWalkInGroups.textWillArrive>
+  <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef} kommer anlända till fots och närma sig från flera olika håll samtidigt.</EdgeWalkInGroups.textWillArrive>
   
   <!-- EN: A cluster of {0} have landed in drop pods nearby. -->
-  <MechClusterDrop.textEnemy>TODO</MechClusterDrop.textEnemy>
+  <MechClusterDrop.textEnemy>Ett kluster av {0} har landat med kapslar i området</MechClusterDrop.textEnemy>
   <!-- EN: The mech cluster will arrive in drop pods. -->
-  <MechClusterDrop.textWillArrive>TODO</MechClusterDrop.textWillArrive>
+  <MechClusterDrop.textWillArrive>Mechklustret kommerr anlända i kapslar.</MechClusterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
   <RandomDrop.textEnemy>En grupp {0} från {1} har landat i transportkapslar. Deras kaplslar är deremot utom kontroll och faller ned lite var stans i området!</RandomDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
   <RandomDrop.textFriendly>En vänlig grupp {0} från {1} har landat i transportkapslar. Deras kaplslar är däremot utom kontroll och faller ned lite var stans i området!</RandomDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
-  <RandomDrop.textWillArrive>TODO</RandomDrop.textWillArrive>
+  <RandomDrop.textWillArrive>{0_pawnsPluralDef} kommer anlända i transportkapslar.</RandomDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in a shuttle. -->
-  <Shuttle.textEnemy>TODO</Shuttle.textEnemy>
+  <Shuttle.textEnemy>En grupp av {0} från {1} har anlänt i en skyttel.</Shuttle.textEnemy>
   <!-- EN: A friendly group of {0} from {1} have arrived in a shuttle. -->
-  <Shuttle.textFriendly>TODO</Shuttle.textFriendly>
+  <Shuttle.textFriendly>En vänlig grupp av {0} från {1} har anlänt i en skyttel.</Shuttle.textFriendly>
   
 </LanguageData>

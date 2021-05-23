@@ -6,13 +6,13 @@
   <!-- EN: Go back -->
   <GoBack>Återvänd</GoBack>
   <!-- EN: Do you want to continue? -->
-  <WantToContinue>TODO</WantToContinue>
+  <WantToContinue>Vill du fortsätta?</WantToContinue>
   <!-- EN: OK -->
   <OK>OK</OK>
   <!-- EN: Close -->
   <Close>Stäng</Close>
   <!-- EN: Accept -->
-  <Accept>TODO</Accept>
+  <Accept>Acceptera</Accept>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -118,17 +118,17 @@
   <!-- EN: Load anyway -->
   <LoadAnyway>Ladda ändå</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Ladda mod-lista från sparfilen</ChangeLoadedMods>
+  <ChangeLoadedMods>Ladda modd-lista från sparfilen</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Vissa moddar är inte tillgängliga och måste installeras</MissingMods>
   <!-- EN: Official content -->
-  <OfficialContent>TODO</OfficialContent>
+  <OfficialContent>Officiellt inehåll</OfficialContent>
   <!-- EN: Active -->
-  <ContentActive>TODO</ContentActive>
+  <ContentActive>Aktivt</ContentActive>
   <!-- EN: Installed, but not active -->
-  <ContentInstalledButNotActive>TODO</ContentInstalledButNotActive>
+  <ContentInstalledButNotActive>Installerat men inte aktivt.</ContentInstalledButNotActive>
   <!-- EN: Not installed -->
-  <ContentNotInstalled>TODO</ContentNotInstalled>
+  <ContentNotInstalled>Inte installerat</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->

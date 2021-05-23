@@ -11,8 +11,8 @@
   <!-- EN: The party has finished. -->
   <Party.finishedMessage>Festen har slutat</Party.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <Party.letterText>{ORGANIZER_labelShort} annordnar en fest! Alla som deltar kommer uppleva TODO och en humörboost. </Party.letterText>
+  <Party.letterText>{ORGANIZER_labelShort} annordnar en fest! Alla som går kommer att få rekreation, social energi och envaraktigt positiv humörboost.</Party.letterText>
   <!-- EN: Party -->
-  <Party.letterTitle>TODO</Party.letterTitle>
+  <Party.letterTitle>Fest</Party.letterTitle>
   
 </LanguageData>
