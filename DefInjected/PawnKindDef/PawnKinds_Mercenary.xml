@@ -10,7 +10,7 @@
   <Grenadier_EMP.labelPlural>EMP grenadjärer</Grenadier_EMP.labelPlural>
   
   <!-- EN: smoke grenadier -->
-  <Grenadier_Smoke.label>TODO</Grenadier_Smoke.label>
+  <Grenadier_Smoke.label>rök grenadjär</Grenadier_Smoke.label>
   
   <!-- EN: elite mercenary -->
   <Mercenary_Elite.label>legosoldat</Mercenary_Elite.label>
@@ -27,7 +27,7 @@
   <Mercenary_Gunner.labelPlural>pistolbeväpnade legosoldater</Mercenary_Gunner.labelPlural>
   
   <!-- EN: mercenary gunner -->
-  <Mercenary_Gunner_Acidifier.label>TODO</Mercenary_Gunner_Acidifier.label>
+  <Mercenary_Gunner_Acidifier.label>pistolbeväpnad legosoldat</Mercenary_Gunner_Acidifier.label>
   
   <!-- EN: heavy mercenary -->
   <Mercenary_Heavy.label>tungt beväpnad legosoldat</Mercenary_Heavy.label>
@@ -39,14 +39,14 @@
   <Mercenary_Slasher.labelPlural>knivbeväpnade legosoldater</Mercenary_Slasher.labelPlural>
   
   <!-- EN: mercenary slasher -->
-  <Mercenary_Slasher_Acidifier.label>TODO</Mercenary_Slasher_Acidifier.label>
+  <Mercenary_Slasher_Acidifier.label>legosoldat, närstrid</Mercenary_Slasher_Acidifier.label>
   
   <!-- EN: mercenary sniper -->
   <Mercenary_Sniper.label>legosoldat, krypskytt</Mercenary_Sniper.label>
   <Mercenary_Sniper.labelPlural>legosoldater, krypskyttar</Mercenary_Sniper.labelPlural>
   
   <!-- EN: mercenary sniper -->
-  <Mercenary_Sniper_Acidifier.label>TODO</Mercenary_Sniper_Acidifier.label>
+  <Mercenary_Sniper_Acidifier.label>legosoldat, krypskytt</Mercenary_Sniper_Acidifier.label>
   
   <!-- EN: boss -->
   <PirateBoss.label>ledare</PirateBoss.label>

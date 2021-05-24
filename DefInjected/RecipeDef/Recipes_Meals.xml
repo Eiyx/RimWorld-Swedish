@@ -4,30 +4,30 @@
   <!-- EN: cook fine meal -->
   <CookMealFine.label>laga god måltid</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>Lagar en något komplex maträtt av en kombination av rått kött och grönsaker.</CookMealFine.description>
+  <CookMealFine.description>Laga en något komplex maträtt av en kombination av rått kött och grönsaker.</CookMealFine.description>
   <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>Lagar en god måltid.</CookMealFine.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
+  <CookMealFineBulk.label>laga god måltid x4</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
-  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <CookMealFineBulk.description>Laga 4st av en något komplex maträtt med en kombination av rått kött och grönsaker.</CookMealFineBulk.description>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>Lagar 4 goda måltider</CookMealFineBulk.jobString>
   
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>laga utsökt maträtt</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavish.description>Lagar en väldigt komplex maträtt av en kombination av rått kött och grönsaker. Mycket av ingredienserna slösas bort.</CookMealLavish.description>
+  <CookMealLavish.description>Laga en väldigt komplex maträtt av en kombination av rått kött och grönsaker. Mycket av ingredienserna slösas bort.</CookMealLavish.description>
   <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>Lagar en utsökt maträtt.</CookMealLavish.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
+  <CookMealLavishBulk.label>laga utsökt maträtt x 4</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <CookMealLavishBulk.description>Laga 4 st av en väldigt komplex maträtt med en kombination av rått kött och grönsaker. Mycket av ingredienserna slösas bort.</CookMealLavishBulk.description>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>Lagar 4st utsökta måltider.</CookMealLavishBulk.jobString>
   
   <!-- EN: cook simple meal -->
   <CookMealSimple.label>laga enkel maträtt</CookMealSimple.label>
@@ -37,11 +37,11 @@
   <CookMealSimple.jobString>Lagar en enkel maträtt.</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>laga enkel maträtt x 4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>Laga 4st enkla maträtter av en ingrediens</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>Lagar 4 enkla måltider.</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>laga och förpacka överlevnadsmåltid</CookMealSurvival.label>
@@ -51,10 +51,10 @@
   <CookMealSurvival.jobString>Lagar en överlevnadsmåltid.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>laga och förpacka 4 överlevnadsmåltider</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>Laga och förpacka 4 överlevnadsmåltider från en kombination av rått kött och grönsaker. Många av ingredienserna slösas bort i konserveringsprocessen.</CookMealSurvivalBulk.description>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>Lagar 4 överlevnadsmåltider.</CookMealSurvivalBulk.jobString>
   
 </LanguageData>

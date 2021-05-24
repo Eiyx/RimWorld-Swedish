@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: bandit camp -->
-  <BanditCamp.label>TODO</BanditCamp.label>
+  <BanditCamp.label>banditers läger</BanditCamp.label>
   <!-- EN: A bandit camp. -->
-  <BanditCamp.description>TODO</BanditCamp.description>
+  <BanditCamp.description>En lägerplats för banditer</BanditCamp.description>
   <!-- EN: Attacking {0} -->
-  <BanditCamp.approachingReportString>TODO</BanditCamp.approachingReportString>
+  <BanditCamp.approachingReportString>Attakerar {0}</BanditCamp.approachingReportString>
   <!-- EN: Attack {0} -->
-  <BanditCamp.approachOrderString>TODO</BanditCamp.approachOrderString>
+  <BanditCamp.approachOrderString>Attakera {0}</BanditCamp.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
-  <BanditCamp.arrivedLetter>TODO</BanditCamp.arrivedLetter>
+  <BanditCamp.arrivedLetter>Det finns en fiende med ett läger i detta område.</BanditCamp.arrivedLetter>
   
 </LanguageData>

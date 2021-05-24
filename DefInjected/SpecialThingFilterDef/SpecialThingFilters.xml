@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: allow biocoded apparel -->
-  <AllowBiocodedApparel.label>TODO</AllowBiocodedApparel.label>
+  <AllowBiocodedApparel.label>tillåt biokodade kläder</AllowBiocodedApparel.label>
   
   <!-- EN: allow biocoded weapons -->
-  <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
+  <AllowBiocodedWeapons.label>tillåt biokodade vapen</AllowBiocodedWeapons.label>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableApparel.label>TODO</AllowBurnableApparel.label>
+  <AllowBurnableApparel.label>tillåt brännbart</AllowBurnableApparel.label>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
+  <AllowBurnableWeapons.label>tillåt brännbart</AllowBurnableWeapons.label>
   
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>tillåt kolonisters kroppar</AllowCorpsesColonist.label>
@@ -34,16 +34,16 @@
   <AllowFresh.description>Tillåt organiska saker som inte börjat ruttna än.</AllowFresh.description>
   
   <!-- EN: allow non-biocoded apparel -->
-  <AllowNonBiocodedApparel.label>TODO</AllowNonBiocodedApparel.label>
+  <AllowNonBiocodedApparel.label>tillåt icke-biokodade kläder</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
-  <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>
+  <AllowNonBiocodedWeapons.label>tillåt icke-biokodade vapen</AllowNonBiocodedWeapons.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
+  <AllowNonBurnableApparel.label>tillåt icke-brännbara</AllowNonBurnableApparel.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
+  <AllowNonBurnableWeapons.label>tillåt icke-brännbara</AllowNonBurnableWeapons.label>
   
   <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>tillåt rena kläder</AllowNonDeadmansApparel.label>
@@ -51,7 +51,7 @@
   <AllowNonDeadmansApparel.description>Tillåt kläder som aldrig varit använnt av ett lik.  De flesta människor tycker att likfläckade kläder är besvärande coh handlare kommer inte acceptera befläckade kläder. </AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
+  <AllowNonSmeltableApparel.label>tillåt ej smältbara</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableWeapons.label>tillåt ej smältbara</AllowNonSmeltableWeapons.label>
@@ -70,6 +70,6 @@
   <AllowSmeltable.label>tillåt smältbara</AllowSmeltable.label>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
+  <AllowSmeltableApparel.label>tillåt smältbara</AllowSmeltableApparel.label>
   
 </LanguageData>

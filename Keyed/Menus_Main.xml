@@ -69,7 +69,7 @@
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>TODO</DevBuildWarning>
+  <DevBuildWarning>Varning: Detta är en instabil gren av spelet till för utveckling. Det betyder att vi gör designexperiment och teknisk utveckling.\n\nNågra saker kommer tillfälligt och medvetet vara obalanserade. Detta är en klassisk speldesignmetod där vi medvetet går för långt med en balansförändring för att bättre förstå dess gränser. Vi kan sedan använda den informationen för att bestämma slutliga balanspunkter.\n\nDet kommer också att finnas buggar, även de som potentiellt krashar spelet. Kompatibilitet för sparade filer kan sluta fungera när som helst.\n\nOm du är okej med allt detta, tack för ditt testande! Om du inte vill bli föremål för våra experiment kan du spela den senaste stabila versionen.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -209,9 +209,9 @@
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Denna mod gjordes för en nyare version av RimWorld än den här och kommer förmodligen inte att fungera korrekt.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion> TODO Modden behöver en välformatterad målversion i About.xml. Liknande denna: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> är utfasad. Kontrollera loggen för mer information..</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions> - &lt;targetVersion> är utfasad. Kontrollera loggen för mer information..</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>Modden behöver ett unikt och korrekt formaterat packageId i About.xml. Den måste uppfylla följande krav:\n\n - Alfanumeriska tecken och endast punkt.\n  - Inga mellanslag.\n  - Minst en punkt.\n  - Inga upprepade punkter i rad, eller som börjar eller slutar med en punkt.\n  - 60 tecken eller mindre.\n  - Kan inte innehålla ordet "Ludeon".\n\nTill exempel: \n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> TODO</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Modden behöver ett unikt och korrekt formaterat packageId i About.xml. Den måste uppfylla följande krav:\n\n - Alfanumeriska tecken och endast punkt.\n  - Inga mellanslag.\n  - Minst en punkt.\n  - Inga upprepade punkter i rad, eller som börjar eller slutar med en punkt.\n  - 60 tecken eller mindre.\n  - Kan inte innehålla ordet "Ludeon".\n\nTill exempel: \n&lt;packageId>AuthorName.ModName&lt;/packageId>\n&lt;packageId>AuthorName.ModName.Specific&lt;/packageId></MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
   <ModHadLoadFolderIssues>Denna modd har problem i LoadFolders.xml som du måste lösa innan du laddar upp:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
@@ -227,9 +227,9 @@
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>Ogiltig versionsordning: 'standard' bör definieras först.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>Användning av 'standard' i laddningsmappar är utfasad. Definiera mappar för varje version med taggarna <v...> TODO.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>Användning av 'standard' i laddningsmappar är utfasad. Definiera mappar för varje version med taggarna &lt;v...>.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>Version {0} definieras i laddningsmappar, men visas inte i "stödda versioner" av moddens About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>Version {0} definieras i laddningsmappar, men visas inte i "supportedVersions" av moddens About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Dra för att ändra ordning</DragToReorder>
 
@@ -295,28 +295,28 @@
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel>TODO</DifficultyCustomSectionLabel>
+  <DifficultyCustomSectionLabel>Anpassning av inställningar för spelstil</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
-  <DifficultyReset>TODO</DifficultyReset>
+  <DifficultyReset>Vanlig spelstil...</DifficultyReset>
   
   <!-- EN: Threats -->
   <DifficultyThreatSection>Hot</DifficultyThreatSection>
   <!-- EN: Threat scale -->
   <Difficulty_ThreatScale_Label>Hotnivå</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
-  <Difficulty_ThreatScale_Info>TODO</Difficulty_ThreatScale_Info>
+  <Difficulty_ThreatScale_Info>Justera hur svåra hot som exempelvis attacker på din bas, insektsangrepp och svårighet för uppdrag.</Difficulty_ThreatScale_Info>
   <!-- EN: Major threats -->
   <Difficulty_AllowBigThreats_Label>Stora hot</Difficulty_AllowBigThreats_Label>
   <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
-  <Difficulty_AllowBigThreats_Info>TODO</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowBigThreats_Info>Tillåt svåra hot som exempelvis räder, insektsangrepp, kraschade mekanoidfartyg och m.m.</Difficulty_AllowBigThreats_Info>
   <!-- EN: Quest threats -->
   <Difficulty_AllowViolentQuests_Label>Hot vid uppdrag</Difficulty_AllowViolentQuests_Label>
   <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
-  <Difficulty_AllowViolentQuests_Info>TODO</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowViolentQuests_Info>Tillåt uppdrag att presentera våldsamma hot och utmaningar. Om detta är inaktiverat kommer uppdrag att ändras så att de inte är våldsamma.</Difficulty_AllowViolentQuests_Info>
   <!-- EN: Intro threats -->
   <Difficulty_AllowIntroThreats_Label>Inledande hot</Difficulty_AllowIntroThreats_Label>
   <!-- EN: Enable the fixed intro threats that appear near game start. -->
-  <Difficulty_AllowIntroThreats_Info>TODO</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_AllowIntroThreats_Info>Aktivera de fasta introhot som dyker upp vid spelstart.</Difficulty_AllowIntroThreats_Info>
   <!-- EN: Predators hunt humans -->
   <Difficulty_PredatorsHuntHumanlikes_Label>Rovdjur jagar människor</Difficulty_PredatorsHuntHumanlikes_Label>
   <!-- EN: Allow wild predators to hunt humans. -->
@@ -324,73 +324,73 @@
   <!-- EN: Extreme weather -->
   <Difficulty_AllowExtremeWeatherIncidents_Label>Extremväder</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
-  <Difficulty_AllowExtremeWeatherIncidents_Info>TODO</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Tillåt extrema väderincidenter som giftigt nedfall, vulkaniska vintrar och blixtoväder.</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <!-- EN: Economy -->
   <DifficultyEconomySection>Ekonomi</DifficultyEconomySection>
   <!-- EN: Trade price disadvantage -->
-  <Difficulty_TradePriceFactorLoss_Label>TODO</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Label>Nackdelar vid handel</Difficulty_TradePriceFactorLoss_Label>
   <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
-  <Difficulty_TradePriceFactorLoss_Info>TODO</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_TradePriceFactorLoss_Info>Vid handel höjs inköppriserna med detta belopp medans försäljningspriserna sänks med detta belopp.</Difficulty_TradePriceFactorLoss_Info>
   <!-- EN: Harvest yield -->
-  <Difficulty_CropYieldFactor_Label>TODO</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Label>Skörd</Difficulty_CropYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
-  <Difficulty_CropYieldFactor_Info>TODO</Difficulty_CropYieldFactor_Info>
+  <Difficulty_CropYieldFactor_Info>Justera den mängd som växter och grödor ger vid skörd. Detta gäller alla växter och avverkning av träd.</Difficulty_CropYieldFactor_Info>
   <!-- EN: Mining yield -->
-  <Difficulty_MineYieldFactor_Label>TODO</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Label>Mängd malm</Difficulty_MineYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when mining. -->
-  <Difficulty_MineYieldFactor_Info>TODO</Difficulty_MineYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Info>Justera mängden malm och sten som produceras.</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label>TODO</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Label>Slaktkött</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
-  <Difficulty_ButcherYieldFactor_Info>TODO</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Info>Justera mängden produkter som ges vid slakt. Detta inkluderar kött, läder samt strimlandet av mekanoider.</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
   <Difficulty_ResearchSpeedFactor_Label>Forskningshastighet</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
   <Difficulty_ResearchSpeedFactor_Info>Justera hastighet för forskning.</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
-  <Difficulty_QuestRewardValueFactor_Label>Uppdrags belöningar</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Label>Uppdragsbelöningar</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_QuestRewardValueFactor_Info>TODO</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Info>Justera värdet på de belöningar som ges för uppdrag.\n\nNotera: Värdet för belöningar skalas även automatiskt för kompensation av hotskalan. Om du justerar den här inställningen lägger du till en ytterligare multiplikator.</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
-  <Difficulty_RaidLootPointsFactor_Label>TODO</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Label>Byte vid rövertåg</Difficulty_RaidLootPointsFactor_Label>
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_RaidLootPointsFactor_Info>TODO</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Info>Justera värdet för potentiellt byte som bärs vid räder av fienden\n\nNotera: Värdet för bytet skalas även automatiskt för kompensation av hotskalan. Om du justerar den här inställningen lägger du till en ytterligare multiplikator.</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
-  <Difficulty_MaintenanceCostFactor_Label>TODO</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Label>Kostnad för omladdning av vapentorn</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>TODO</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>Justera kostnad för att ladda om vapentorn.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
   <Difficulty_ScariaRotChance_Label>Förrutnelse vid scaria</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
-  <Difficulty_ScariaRotChance_Info>TODO</Difficulty_ScariaRotChance_Info>
+  <Difficulty_ScariaRotChance_Info>Sannolikheten för att ett lik omedelbart ruttnar då den dör, om varelsen är smittad med scaria.\n\nNotera: Standardinställningarna är utformade för att balansera ökningen av djurantal vid högre svårigheter, så alla spelare får samma summa kött.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
   <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Fienden dör vid knockout</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Justera den extra chans att en fiende omedelbart dör när den slås till marken. Detta påverkar chanserna att tillfångata personer och därmed populationstillväxten av kolonin.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <!-- EN: General -->
   <DifficultyGeneralSection>Generellt</DifficultyGeneralSection>
   <!-- EN: Colonist mood -->
   <Difficulty_ColonistMoodOffset_Label>Kolonisters humör</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info>TODO</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Info>En permanent förskjutning av humör gällande alla kolonister och fångar. Kolonister har en basstämmning av humör på 50%.</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
   <Difficulty_FoodPoisonChanceFactor_Label>Chans för matförgiftning</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
-  <Difficulty_FoodPoisonChanceFactor_Info>TODO</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_FoodPoisonChanceFactor_Info>Justera chansen att en person får matförgiftning genom att äta en potentiellt förgiftad måltid.</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label>TODO</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Djurs chans för hämnd</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Info>TODO</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Justera chansen att vilda djur hämnas och attakerar då de skadas</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <!-- EN: Friendly fire -->
-  <Difficulty_FriendlyFireChanceFactor_Label>TODO</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Label>Vådaskott</Difficulty_FriendlyFireChanceFactor_Label>
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
-  <Difficulty_FriendlyFireChanceFactor_Info>TODO</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Info>Justera risken för vådaskott.\n\nObs! Den här inställningen påverkar endast direkta skott som skulle träffa sitt mål. Det förhindrar inte skador från explosioner eller från skott som skulle missa sitt mål.</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
   <Difficulty_AllowInstantKillChance_Label>Kolonister dör direkt</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AllowInstantKillChance_Info>TODO</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_AllowInstantKillChance_Info>Justera chansen att en kolonist dör omedelbart på grund av en attack. Den inkommande skadan justeras så att den istället kommer att slå kolonisten till marken.\n\nDetta förhindrar bara vissa typer av omedelbar död - kolonister kan fortfarande knockas och förblöda, dö av eld, explosioner, sjukdomar osv.</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
   <Difficulty_PlayerPawnInfectionChanceFactor_Label>Chans för infektion</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
@@ -400,21 +400,21 @@
   <!-- EN: Adjust the frequency of random disease events. -->
   <Difficulty_DiseaseIntervalFactor_Inverted_Info>Justera frekvens av slumpartade sjukdommar.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
   <!-- EN: Insect spawning rate -->
-  <Difficulty_EnemyReproductionRateFactor_Label>TODO</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Label>Insekters förökning</Difficulty_EnemyReproductionRateFactor_Label>
   <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
-  <Difficulty_EnemyReproductionRateFactor_Info>TODO</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_EnemyReproductionRateFactor_Info>Justera hastigheten med vilken befintliga insekter förökar sig. Lägre värden betyder mer tid mellan dessa händelser.\n\nDetta påverkar inte om angrepp kan uppstå - bara den hastighet med vilken aktiva angrepp av insekter förökar sig.</Difficulty_EnemyReproductionRateFactor_Info>
   <!-- EN: Deep drilling infestations -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Label>TODO</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Insektsangrepp vid djupborrning</Difficulty_DeepDrillInfestationChanceFactor_Label>
   <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Info>TODO</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Justerar chansen för att djupborrning orsakar ett insektsangrepp.</Difficulty_DeepDrillInfestationChanceFactor_Info>
   <!-- EN: Map generation ancient threats -->
-  <Difficulty_PeacefulTemples_Inverted_Label>TODO</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Label>Kartors genererning av uråldriga hot.</Difficulty_PeacefulTemples_Inverted_Label>
   <!-- EN: Ancient structures may contain dangerous threats. -->
-  <Difficulty_PeacefulTemples_Inverted_Info>TODO</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_PeacefulTemples_Inverted_Info>Uråldriga byggnader kan inehålla farliga hot.</Difficulty_PeacefulTemples_Inverted_Info>
   <!-- EN: Map generation natural hives -->
-  <Difficulty_AllowCaveHives_Label>TODO</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Label>Kartors generering av naturliga insektsbon</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info>TODO</Difficulty_AllowCaveHives_Info>
+  <Difficulty_AllowCaveHives_Info>Vilande insektsbon kan skapas i naturliga grottor.\n\nDenna inställning gäller endast vid generering av kartor och påverkar inte insekter som kan dyka upp vid spelande.</Difficulty_AllowCaveHives_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>Spelarverktyg</DifficultyPlayerToolsSection>
@@ -442,9 +442,9 @@
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
   <Difficulty_AdaptationEffectFactor_Info>Anpassning innebär att berättaren gör spelet mer utmanande över tiden så länge du inte utsätts för nederlag. Detta skiljer sig från historiens effekter på välstånd och befolkning.\n\nDetta justerar effekten av detta anpassningsvärde på faktiska hot.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Wealth-independent progress mode -->
-  <Difficulty_FixedWealthMode_Label>Ekonomiskt oberoende och dess framåtskridande läge</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Label>Ekonomisk påverkan och dess framåtskridande läge</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>TODO</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>Spela med ett läge med ekonomisk påverkan.\n\nI normalt läge skalar berättaren upp efter kolonistantal, spelares rikedom och en mängd andra faktorer. Ett läge av ekonomiskt påverkan tar bort rikedomsfaktorn och ersätter den med en fast förloppskurva baserat på tid. Tiden räknas från grundandet av varje koloni.\n\nDetta rekommenderas endast för de som letar efter en skicklighetsutmaning. I detta läge kan det vara nästan omöjligt att återhämta sig från allvarliga förluster om du inte hittat en ny boplats. Det är också möjligt att komma för långt före kurvan vilket gör spelet för lätt.</Difficulty_FixedWealthMode_Info>
   <!-- EN: Years until maximum threat -->
   <Difficulty_FixedWealthTimeFactor_Label>År tills maximalt hot</Difficulty_FixedWealthTimeFactor_Label>
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->

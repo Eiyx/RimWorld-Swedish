@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: destroy apparel -->
-  <DestroyApparel.label>TODO</DestroyApparel.label>
+  <DestroyApparel.label>förstör kläder</DestroyApparel.label>
   <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyApparel.description>TODO</DestroyApparel.description>
+  <DestroyApparel.description>Använd värme och förstör oönskade kläder. Denna process är snabbare än att smälta ned dem, den fungerar även på icke smältbara vapen, men ger dig inga resurser.</DestroyApparel.description>
   <!-- EN: Destroying apparel. -->
-  <DestroyApparel.jobString>TODO</DestroyApparel.jobString>
+  <DestroyApparel.jobString>Förstör kläder</DestroyApparel.jobString>
   
   <!-- EN: destroy weapon -->
   <DestroyWeapon.label>förstör vapen</DestroyWeapon.label>
@@ -65,11 +65,11 @@
   <Make_StoneBlocksAny.jobString>Hugger ut mursten från stenblock.</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>TODO</SmeltApparel.label>
+  <SmeltApparel.label>Smält ned kläder</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
-  <SmeltApparel.description>TODO</SmeltApparel.description>
+  <SmeltApparel.description>Använd värme och starka elektromagneter för att ta isär kläder till användbara resurser.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
-  <SmeltApparel.jobString>TODO</SmeltApparel.jobString>
+  <SmeltApparel.jobString>Smälter ned kläder.</SmeltApparel.jobString>
   
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>smält vapen</SmeltWeapon.label>

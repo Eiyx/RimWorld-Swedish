@@ -8,16 +8,16 @@
   <Apparel.label>kläder</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>skydd</ApparelArmor.label>
   
   <!-- EN: noble apparel -->
-  <ApparelNoble.label>TODO</ApparelNoble.label>
+  <ApparelNoble.label>adelskläder</ApparelNoble.label>
   
   <!-- EN: utility -->
-  <ApparelUtility.label>TODO</ApparelUtility.label>
+  <ApparelUtility.label>verktyg</ApparelUtility.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>huvudbonad</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
   <Artifacts.label>artefakter</Artifacts.label>
@@ -26,22 +26,22 @@
   <BodyParts.label>kroppsdelar</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>arkotek</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bionisk</BodyPartsBionic.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>naturliga</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>protes</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
-  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  <BodyPartsSimple.label>enkel del</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ultrateknologisk</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
   <Buildings.label>byggnader</Buildings.label>
@@ -116,7 +116,7 @@
   <Headgear.label>huvudbonader</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  <HeadgearNoble.label>huvudbonad</HeadgearNoble.label>
   
   <!-- EN: items -->
   <Items.label>föremål</Items.label>
@@ -137,13 +137,13 @@
   <MortarShells.label>pansarskott</MortarShells.label>
   
   <!-- EN: neurotrainers -->
-  <Neurotrainers.label>TODO</Neurotrainers.label>
+  <Neurotrainers.label>neurotränare</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>TODO</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label>
   
   <!-- EN: skilltrainers -->
-  <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>färdighetstranare</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>vegetarisk</PlantFoodRaw.label>
@@ -164,7 +164,7 @@
   <StoneChunks.label>stenbitar</StoneChunks.label>
   
   <!-- EN: techprints -->
-  <Techprints.label>TODO</Techprints.label>
+  <Techprints.label>teknisk ritning</Techprints.label>
   
   <!-- EN: textiles -->
   <Textiles.label>textiler</Textiles.label>
@@ -179,7 +179,7 @@
   <WeaponsMelee.label>närstridsvapen</WeaponsMelee.label>
   
   <!-- EN: persona weapons -->
-  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>personlighetsvapen</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>avståndsvapen</WeaponsRanged.label>
