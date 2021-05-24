@@ -117,9 +117,9 @@
   <TableMachining.description>En arbetsstation för montering och demontering av maskiner såsom vapen eller mekanoidkroppar.</TableMachining.description>
   
   <!-- EN: art bench -->
-  <TableSculpting.label>TODO </TableSculpting.label>
+  <TableSculpting.label>konstbänk</TableSculpting.label>
   <!-- EN: A workbench equipped for creating art. -->
-  <TableSculpting.description>En arbetsbänk utrustad för att konstnärligt TODO .</TableSculpting.description>
+  <TableSculpting.description>En arbetsbänk utrustad för att konstnärligt projekt.</TableSculpting.description>
   
   <!-- EN: stonecutter's table -->
   <TableStonecutter.label>stenhuggarbänk</TableStonecutter.label>

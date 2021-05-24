@@ -7,9 +7,9 @@
   <Autodoor.description>Delar rum. Automatisk dörröppning tillåter personer att gå genom dörren utan att sakta ner.</Autodoor.description>
   
   <!-- EN: column -->
-  <Column.label>TODO</Column.label>
+  <Column.label>Kollon</Column.label>
   <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
-  <Column.description>TODO</Column.description>
+  <Column.description>En kolonn som kan hålla uppe ett tak. blockerar varken syn eller rörelse och ser ganska trevlig ut.</Column.description>
   
   <!-- EN: door -->
   <Door.label>dörr</Door.label>

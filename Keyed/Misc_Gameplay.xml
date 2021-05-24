@@ -1279,7 +1279,7 @@
   <!-- EN: you will be taken to the stars -->
   <Reward_PassageOffworld>du kommer tas till stjärnorna</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
-  <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
+  <Reward_PassageOffworld_Label>Passage till rymden</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
   <Reward_CampLoot>do kan plundra allt från lägret</Reward_CampLoot>
   <!-- EN: Camp loot -->
@@ -1289,9 +1289,9 @@
   <!-- EN: Visitors' help -->
   <Reward_VisitorsHelp_Label>Besökares hjälp</Reward_VisitorsHelp_Label>
   <!-- EN: New psylink level -->
-  <Reward_BestowingCeremony_Label>Ny TODO nivå</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony_Label>Ny psykisk nivå</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
-  <Reward_BestowingCeremony>{PAWNNAME} får TODO</Reward_BestowingCeremony>
+  <Reward_BestowingCeremony>{PAWNNAME} får psykisk kraft</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
   <Reward_ShuttleLoot_Label>Byte från skytteln</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
