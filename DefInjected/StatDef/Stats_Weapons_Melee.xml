@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: detection chance -->
-  <Bladelink_DetectionChance.label>TODO</Bladelink_DetectionChance.label>
+  <Bladelink_DetectionChance.label>upptäcktschans</Bladelink_DetectionChance.label>
   <!-- EN: The likelihood of the bladelink implant being detected each time it is used to attack in combat.\n\nSome factions try to enforce laws restricting the use of the bladelink to those holding specific titles. Using the bladelink emits a psychic signature which has a chance of being detected at a distance. If it is used illegally and detected, there will be diplomatic consequences. -->
   <Bladelink_DetectionChance.description>TODO</Bladelink_DetectionChance.description>
   

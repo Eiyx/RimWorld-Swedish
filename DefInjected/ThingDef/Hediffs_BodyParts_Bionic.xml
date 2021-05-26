@@ -37,11 +37,11 @@
   <BionicStomach.description>En avancerad och konstgjord magsäck. En uppsättning sensorer och kemiska synteser smälter effektivt nästan alla livsmedel. Ett integrerat gitter-dammläkningssystem reparerar automatiskt alla skador som orsakas av de kraftfulla syrorna. Den är bättre än en biologisk mage, på nästan alla sätt.</BionicStomach.description>
   
   <!-- EN: death acidifier -->
-  <DeathAcidifier.label>TODO</DeathAcidifier.label>
+  <DeathAcidifier.label>utrustningsförstörare</DeathAcidifier.label>
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
-  <DeathAcidifier.description>TODO</DeathAcidifier.description>
+  <DeathAcidifier.description>Ett bröstimplantat för att förhindra fiendens användning av beslagtagen utrustning. Efter användarens död släpper den ut kraftfulla kemikalier som löser upp utrustning i kontakt med användarens kropp. Skadar inte andra.</DeathAcidifier.description>
   
   <!-- EN: Mote -->
-  <Mote_AcidCloud.label>TODO</Mote_AcidCloud.label>
+  <Mote_AcidCloud.label>Mote</Mote_AcidCloud.label>
   
 </LanguageData>

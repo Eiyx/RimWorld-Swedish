@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: persona core -->
-  <AIPersonaCore.label>TODO -personkärna</AIPersonaCore.label>
+  <AIPersonaCore.label>person-kärna</AIPersonaCore.label>
   <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
   <AIPersonaCore.description>En hyperavancerad datorkärna som innehåller en övermänsklig artificiell intelligens. I dess isolerade tillstånd är kärnan inaktiv. Installerad i en ordentlig stödstruktur däremot, kan den bli ett sinne med skrämmande kraft.</AIPersonaCore.description>
   

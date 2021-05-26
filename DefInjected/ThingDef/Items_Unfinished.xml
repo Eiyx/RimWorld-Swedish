@@ -7,61 +7,61 @@
   <!-- EN: unfinished apparel -->
   <UnfinishedApparel.label>halvfärdiga kläder</UnfinishedApparel.label>
   <!-- EN: An unfinished piece of an apparel. -->
-  <UnfinishedApparel.description>TODO</UnfinishedApparel.description>
+  <UnfinishedApparel.description>Ett halvfärdigt klädesplagg<./UnfinishedApparel.description>
   
   <!-- EN: unfinished simple armor -->
   <UnfinishedArmor.label>halvfärdig rustning</UnfinishedArmor.label>
   <!-- EN: An unfinished piece of simple armor. -->
-  <UnfinishedArmor.description>TODO</UnfinishedArmor.description>
+  <UnfinishedArmor.description>En halvfärdig rustning.</UnfinishedArmor.description>
   
   <!-- EN: unfinished belt -->
   <UnfinishedBelt.label>halvfärdigt bälte</UnfinishedBelt.label>
   <!-- EN: An unfinished piece of a belt. -->
-  <UnfinishedBelt.description>TODO</UnfinishedBelt.description>
+  <UnfinishedBelt.description>Ett halvfärdigt bälte.</UnfinishedBelt.description>
   
   <!-- EN: unfinished component -->
   <UnfinishedComponent.label>halvfärdig komponent</UnfinishedComponent.label>
   <!-- EN: An unfinished component. -->
-  <UnfinishedComponent.description>TODO</UnfinishedComponent.description>
+  <UnfinishedComponent.description>En halvfärdig komponent.</UnfinishedComponent.description>
   
   <!-- EN: unfinished gun -->
   <UnfinishedGun.label>halvfärdig pistol</UnfinishedGun.label>
   <!-- EN: An unfinished gun of some kind. -->
-  <UnfinishedGun.description>TODO</UnfinishedGun.description>
+  <UnfinishedGun.description>Ett halvfärdigt vapen av något slag.</UnfinishedGun.description>
   
   <!-- EN: unfinished bionic -->
-  <UnfinishedHealthItemBionic.label>TODO</UnfinishedHealthItemBionic.label>
+  <UnfinishedHealthItemBionic.label>halvfärdig bionisk del</UnfinishedHealthItemBionic.label>
   <!-- EN: An unfinished bionic. -->
-  <UnfinishedHealthItemBionic.description>TODO</UnfinishedHealthItemBionic.description>
+  <UnfinishedHealthItemBionic.description>En halvfärdig bionisk del.</UnfinishedHealthItemBionic.description>
   
   <!-- EN: unfinished prosthetic -->
-  <UnfinishedHealthItemProsthetic.label>TODO</UnfinishedHealthItemProsthetic.label>
+  <UnfinishedHealthItemProsthetic.label>halvfärdig protes</UnfinishedHealthItemProsthetic.label>
   <!-- EN: An unfinished prosthetic. -->
-  <UnfinishedHealthItemProsthetic.description>TODO</UnfinishedHealthItemProsthetic.description>
+  <UnfinishedHealthItemProsthetic.description>En halvfärdig protes</UnfinishedHealthItemProsthetic.description>
   
   <!-- EN: unfinished metal armor -->
-  <UnfinishedMetallicTechArmor.label>halvfärdig rustning</UnfinishedMetallicTechArmor.label>
+  <UnfinishedMetallicTechArmor.label>halvfärdig metallrustning</UnfinishedMetallicTechArmor.label>
   <!-- EN: An unfinished piece of metal armor. -->
-  <UnfinishedMetallicTechArmor.description>TODO</UnfinishedMetallicTechArmor.description>
+  <UnfinishedMetallicTechArmor.description>En halvfärdig metallrustning</UnfinishedMetallicTechArmor.description>
   
   <!-- EN: unfinished pack -->
-  <UnfinishedPack.label>TODO</UnfinishedPack.label>
+  <UnfinishedPack.label>halvfärdigt TODO</UnfinishedPack.label>
   <!-- EN: An unfinished piece of a pack. -->
-  <UnfinishedPack.description>TODO</UnfinishedPack.description>
+  <UnfinishedPack.description>En halvfärdig del av ett TODO.</UnfinishedPack.description>
   
   <!-- EN: unfinished sculpture -->
   <UnfinishedSculpture.label>halvfärdig skulptur</UnfinishedSculpture.label>
   <!-- EN: An unfinished sculpture. -->
-  <UnfinishedSculpture.description>TODO</UnfinishedSculpture.description>
+  <UnfinishedSculpture.description>En halvfärdig skulptur</UnfinishedSculpture.description>
   
   <!-- EN: unfinished advanced armor -->
-  <UnfinishedTechArmor.label>halvfärdig rustning</UnfinishedTechArmor.label>
+  <UnfinishedTechArmor.label>halvfärdig avancerad rustning</UnfinishedTechArmor.label>
   <!-- EN: An unfinished piece of high-tech armor. -->
-  <UnfinishedTechArmor.description>TODO</UnfinishedTechArmor.description>
+  <UnfinishedTechArmor.description>En halvfärdig del av en avancerad rustning.</UnfinishedTechArmor.description>
   
   <!-- EN: unfinished weapon -->
   <UnfinishedWeapon.label>halvfärdigt vapen</UnfinishedWeapon.label>
   <!-- EN: An unfinished weapon. -->
-  <UnfinishedWeapon.description>TODO</UnfinishedWeapon.description>
+  <UnfinishedWeapon.description>Ett halvfärdigt vapen.</UnfinishedWeapon.description>
   
 </LanguageData>

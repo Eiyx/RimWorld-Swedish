@@ -21,7 +21,7 @@
   <!-- EN: Lost Tribe -->
   <LostTribe.scenario.name>Den Förlorade Stammen</LostTribe.scenario.name>
   <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
-  <LostTribe.scenario.parts.GameStartDialog.text>TODO Gudarna var väldigt arga. Blodmaskierna kom på natten. De svepte genom byn, skar och brände ert folk med deras klingor och djävulseld.\n\nEndast några få av er lyckades fly. Nu, efter en uppslitande resa till fots utan några vänner att vända sig till, måste ni bygga ett nytt hem i vildmarken, precis som era förfäder gjorde.</LostTribe.scenario.parts.GameStartDialog.text>
+  <LostTribe.scenario.parts.GameStartDialog.text>Gudarna var väldigt arga. Blodmaskierna kom om natten. De drog genom din by, lemlästade och brände ditt folk med sina klingor och djävulseld.\n\nEndast några få av er lyckades fly.\n\nNu, efter en fruktansvärd resa till fots utan några vänner att vända sig till, måste ni bygga ett nytt hem i vildmarken - precis som era förfäder gjorde.</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>Fem vilse stammmedlemar försöker att bygga ett nytt hem. Svårt.</LostTribe.scenario.summary>
   
@@ -52,14 +52,14 @@
   <TheRichExplorer.scenario.summary>En rik utforskare ute efter att uppleva universum. Extra svårt.</TheRichExplorer.scenario.summary>
   
   <!-- EN: tutorial -->
-  <Tutorial.label>TODO</Tutorial.label>
+  <Tutorial.label>tutorial</Tutorial.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.description>TODO</Tutorial.description>
+  <Tutorial.description>Ni tre vaknar i era kryptosömnkapslar till ljudet av sirener och söndersliten metall. Ni kommer knappt till flyktkapslarna innan skeppet slits itu. En tid senare landar du på denna okända rimvärld.</Tutorial.description>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.scenario.description>TODO</Tutorial.scenario.description>
+  <Tutorial.scenario.description>Ni tre vaknar i era kryptosömnkapslar till ljudet av sirener och söndersliten metall. Ni kommer knappt till flyktkapslarna innan skeppet slits itu. En tid senare landar du på denna okända rimvärld.</Tutorial.scenario.description>
   <!-- EN: tutorial -->
-  <Tutorial.scenario.name>TODO</Tutorial.scenario.name>
+  <Tutorial.scenario.name>tutorial</Tutorial.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
-  <Tutorial.scenario.summary>TODO</Tutorial.scenario.summary>
+  <Tutorial.scenario.summary>Tre strandade överlevare - Den klassiska upplevelsen av RimWorld</Tutorial.scenario.summary>
   
 </LanguageData>

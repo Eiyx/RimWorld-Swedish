@@ -36,12 +36,12 @@
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>markpenetrerande skanner</GroundPenetratingScanner.label>
   <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
-  <GroundPenetratingScanner.description>TODO En nedåtvänd radar, kombinerat med sonar- och magnetiska- kameror kan du upptäcka (men inte identifiera) mineraler begravd djupt under ytan. Kräver en enorm mängd el.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>En sensorenhet som används av forskare för att söka efter underjordiska resurser. Chansen att hitta en resurs beror på operatörens forskningsförmåga. Det förbrukar mycket el. Om du hittar en underjordisk resurs måste du använda djupborrar för att extrahera den. Fungerar inte under tak.</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>långdistans mineralscanner</LongRangeMineralScanner.label>
   <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
-  <LongRangeMineralScanner.description>TODO Kan användas av forskare för att upptäcka en specifik mineral över planeten. Tiden det tar för att upptäcka mineralen är lite slumpvis, och beror även på forskarens färdighet.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>En lateral sökande sensorenhet som används av forskare för att upptäcka en viss typ av mineral över hela planeten. Chansen att hitta en resurs beror på operatörens forskningsförmåga. Denna sensor kan ställas in för att söka efter en specifik resurstyp. Den förbrukar mycket el. Om du hittar en resurs måste du resa dit för att samla in den.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
   <MarriageSpot.label>bröllopsplats</MarriageSpot.label>
@@ -79,14 +79,14 @@
   <Sarcophagus.description>Ett ornamenterat gravmonument för att hedra den döde.</Sarcophagus.description>
   
   <!-- EN: grand stele -->
-  <SteleGrand.label>TODO</SteleGrand.label>
+  <SteleGrand.label>gigantisk minnessten</SteleGrand.label>
   <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
-  <SteleGrand.description>TODO</SteleGrand.description>
+  <SteleGrand.description>En tornhög sten med omfattande gravyrer på sidorna. Minnesstenar har använts sedan urminnes tider till minne av personer, strider och andra viktiga händelser.</SteleGrand.description>
   
   <!-- EN: large stele -->
-  <SteleLarge.label>TODO</SteleLarge.label>
+  <SteleLarge.label>stor minnessten</SteleLarge.label>
   <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
-  <SteleLarge.description>TODO</SteleLarge.description>
+  <SteleLarge.description>En lång och tjock sten med ristningar på sidorna. Minnesstenar har använts sedan urminnes tider till minne av personer, strider och andra viktiga händelser.</SteleLarge.description>
   
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>verktygsskåp</ToolCabinet.label>

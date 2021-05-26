@@ -2,52 +2,52 @@
 <LanguageData>
   
   <!-- EN: casting time -->
-  <Ability_CastingTime.label>TODO</Ability_CastingTime.label>
+  <Ability_CastingTime.label>gjutningstid</Ability_CastingTime.label>
   <!-- EN: How long it takes to perform this ability. -->
-  <Ability_CastingTime.description>TODO</Ability_CastingTime.description>
+  <Ability_CastingTime.description>Hur lång tid det tar att utföra denna förmåga</Ability_CastingTime.description>
   <!-- EN: {0} s -->
-  <Ability_CastingTime.formatString>TODO</Ability_CastingTime.formatString>
+  <Ability_CastingTime.formatString>{0} s</Ability_CastingTime.formatString>
   
   <!-- EN: detection chance -->
-  <Ability_DetectChancePerEntropy.label>TODO</Ability_DetectChancePerEntropy.label>
+  <Ability_DetectChancePerEntropy.label>upptäcktschans</Ability_DetectChancePerEntropy.label>
   <!-- EN: The likelihood of this psychic power being detected when it is used.\n\nSome factions try to enforce laws which restrict some powers to those holding specific titles. When you use a power, there is a chance that the psychic signature will be detected at a distance, which leads to diplomatic consequences. -->
-  <Ability_DetectChancePerEntropy.description>TODO</Ability_DetectChancePerEntropy.description>
+  <Ability_DetectChancePerEntropy.description>Sannolikheten för att denna psykiska kraft upptäcks när den används.\n\nVissa fraktioner försöker driva igenom lagar som begränsar vissa befogenheter för de som innehar specifika titlar. När du använder en kraft finns det en chans att den psykiska signaturen kommer att upptäckas på avstånd, vilket leder till diplomatiska konsekvenser.</Ability_DetectChancePerEntropy.description>
   
   <!-- EN: duration -->
-  <Ability_Duration.label>TODO</Ability_Duration.label>
+  <Ability_Duration.label>varaktighet</Ability_Duration.label>
   <!-- EN: How long the effects of this ability last. -->
-  <Ability_Duration.description>TODO</Ability_Duration.description>
+  <Ability_Duration.description>Hur länge effekterna av denna förmåga varar.</Ability_Duration.description>
   <!-- EN: {0} s -->
-  <Ability_Duration.formatString>TODO</Ability_Duration.formatString>
+  <Ability_Duration.formatString>{0} s</Ability_Duration.formatString>
   
   <!-- EN: effect radius -->
-  <Ability_EffectRadius.label>TODO</Ability_EffectRadius.label>
+  <Ability_EffectRadius.label>effektens radie</Ability_EffectRadius.label>
   <!-- EN: The radius of the area of effect of this ability. -->
-  <Ability_EffectRadius.description>TODO</Ability_EffectRadius.description>
+  <Ability_EffectRadius.description>Radien för området som denna effekthar för denna förmåga.</Ability_EffectRadius.description>
   
   <!-- EN: neural heat gain -->
-  <Ability_EntropyGain.label>TODO</Ability_EntropyGain.label>
+  <Ability_EntropyGain.label>neural hetta</Ability_EntropyGain.label>
   <!-- EN: How much neural heat will be added as a result of performing this ability. -->
-  <Ability_EntropyGain.description>TODO</Ability_EntropyGain.description>
+  <Ability_EntropyGain.description>Hur mycket neural hetta som skapas, av att utföra denna förmåga.</Ability_EntropyGain.description>
   
   <!-- EN: goodwill impact -->
-  <Ability_GoodwillImpact.label>TODO</Ability_GoodwillImpact.label>
+  <Ability_GoodwillImpact.label>välviljas påverkan</Ability_GoodwillImpact.label>
   <!-- EN: How casting this ability on someone will impact relations with their faction. -->
-  <Ability_GoodwillImpact.description>TODO</Ability_GoodwillImpact.description>
+  <Ability_GoodwillImpact.description>Hur denna förmåga påverkar relationerna med någon av deras fraktion.</Ability_GoodwillImpact.description>
   
   <!-- EN: psyfocus cost -->
-  <Ability_PsyfocusCost.label>TODO</Ability_PsyfocusCost.label>
+  <Ability_PsyfocusCost.label>psyfokus kostnad</Ability_PsyfocusCost.label>
   <!-- EN: How much psyfocus must be spent to perform this ability. -->
-  <Ability_PsyfocusCost.description>TODO</Ability_PsyfocusCost.description>
+  <Ability_PsyfocusCost.description>Hur mycket psyfokus du behöver spendera för </Ability_PsyfocusCost.description>
   
   <!-- EN: range -->
-  <Ability_Range.label>TODO</Ability_Range.label>
+  <Ability_Range.label>räckvidd</Ability_Range.label>
   <!-- EN: The maximum distance to a target of this ability, or to the center of the target location. -->
-  <Ability_Range.description>TODO</Ability_Range.description>
+  <Ability_Range.description>Det maximala avståndet till ett mål eller plats för denna förmåga.</Ability_Range.description>
   
   <!-- EN: psylink level -->
-  <Ability_RequiredPsylink.label>TODO</Ability_RequiredPsylink.label>
+  <Ability_RequiredPsylink.label>psy-länks nivå</Ability_RequiredPsylink.label>
   <!-- EN: The minimum psylink level required to use this ability. -->
-  <Ability_RequiredPsylink.description>TODO</Ability_RequiredPsylink.description>
+  <Ability_RequiredPsylink.description>Den maximala psy-länks nivå som krävs för att använda denna förmåga.</Ability_RequiredPsylink.description>
   
 </LanguageData>

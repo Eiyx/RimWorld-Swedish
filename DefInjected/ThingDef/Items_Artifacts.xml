@@ -4,7 +4,7 @@
   <!-- EN: psychic animal pulser -->
   <PsychicAnimalPulser.label>psykisk djurpulsar</PsychicAnimalPulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
-  <PsychicAnimalPulser.description>En psykisk verkställare som använder breda vågor, kan användas en gång. Den psykiska pulseringen fyller lägre utvecklade medvetanden med hemska bilder och driver alla djur i området till människojagande raseri. TODO </PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.description>En psykisk effektor med breda vågor som kan användas en gång. Pulsen fyller de lägre utvecklade varelser med hemska bilder och driver alla djur i området till människojagande raseri. Djur som för tillfället är tama påverkas inte.</PsychicAnimalPulser.description>
   <!-- EN: Activate -->
   <PsychicAnimalPulser.comps.CompUsable.useLabel>Aktivera</PsychicAnimalPulser.comps.CompUsable.useLabel>
   

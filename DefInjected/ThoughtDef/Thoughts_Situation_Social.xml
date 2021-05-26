@@ -81,9 +81,9 @@
   <OpinionOfMyLover.stages.opinion_of_my.description>Vara med min älskare gör att jag känner mig på detta sätt.</OpinionOfMyLover.stages.opinion_of_my.description>
   
   <!-- EN: physically appealing -->
-  <Pretty.stages.physically_appealing.label>TODO</Pretty.stages.physically_appealing.label>
+  <Pretty.stages.physically_appealing.label>attraktiv</Pretty.stages.physically_appealing.label>
   <!-- EN: physically stunning -->
-  <Pretty.stages.physically_stunning.label>TODO</Pretty.stages.physically_stunning.label>
+  <Pretty.stages.physically_stunning.label>otroligt attraktiv</Pretty.stages.physically_stunning.label>
   
   <!-- EN: sold prisoner to slavery -->
   <SoldPrisoner.stages.sold_prisoner_to_slavery.label>sålde fånge till slaveri</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
@@ -106,9 +106,9 @@
   <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
   
   <!-- EN: physically unsightly -->
-  <Ugly.stages.physically_unsightly.label>TODO</Ugly.stages.physically_unsightly.label>
+  <Ugly.stages.physically_unsightly.label>ful</Ugly.stages.physically_unsightly.label>
   <!-- EN: physically hideous -->
-  <Ugly.stages.physically_hideous.label>TODO</Ugly.stages.physically_hideous.label>
+  <Ugly.stages.physically_hideous.label>motbjudande</Ugly.stages.physically_hideous.label>
   
   <!-- EN: want to sleep with {0} -->
   <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>vill sova med {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>

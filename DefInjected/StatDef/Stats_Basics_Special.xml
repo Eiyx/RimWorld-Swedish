@@ -6,7 +6,7 @@
   <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
   <ConstructionSpeedFactor.description>I vilken hastighet som byggnader av detta konstrueras multipliceras med detta värde.\n\nVissa material som exempelvis sten är långsamma att bygga från, trä är däremot snabbt.</ConstructionSpeedFactor.description>
   <!-- EN: construction speed (material factor) -->
-  <ConstructionSpeedFactor.labelForFullStatList>TODO</ConstructionSpeedFactor.labelForFullStatList>
+  <ConstructionSpeedFactor.labelForFullStatList>konstruktionshastighet (materialets faktor)</ConstructionSpeedFactor.labelForFullStatList>
   
   <!-- EN: medical potency -->
   <MedicalPotency.label>medicinsk potential</MedicalPotency.label>
@@ -19,17 +19,17 @@
   <MedicalQualityMax.description>Den maximala kvaliteten på medicinsk behandling som kan uppnås när du använder detta.\n\nBättre behandlingskvalitet gör det möjligt för skickliga läkare att bättre och mer pålitligt behandla skador.</MedicalQualityMax.description>
   
   <!-- EN: meditation psyfocus bonus -->
-  <MeditationFocusStrength.label>TODO</MeditationFocusStrength.label>
+  <MeditationFocusStrength.label>meditations bonus för psyfokus</MeditationFocusStrength.label>
   <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
-  <MeditationFocusStrength.description>TODO</MeditationFocusStrength.description>
+  <MeditationFocusStrength.description>Mängden extra psyfokus som någon får genom att fokusera på det här objektet under meditation, förutom sin egna bashastighet för meditation.\n\nFör vissa objekt kan detta värde förändras beroende på omgivningen och personen som utför meditationen.</MeditationFocusStrength.description>
   <!-- EN: {0} / day -->
-  <MeditationFocusStrength.formatString>TODO</MeditationFocusStrength.formatString>
+  <MeditationFocusStrength.formatString>{0} / dag</MeditationFocusStrength.formatString>
   <!-- EN: {0} / day -->
-  <MeditationFocusStrength.formatStringUnfinalized>TODO</MeditationFocusStrength.formatStringUnfinalized>
+  <MeditationFocusStrength.formatStringUnfinalized>{0} / dag</MeditationFocusStrength.formatStringUnfinalized>
   
   <!-- EN: psychic sensitivity offset -->
-  <PsychicSensitivityOffset.label>TODO</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.label>balansering av psykisk känslighet</PsychicSensitivityOffset.label>
   <!-- EN: An offset applied to the user's psychic sensitivity. -->
-  <PsychicSensitivityOffset.description>TODO</PsychicSensitivityOffset.description>
+  <PsychicSensitivityOffset.description>En känslighet som läggs till användarens psykiska känslighet.</PsychicSensitivityOffset.description>
   
 </LanguageData>

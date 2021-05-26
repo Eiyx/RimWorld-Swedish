@@ -13,15 +13,15 @@
   <Alpaca.tools.head.label>huvud</Alpaca.tools.head.label>
   
   <!-- EN: bison -->
-  <Bison.label>TODO</Bison.label>
+  <Bison.label>bison</Bison.label>
   <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
-  <Bison.description>TODO</Bison.description>
+  <Bison.description>Ett stort växtätande däggdjur som lever i det vilda på savannen. Tämjda är de ganska fogliga, men när de blir förargade - snabba och farliga.</Bison.description>
   <!-- EN: head -->
-  <Bison.tools.head.label>TODO</Bison.tools.head.label>
+  <Bison.tools.head.label>huvud</Bison.tools.head.label>
   <!-- EN: left hoof -->
-  <Bison.tools.left_hoof.label>TODO</Bison.tools.left_hoof.label>
+  <Bison.tools.left_hoof.label>vänster hov</Bison.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Bison.tools.right_hoof.label>TODO</Bison.tools.right_hoof.label>
+  <Bison.tools.right_hoof.label>höger hov</Bison.tools.right_hoof.label>
   
   <!-- EN: chicken -->
   <Chicken.label>höns</Chicken.label>
@@ -48,68 +48,68 @@
   <Cow.tools.right_hoof.label>höger klöv</Cow.tools.right_hoof.label>
   
   <!-- EN: donkey -->
-  <Donkey.label>TODO</Donkey.label>
+  <Donkey.label>åsna</Donkey.label>
   <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing. -->
-  <Donkey.description>TODO</Donkey.description>
+  <Donkey.description>En liten släkting till hästen, tämjdes för länge sedan för gårdsarbete. Dess fåniga läte är  irriterande och samtidigt förtjusande.</Donkey.description>
   <!-- EN: head -->
-  <Donkey.tools.head.label>TODO</Donkey.tools.head.label>
+  <Donkey.tools.head.label>huvud</Donkey.tools.head.label>
   <!-- EN: left hoof -->
-  <Donkey.tools.left_hoof.label>TODO</Donkey.tools.left_hoof.label>
+  <Donkey.tools.left_hoof.label>vänster hov</Donkey.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Donkey.tools.right_hoof.label>TODO</Donkey.tools.right_hoof.label>
+  <Donkey.tools.right_hoof.label>höger hov</Donkey.tools.right_hoof.label>
   
   <!-- EN: duck -->
-  <Duck.label>TODO</Duck.label>
+  <Duck.label>anka</Duck.label>
   <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
-  <Duck.description>TODO</Duck.description>
+  <Duck.description>En mycket vanlig gårdsfågel som också förekommer i det vilda, ankan föds upp för sitt läckra kött. Den växer snabbt men lägger ägg ganska sällan.</Duck.description>
   <!-- EN: claws -->
-  <Duck.tools.claws.label>TODO</Duck.tools.claws.label>
+  <Duck.tools.claws.label>klor</Duck.tools.claws.label>
   <!-- EN: beak -->
-  <Duck.tools.beak.label>TODO</Duck.tools.beak.label>
+  <Duck.tools.beak.label>näbb</Duck.tools.beak.label>
   <!-- EN: head -->
-  <Duck.tools.head.label>TODO</Duck.tools.head.label>
+  <Duck.tools.head.label>huvud</Duck.tools.head.label>
   
   <!-- EN: goat -->
-  <Goat.label>TODO</Goat.label>
+  <Goat.label>get</Goat.label>
   <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
-  <Goat.description>TODO</Goat.description>
+  <Goat.description>Getter är nyfiken och bland de vänligaste av de tämjda varelserna som föds upp av mänskligheten.</Goat.description>
   <!-- EN: head -->
-  <Goat.tools.head.label>TODO</Goat.tools.head.label>
+  <Goat.tools.head.label>huvud</Goat.tools.head.label>
   
   <!-- EN: goose -->
-  <Goose.label>TODO</Goose.label>
+  <Goose.label>gås</Goose.label>
   <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
-  <Goose.description>TODO</Goose.description>
+  <Goose.description>En tamfågel som föds upp av människor för sina ägg och dess kött. Lägger ägg mycket ofta, men de tar lång tid för dem att kläckas.</Goose.description>
   <!-- EN: claws -->
-  <Goose.tools.claws.label>TODO</Goose.tools.claws.label>
+  <Goose.tools.claws.label>klor</Goose.tools.claws.label>
   <!-- EN: beak -->
-  <Goose.tools.beak.label>TODO</Goose.tools.beak.label>
+  <Goose.tools.beak.label>näbb</Goose.tools.beak.label>
   <!-- EN: head -->
-  <Goose.tools.head.label>TODO</Goose.tools.head.label>
+  <Goose.tools.head.label>huvud</Goose.tools.head.label>
   
   <!-- EN: guinea pig -->
-  <GuineaPig.label>TODO</GuineaPig.label>
+  <GuineaPig.label>marsvin</GuineaPig.label>
   <!-- EN: Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner. -->
-  <GuineaPig.description>TODO</GuineaPig.description>
+  <GuineaPig.description>Varken en gris eller en varelse från Mars, dessa små gnagare föds upp som husdjur, och en utsökt middag.</GuineaPig.description>
   <!-- EN: left claw -->
-  <GuineaPig.tools.left_claw.label>TODO</GuineaPig.tools.left_claw.label>
+  <GuineaPig.tools.left_claw.label>vänster klo</GuineaPig.tools.left_claw.label>
   <!-- EN: right claw -->
-  <GuineaPig.tools.right_claw.label>TODO</GuineaPig.tools.right_claw.label>
+  <GuineaPig.tools.right_claw.label>höger klo</GuineaPig.tools.right_claw.label>
   <!-- EN: head -->
-  <GuineaPig.tools.head.label>TODO</GuineaPig.tools.head.label>
+  <GuineaPig.tools.head.label>huvud</GuineaPig.tools.head.label>
   
   <!-- EN: horse -->
-  <Horse.label>TODO</Horse.label>
+  <Horse.label>häst</Horse.label>
   <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times. -->
-  <Horse.description>TODO</Horse.description>
+  <Horse.description>Ett stort däggdjur med hovar och kort päls, lång man och lång svans. Hästar har tämjts sedan urminnes tider.</Horse.description>
   <!-- EN: horse meat -->
-  <Horse.race.meatLabel>TODO</Horse.race.meatLabel>
+  <Horse.race.meatLabel>hästkött</Horse.race.meatLabel>
   <!-- EN: head -->
-  <Horse.tools.head.label>TODO</Horse.tools.head.label>
+  <Horse.tools.head.label>huvud</Horse.tools.head.label>
   <!-- EN: left hoof -->
-  <Horse.tools.left_hoof.label>TODO</Horse.tools.left_hoof.label>
+  <Horse.tools.left_hoof.label>vänster hov</Horse.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Horse.tools.right_hoof.label>TODO</Horse.tools.right_hoof.label>
+  <Horse.tools.right_hoof.label>höger hov</Horse.tools.right_hoof.label>
   
   <!-- EN: pig -->
   <Pig.label>gris</Pig.label>
@@ -121,27 +121,27 @@
   <Pig.tools.head.label>huvud</Pig.tools.head.label>
   
   <!-- EN: sheep -->
-  <Sheep.label>TODO</Sheep.label>
+  <Sheep.label>får</Sheep.label>
   <!-- EN: Sheep husbandry is practised throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
-  <Sheep.description>TODO</Sheep.description>
+  <Sheep.description>Fårhållning bedrivs i majoriteten av de bebodda världarna, men relativt nyligen har den introducerats till rimvärldarna. Inhemska får är relativt små växtätare, vanligtvis med gulaktig ull och medelstora horn.</Sheep.description>
   <!-- EN: head -->
-  <Sheep.tools.head.label>TODO</Sheep.tools.head.label>
+  <Sheep.tools.head.label>huvud</Sheep.tools.head.label>
   <!-- EN: left hoof -->
-  <Sheep.tools.left_hoof.label>TODO</Sheep.tools.left_hoof.label>
+  <Sheep.tools.left_hoof.label>vänster klöv</Sheep.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Sheep.tools.right_hoof.label>TODO</Sheep.tools.right_hoof.label>
+  <Sheep.tools.right_hoof.label>höger klöv</Sheep.tools.right_hoof.label>
   
   <!-- EN: yak -->
-  <Yak.label>TODO</Yak.label>
+  <Yak.label>yak</Yak.label>
   <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
-  <Yak.description>TODO</Yak.description>
+  <Yak.description>Yakar är nötkreatur med korta tjocka ben och rundade klyvda hovar som är placerade för att hjälpa dem ta sig fram i snö.</Yak.description>
   <!-- EN: yak beef -->
-  <Yak.race.meatLabel>TODO</Yak.race.meatLabel>
+  <Yak.race.meatLabel>yakbiff</Yak.race.meatLabel>
   <!-- EN: head -->
-  <Yak.tools.head.label>TODO</Yak.tools.head.label>
+  <Yak.tools.head.label>huvud</Yak.tools.head.label>
   <!-- EN: left hoof -->
-  <Yak.tools.left_hoof.label>TODO</Yak.tools.left_hoof.label>
+  <Yak.tools.left_hoof.label>vänster klöv</Yak.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Yak.tools.right_hoof.label>TODO</Yak.tools.right_hoof.label>
+  <Yak.tools.right_hoof.label>höger klöv</Yak.tools.right_hoof.label>
   
 </LanguageData>

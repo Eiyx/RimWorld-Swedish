@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: ship part (defoliator) -->
-  <DefoliatorShipPart.label>TODO</DefoliatorShipPart.label>
+  <DefoliatorShipPart.label>skeppsdel (växtförstörare)</DefoliatorShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
-  <DefoliatorShipPart.description>TODO</DefoliatorShipPart.description>
+  <DefoliatorShipPart.description>En gammal skeppsdel, bortsliten och av av okänt ursprung. Den kan vara tusentals år gammal.\n\nDen här innehåller en anordning som förintar växtlivet nära sig själv utan att direkt påverka varelser med muskelmassa. Dessa typer av vapen sprids ibland över jordbruksmarker eller skogar för att ta bort fiendens matförsörjning och gömställen, utan att förstöra territoriet permanent. De är vanligtvis förknippade med mekaniska arméer.</DefoliatorShipPart.description>
   
   <!-- EN: ship part (psychic droner) -->
-  <PsychicDronerShipPart.label>TODO</PsychicDronerShipPart.label>
+  <PsychicDronerShipPart.label>skeppsdel (psykisk)</PsychicDronerShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
-  <PsychicDronerShipPart.description>TODO</PsychicDronerShipPart.description>
+  <PsychicDronerShipPart.description>En gammal skeppsdel, bortsliten och av av okänt ursprung. Den kan vara tusentals år gammal.\n\nDen här innehåller en psykisk störningsenhet. Med oförståelig arkoteknik genererar den en psykisk signal som gör människor och djur galna inom en viss radie runt sig själv.</PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
   <ShipChunk.label>skeppsdel</ShipChunk.label>
